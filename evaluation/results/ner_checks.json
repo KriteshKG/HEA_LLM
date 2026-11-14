@@ -14,14 +14,14 @@
     "corpus_unique_abstracts": 454
   },
   "value_grounding": {
-    "alloy_records_with_identifiable_source_abstract": 96,
-    "numeric_values_checked": 235,
-    "numeric_values_found_verbatim_in_source": 219,
-    "fraction_grounded": 0.9319148936170213,
+    "alloy_records_with_identifiable_source_abstract": 94,
+    "numeric_values_checked": 231,
+    "numeric_values_found_verbatim_in_source": 213,
+    "fraction_grounded": 0.922077922077922,
     "fraction_grounded_wilson95": [
-      0.8922752968532582,
-      0.9576603927418542
+      0.8802018117266371,
+      0.9501451114760663
     ],
-    "records_fully_grounded": 0.90625
+    "records_fully_grounded": 0.8829787234042553
   }
 }

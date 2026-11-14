@@ -16,7 +16,7 @@ import pandas as pd
 
 from common import DATA, RESULTS, SEED, wilson_ci
 
-NUM = re.compile(r"\d+(?:\.\d+)?")
+NUM = re.compile(r"(?<![A-Za-z\d.])\d+(?:\.\d+)?")  # skip digits inside formulae like Ti6Al4V
 
 
 def squash(t):
@@ -67,7 +67,7 @@ def main():
             if not values:
                 continue
             matched_entries += 1
-            hits = [any(v in ab for ab in src) for v in values]
+            hits = [any(re.search(rf"(?<![\d.]){re.escape(v)}(?!\.?\d)", ab) for ab in src) for v in values]
             checked += len(hits)
             found += sum(hits)
             per_record.append(sum(hits) / len(hits))
