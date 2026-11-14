@@ -18,7 +18,7 @@ import torch
 from rouge_score import rouge_scorer
 from sacrebleu.metrics import BLEU
 
-from common import RESULTS, SEED, bootstrap_ci, exact_match, f1_score, load_split, load_squad
+from common import RESULTS, SEED, bootstrap_ci, exact_match, f1_score, load_split, load_squad, normalize_answer
 
 torch.manual_seed(SEED)
 random.seed(SEED)
@@ -143,10 +143,20 @@ def main():
     ap.add_argument("--settings", default="gold,top1,top3")
     ap.add_argument("--no_val", action="store_true", help="skip per-epoch validation (single-epoch runs)")
     ap.add_argument("--tag", default="")
+    ap.add_argument("--max_per_fact", type=int, default=0,
+                    help="keep at most N paraphrased training questions per (context, answer) fact; 0 = all")
     args = ap.parse_args()
     lr = args.lr or (3e-4 if args.model == "t5" else 2e-4)
     m = (T5 if args.model == "t5" else Phi2)(args.max_len)
     train, val, test = (examples(load_split(s)) for s in ("train", "val", "test"))
+    if args.max_per_fact:
+        seen, kept = {}, []
+        for x in random.Random(SEED).sample(train, len(train)):
+            key = (x["cid"], normalize_answer(x["answer"]))
+            seen[key] = seen.get(key, 0) + 1
+            if seen[key] <= args.max_per_fact:
+                kept.append(x)
+        train = kept
     opt = torch.optim.AdamW(m.params(), lr=lr, weight_decay=0.01)
     steps = args.epochs * math.ceil(len(train) / args.bs)
     sched = torch.optim.lr_scheduler.LambdaLR(opt, lambda s: max(0.0, 1 - s / max(steps, 1)))
@@ -177,7 +187,7 @@ def main():
         m.model.load_state_dict(best_state, strict=False)
     ctx_text = {c["cid"]: c["context"] for c in load_squad()}
     retrieved = json.load(open(RESULTS / "retrieved_contexts_hybrid.json"))["test"]
-    res = {"model": m.name, "lr": lr, "epochs": args.epochs, "batch_size": args.bs,
+    res = {"model": m.name, "lr": lr, "epochs": args.epochs, "batch_size": args.bs, "max_per_fact": args.max_per_fact,
            "train_questions": len(train), "val_questions": len(val), "selected_epoch":
            (log[-1]["epoch"] if args.no_val else max(log, key=lambda r: r["val_em"])["epoch"]) if log else 0, "training_log": log, "test": {}}
     preds_out = {}
