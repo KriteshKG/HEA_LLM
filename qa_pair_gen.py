@@ -327,10 +327,11 @@ def evaluate_qa_pairs(context_str, alloy_name, qa_pairs):
             )
 
             # Decode the evaluation response
+            generated_ids = generated_ids[:, model_inputs.input_ids.shape[1]:]  # drop the prompt, which contains "Rating: [1-10]"
             eval_response = TOKENIZER.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
             # Extract rating using regex and fallback to 1 if missing
-            rating_match = re.search(r"### Rating:\s*(\d+)", eval_response)
+            rating_match = re.search(r"(?:#+\s*)?\**Rating\**:?\**\s*\[?(\d+)", eval_response)
 
             if rating_match and rating_match.group(1).isdigit():
                 score = int(rating_match.group(1))
@@ -404,11 +405,11 @@ def filter_qa_pairs(eval_data, rating_threshold=6):
             filtered_qa_categories = {}
 
             for category, qa_list in qa_categories.items():
-                # Filter pairs with rating > threshold or == 0
+                # Keep pairs rated above the threshold
                 filtered_qa_list = [
                     {k: v for k, v in qa.items() if k != "rating"}  # Remove 'rating' key
                     for qa in qa_list
-                    if qa["rating"] > rating_threshold or qa["rating"] == 0
+                    if qa["rating"] > rating_threshold
                 ]
 
                 if filtered_qa_list:

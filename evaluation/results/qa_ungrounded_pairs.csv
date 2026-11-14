@@ -1,0 +1,91 @@
+cid,id,question,answer,category,offset_ok,verbatim_in_context,normalised_in_context,numeric_answer,answer_words
+0,0_008,What is the density of MoNbVTa0.5Cr at Room Temperature?,"9.11 g·cm−3,",Property-value-based,False,False,False,True,2
+0,0_009,Can you tell me the density value for MoNbVTa0.5Cr at Room Temperature?,"9.11 g·cm−3,",Property-value-based,False,False,False,True,2
+0,0_010,What density does MoNbVTa0.5Cr exhibit at Room Temperature?,"9.11 g·cm−3,",Property-value-based,False,False,False,True,2
+0,0_011,"For the alloy MoNbVTa0.5Cr, what is its density at Room Temperature?","9.11 g·cm−3,",Property-value-based,False,False,False,True,2
+0,0_012,Could you provide the density measurement for MoNbVTa0.5Cr at Room Temperature?,"9.11 g·cm−3,",Property-value-based,False,False,False,True,2
+0,0_024,What is the specific yield strength of MoNbVTa0.5Cr at Room Temperature?,"295.28 kPa·m3·kg−1,",Property-value-based,False,False,False,True,2
+0,0_025,Can you tell me the specific yield strength value for MoNbVTa0.5Cr at Room Temperature?,"295.28 kPa·m3·kg−1,",Property-value-based,False,False,False,True,2
+0,0_026,What specific yield strength does MoNbVTa0.5Cr exhibit at Room Temperature?,"295.28 kPa·m3·kg−1,",Property-value-based,False,False,False,True,2
+0,0_027,"For the alloy MoNbVTa0.5Cr, what is its specific yield strength at Room Temperature?","295.28 kPa·m3·kg−1,",Property-value-based,False,False,False,True,2
+0,0_028,Could you provide the specific yield strength measurement for MoNbVTa0.5Cr at Room Temperature?,"295.28 kPa·m3·kg−1,",Property-value-based,False,False,False,True,2
+1,1_000,"What is the specific yield strength of Ti40Nb15Mo30(NbC)15, at 1000 °C?","127 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_001,"Can you tell me the specific yield strength value for Ti40Nb15Mo30(NbC)15, at 1000 °C?","127 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_002,"What specific yield strength does Ti40Nb15Mo30(NbC)15, exhibit at 1000 °C?","127 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_003,"For the alloy Ti40Nb15Mo30(NbC)15,, what is its specific yield strength at 1000 °C?","127 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_004,"Could you provide the specific yield strength measurement for Ti40Nb15Mo30(NbC)15, at 1000 °C?","127 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_008,"What is the specific yield strength of Ti40Nb15Mo30(NbC)15, at 800 °C?","243 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_009,"Can you tell me the specific yield strength value for Ti40Nb15Mo30(NbC)15, at 800 °C?","243 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_010,"What specific yield strength does Ti40Nb15Mo30(NbC)15, exhibit at 800 °C?","243 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_011,"For the alloy Ti40Nb15Mo30(NbC)15,, what is its specific yield strength at 800 °C?","243 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+1,1_012,"Could you provide the specific yield strength measurement for Ti40Nb15Mo30(NbC)15, at 800 °C?","243 MPa g−1 cm3,",Property-value-based,False,False,False,True,4
+15,28_008,"What is the specific yield strength of Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?","32 MPa g−1cm3,",Property-value-based,False,False,False,True,3
+15,28_009,"Can you tell me the specific yield strength value for Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?","32 MPa g−1cm3,",Property-value-based,False,False,False,True,3
+15,28_010,"What specific yield strength does Ti42.5Zr42.5Nb10Ta5Mo5, exhibit at 1173 K?","32 MPa g−1cm3,",Property-value-based,False,False,False,True,3
+15,28_011,"For the alloy Ti42.5Zr42.5Nb10Ta5Mo5,, what is its specific yield strength at 1173 K?","32 MPa g−1cm3,",Property-value-based,False,False,False,True,3
+15,28_012,"Could you provide the specific yield strength measurement for Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?","32 MPa g−1cm3,",Property-value-based,False,False,False,True,3
+29,47_024,What is the fracture toughness of NbMoTaW at 1200 °C?,10.3 MPa√m,Property-value-based,False,False,False,True,2
+29,47_025,Can you tell me the fracture toughness value for NbMoTaW at 1200 °C?,10.3 MPa√m,Property-value-based,False,False,False,True,2
+29,47_026,What fracture toughness does NbMoTaW exhibit at 1200 °C?,10.3 MPa√m,Property-value-based,False,False,False,True,2
+29,47_027,"For the alloy NbMoTaW, what is its fracture toughness at 1200 °C?",10.3 MPa√m,Property-value-based,False,False,False,True,2
+29,47_028,Could you provide the fracture toughness measurement for NbMoTaW at 1200 °C?,10.3 MPa√m,Property-value-based,False,False,False,True,2
+33,55_024,"What is the wear resistance of (MoTaWNb)0.9Y0.1, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_025,"Can you tell me the wear resistance value for (MoTaWNb)0.9Y0.1, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_026,"What wear resistance does (MoTaWNb)0.9Y0.1, exhibit at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_027,"For the alloy (MoTaWNb)0.9Y0.1,, what is its wear resistance at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_028,"Could you provide the wear resistance measurement for (MoTaWNb)0.9Y0.1, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_032,"What is the wear resistance of (MoTaWNb)0.8Y0.2, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_033,"Can you tell me the wear resistance value for (MoTaWNb)0.8Y0.2, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_034,"What wear resistance does (MoTaWNb)0.8Y0.2, exhibit at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_035,"For the alloy (MoTaWNb)0.8Y0.2,, what is its wear resistance at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_036,"Could you provide the wear resistance measurement for (MoTaWNb)0.8Y0.2, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_040,"What is the wear resistance of (MoTaWNb)0.7Y0.3, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_041,"Can you tell me the wear resistance value for (MoTaWNb)0.7Y0.3, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_042,"What wear resistance does (MoTaWNb)0.7Y0.3, exhibit at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_043,"For the alloy (MoTaWNb)0.7Y0.3,, what is its wear resistance at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+33,55_044,"Could you provide the wear resistance measurement for (MoTaWNb)0.7Y0.3, at Room Temperature?","0.0001 mm3·N−1·m−1,",Property-value-based,False,False,False,True,2
+71,112_000,"What is the specific yield strength of Al0.3NbTi3VZr1.5, at Room Temperature?","180 MPa·g−1·cm3,",Property-value-based,False,False,False,True,2
+71,112_001,"Can you tell me the specific yield strength value for Al0.3NbTi3VZr1.5, at Room Temperature?","180 MPa·g−1·cm3,",Property-value-based,False,False,False,True,2
+71,112_002,"What specific yield strength does Al0.3NbTi3VZr1.5, exhibit at Room Temperature?","180 MPa·g−1·cm3,",Property-value-based,False,False,False,True,2
+71,112_003,"For the alloy Al0.3NbTi3VZr1.5,, what is its specific yield strength at Room Temperature?","180 MPa·g−1·cm3,",Property-value-based,False,False,False,True,2
+71,112_004,"Could you provide the specific yield strength measurement for Al0.3NbTi3VZr1.5, at Room Temperature?","180 MPa·g−1·cm3,",Property-value-based,False,False,False,True,2
+83,128_000,What is the surface roughness of HfNbTaTiZr at room temperature?,0.75 μm,Property-value-based,False,False,False,True,2
+83,128_001,Can you tell me the surface roughness value for HfNbTaTiZr at room temperature?,0.75 μm,Property-value-based,False,False,False,True,2
+83,128_002,What surface roughness does HfNbTaTiZr exhibit at room temperature?,0.75 μm,Property-value-based,False,False,False,True,2
+83,128_003,"For the alloy HfNbTaTiZr, what is its surface roughness at room temperature?",0.75 μm,Property-value-based,False,False,False,True,2
+83,128_004,Could you provide the surface roughness measurement for HfNbTaTiZr at room temperature?,0.75 μm,Property-value-based,False,False,False,True,2
+88,136_000,"What is the wear rate of W31.7Ta13.3V42.9Cr12.2, at room temperature?",8e-07 mm3/N∙m,Property-value-based,False,False,False,True,2
+88,136_001,"Can you tell me the wear rate value for W31.7Ta13.3V42.9Cr12.2, at room temperature?",8e-07 mm3/N∙m,Property-value-based,False,False,False,True,2
+88,136_002,"What wear rate does W31.7Ta13.3V42.9Cr12.2, exhibit at room temperature?",8e-07 mm3/N∙m,Property-value-based,False,False,False,True,2
+88,136_003,"For the alloy W31.7Ta13.3V42.9Cr12.2,, what is its wear rate at room temperature?",8e-07 mm3/N∙m,Property-value-based,False,False,False,True,2
+88,136_004,"Could you provide the wear rate measurement for W31.7Ta13.3V42.9Cr12.2, at room temperature?",8e-07 mm3/N∙m,Property-value-based,False,False,False,True,2
+90,139_000,"What is the unit cell parameters of Ti25Zr25V25Nb25, at room temperature?",3.27 Å,Unit-based,False,False,False,True,2
+90,139_001,"Can you tell me the unit cell parameters value for Ti25Zr25V25Nb25, at room temperature?",3.27 Å,Unit-based,False,False,False,True,2
+90,139_002,"What unit cell parameters does Ti25Zr25V25Nb25, exhibit at room temperature?",3.27 Å,Unit-based,False,False,False,True,2
+90,139_003,"For the alloy Ti25Zr25V25Nb25,, what is its unit cell parameters at room temperature?",3.27 Å,Unit-based,False,False,False,True,2
+90,139_004,"Could you provide the unit cell parameters measurement for Ti25Zr25V25Nb25, at room temperature?",3.27 Å,Unit-based,False,False,False,True,2
+90,139_008,"What is the unit cell parameters of Ti20Zr20Hf20V20Nb20, at room temperature?",3.362 Å,Unit-based,False,False,False,True,2
+90,139_009,"Can you tell me the unit cell parameters value for Ti20Zr20Hf20V20Nb20, at room temperature?",3.362 Å,Unit-based,False,False,False,True,2
+90,139_010,"What unit cell parameters does Ti20Zr20Hf20V20Nb20, exhibit at room temperature?",3.362 Å,Unit-based,False,False,False,True,2
+90,139_011,"For the alloy Ti20Zr20Hf20V20Nb20,, what is its unit cell parameters at room temperature?",3.362 Å,Unit-based,False,False,False,True,2
+90,139_012,"Could you provide the unit cell parameters measurement for Ti20Zr20Hf20V20Nb20, at room temperature?",3.362 Å,Unit-based,False,False,False,True,2
+92,144_000,"What is the friction coefficient of WMoTaNb-Y2O3, at 800 °C?",0.4 nan,Property-value-based,False,False,False,True,2
+92,144_001,"Can you tell me the friction coefficient value for WMoTaNb-Y2O3, at 800 °C?",0.4 nan,Property-value-based,False,False,False,True,2
+92,144_002,"What friction coefficient does WMoTaNb-Y2O3, exhibit at 800 °C?",0.4 nan,Property-value-based,False,False,False,True,2
+92,144_003,"For the alloy WMoTaNb-Y2O3,, what is its friction coefficient at 800 °C?",0.4 nan,Property-value-based,False,False,False,True,2
+92,144_004,"Could you provide the friction coefficient measurement for WMoTaNb-Y2O3, at 800 °C?",0.4 nan,Property-value-based,False,False,False,True,2
+93,145_024,"What is the wear rate of AlCr0.5NbTaTi3, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_025,"Can you tell me the wear rate value for AlCr0.5NbTaTi3, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_026,"What wear rate does AlCr0.5NbTaTi3, exhibit at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_027,"For the alloy AlCr0.5NbTaTi3,, what is its wear rate at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_028,"Could you provide the wear rate measurement for AlCr0.5NbTaTi3, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_032,"What is the wear rate of AlCr0.5NbTaTi4, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_033,"Can you tell me the wear rate value for AlCr0.5NbTaTi4, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_034,"What wear rate does AlCr0.5NbTaTi4, exhibit at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_035,"For the alloy AlCr0.5NbTaTi4,, what is its wear rate at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_036,"Could you provide the wear rate measurement for AlCr0.5NbTaTi4, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_040,"What is the wear rate of AlCr0.5NbTaTi3.5, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_041,"Can you tell me the wear rate value for AlCr0.5NbTaTi3.5, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_042,"What wear rate does AlCr0.5NbTaTi3.5, exhibit at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_043,"For the alloy AlCr0.5NbTaTi3.5,, what is its wear rate at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6
+93,145_044,"Could you provide the wear rate measurement for AlCr0.5NbTaTi3.5, at 800 °C?","4.40 × 10–7, mm3 N–1 m–1,",Property-value-based,False,False,False,True,6

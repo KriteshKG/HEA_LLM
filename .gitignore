@@ -1,0 +1,3 @@
+__pycache__/
+docs/*.docx
+evaluation/results/predictions_*.json

@@ -13,9 +13,11 @@ import numpy as np
 import tempfile
 import uuid
 import subprocess
+import sys
 from pathlib import Path
 from transformers import pipeline
 import faiss
+from sklearn.feature_extraction.text import TfidfVectorizer
 from typing import List, Dict
 import textwrap
 from openai import OpenAI
@@ -31,7 +33,7 @@ try:
     from openai import OpenAI
 
     client = OpenAI(
-        api_key="YOUR API-KEY HERE"
+        api_key=os.environ.get("OPENAI_API_KEY", "")
     )
 except ImportError:
     import openai
@@ -387,6 +389,17 @@ def process_abstract_for_rag(abstract: str, session_id: str):
         return False
 
 
+def _zscore(x):
+    x = np.asarray(x, dtype=np.float32)
+    return (x - x.mean()) / (x.std() + 1e-9)
+
+
+def lexical_similarity(question, chunks):
+    vec = TfidfVectorizer(analyzer="char_wb", ngram_range=(3, 5), sublinear_tf=True)
+    mat = vec.fit_transform(chunks)
+    return (vec.transform([question]) @ mat.T).toarray()[0]
+
+
 def retrieve_relevant_context(
     question: str, session_id: str, top_k: int = 5, threshold: float = 0.25
 ) -> List[str]:
@@ -399,25 +412,28 @@ def retrieve_relevant_context(
             print(f"No chunks found for session {session_id}")
             return ["No context available."]
 
-        # Create FAISS index for these chunks
-        temp_faiss_index = faiss.IndexFlatL2(EMBEDDING_DIMENSION)
-        chunk_embeddings = embedder.encode(chunks, convert_to_tensor=True)
-        temp_faiss_index.add(chunk_embeddings.cpu().numpy())
+        # Cosine similarity: inner product of L2-normalised embeddings
+        temp_faiss_index = faiss.IndexFlatIP(EMBEDDING_DIMENSION)
+        chunk_embeddings = embedder.encode(chunks, normalize_embeddings=True, convert_to_numpy=True)
+        temp_faiss_index.add(chunk_embeddings.astype(np.float32))
 
-        # Encode question
-        question_embedding = embedder.encode(question, convert_to_tensor=True)
-        question_embedding_np = question_embedding.cpu().numpy().reshape(1, -1)
+        question_embedding_np = embedder.encode(
+            [question], normalize_embeddings=True, convert_to_numpy=True
+        ).astype(np.float32)
+        D, I = temp_faiss_index.search(question_embedding_np, len(chunks))
+        dense = np.zeros(len(chunks), dtype=np.float32)
+        dense[I[0]] = D[0]
 
-        # Search in FAISS index - increase top_k to get more potential matches
-        D, I = temp_faiss_index.search(
-            question_embedding_np, min(top_k + 5, len(chunks))
-        )
+        # Hybrid ranking: dense cosine + character n-gram TF-IDF, which matches alloy
+        # formulae (e.g. MoNbVTa0.5Cr) that MiniLM embeddings confuse
+        # (see evaluation/retrieval_eval.py).
+        lexical = lexical_similarity(question, chunks)
+        hybrid = 0.5 * _zscore(dense) + 0.5 * _zscore(lexical)
 
-        # Filter by similarity threshold and remove duplicates
         relevant_chunks = []
         seen_content = set()
 
-        for dist, idx in zip(D[0], I[0]):
+        for idx in np.argsort(-hybrid)[: top_k + 5]:
             if idx >= len(chunks):
                 print(
                     f"Warning: Index {idx} out of bounds for chunks of length {len(chunks)}"
@@ -425,8 +441,7 @@ def retrieve_relevant_context(
                 continue
 
             chunk = chunks[idx]
-            # Convert distance to similarity score (FAISS returns L2 distance)
-            similarity = 1 / (1 + dist)
+            similarity = max(float(dense[idx]), float(lexical[idx]))
 
             if similarity < threshold:
                 continue
@@ -509,9 +524,9 @@ Instructions:
 """
 
         # Initialize AI client
-        base_url = "https://api.deepseek.com"
-        api_key = "YOUR API-KEY HERE"
-        model = "deepseek-chat"
+        base_url = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
+        api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+        model = os.environ.get("DEEPSEEK_MODEL", "deepseek-chat")
 
         client = OpenAI(
             base_url=base_url,
@@ -641,7 +656,7 @@ def generate_answer(question: str, context: List[str]) -> str:
         print(f"Generated text: {generated_text}")
 
         # If the answer is too short, provide a default response
-        if not generated_text or len(generated_text.split()) < 5:
+        if not generated_text.strip():
             return "Based on the provided context, I couldn't find specific information to answer your question."
 
         # return generated_text.strip()
@@ -1070,7 +1085,10 @@ def run_qa_pair_generation(json_data, session_id):
         ]
         
         # Run the command (non-blocking)
-        subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        # Write output to a log file: an unread PIPE fills up and blocks the child process
+        log_file = open(os.path.join(output_dir, "qa_pair_gen.log"), "w")
+        subprocess.Popen([sys.executable] + cmd[1:], stdout=log_file, stderr=subprocess.STDOUT)
+        log_file.close()
         
         # Store the paths in the session for later retrieval
         session["qa_pair_process"] = {
