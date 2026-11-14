@@ -327,6 +327,7 @@ def evaluate_qa_pairs(context_str, alloy_name, qa_pairs):
             )
 
             # Decode the evaluation response
+            generated_ids = generated_ids[:, model_inputs.input_ids.shape[1]:]  # drop the prompt, which contains "Rating: [1-10]"
             eval_response = TOKENIZER.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
             # Extract rating using regex and fallback to 1 if missing
