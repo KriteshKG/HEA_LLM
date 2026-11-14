@@ -221,8 +221,8 @@ for b in [
     "answer, in the training set.",
     f"We now split by context (seed 42): training {tr['contexts']} contexts / {tr['questions']:,} questions, validation "
     f"{va['contexts']} / {va['questions']}, test {te['contexts']} / {te['questions']}. No context appears in more than "
-    "one split. Fine-tuning uses only the training split, hyper-parameters and the stopping epoch are selected on the "
-    "validation split, and the test split is scored once.",
+    "one split. Fine-tuning uses only the training split, the T5-base stopping epoch is selected on the validation "
+    "split (Phi-2 is trained for one fixed epoch), and the test split is scored once.",
     "The split files (evaluation/splits/) are published with the code.",
 ]:
     doc.add_paragraph(b, style="List Bullet")
@@ -281,6 +281,14 @@ if gen_rows:
          f"{te['questions']} test questions ({te['contexts']} unseen contexts), first with the gold context (generator "
          "quality) and then with the contexts returned by the hybrid retriever (end-to-end RAG). Exact Match and F1 "
          "follow the SQuAD v1.1 definitions; BLEU is corpus-level (sacreBLEU); ROUGE-L is the mean F-measure.")
+    cfg = [f"{n}: {r['epochs']} epoch(s), learning rate {r['lr']:g}, batch size {r['batch_size']}"
+           + (f", epoch {r['selected_epoch']} selected on validation" if r["epochs"] > 1 else "")
+           for n, r in (("T5-base", t5), ("Phi-2 + LoRA (r = 8)", phi)) if r]
+    para("Training configuration. Because these runs were made on CPU, each fact contributes at most "
+         f"{(t5 or phi)['max_per_fact']} of its paraphrased questions to training ({(t5 or phi)['train_questions']} "
+         "training questions); the test split is used in full. " + "; ".join(cfg) + ". The 95% confidence intervals are "
+         "bootstrap intervals that resample whole test contexts. The Colab notebook released with the code trains Phi-2 "
+         "with 4-bit QLoRA on the complete training split.")
     table(["Model", "Context", "Exact Match [95% CI]", "F1 [95% CI]", "BLEU", "ROUGE-L"], gen_rows,
           caption="Table 4 (revised). Response generation on the held-out test split")
 para("While reproducing Table 4 we found an implementation error in the original Phi-2 fine-tuning: the answer was "
@@ -311,7 +319,7 @@ for b in [
 ]:
     doc.add_paragraph(b, style="List Bullet")
 revised(f"""
-The Q&A dataset ({qa['qa_pairs']:,} pairs, {qa['contexts']} contexts) was divided by context, so that all questions about one alloy record belong to the same subset: {tr['contexts']} contexts ({tr['questions']:,} questions) for training, {va['contexts']} ({va['questions']}) for validation and {te['contexts']} ({te['questions']}) for testing (random seed 42). Splitting by question is not appropriate here, because every fact is asked on average {qa['mean_paraphrases_per_fact']:.1f} times in paraphrased form. Models were trained on the training subset, the number of epochs was chosen on the validation subset, and all reported metrics were computed once on the test subset.
+The Q&A dataset ({qa['qa_pairs']:,} pairs, {qa['contexts']} contexts) was divided by context, so that all questions about one alloy record belong to the same subset: {tr['contexts']} contexts ({tr['questions']:,} questions) for training, {va['contexts']} ({va['questions']}) for validation and {te['contexts']} ({te['questions']}) for testing (random seed 42). Splitting by question is not appropriate here, because every fact is asked on average {qa['mean_paraphrases_per_fact']:.1f} times in paraphrased form. Models were trained on the training subset (the number of T5-base epochs was chosen on the validation subset; Phi-2 was trained for one epoch), and all reported metrics were computed once on the test subset.
 """)
 
 comment("Comment 3", "Some values quoted in the Table 1 discussion do not match the table, and the cost column needs units.")
