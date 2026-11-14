@@ -30,10 +30,6 @@ def examples(split):
              "answer": q["answer"]} for c in split for q in c["qas"]]
 
 
-def phi_prompt(context, question):
-    return f"{context}\nQuestion: {question}\nAnswer:"
-
-
 class T5:
     name = "google-t5/t5-base"
 
@@ -83,12 +79,16 @@ class Phi2:
     def params(self):
         return [p for p in self.model.parameters() if p.requires_grad]
 
+    def prompt_ids(self, x, budget):
+        """Truncate the context, never the question/'Answer:' suffix, to fit `budget` tokens."""
+        suffix = self.tok(f"\nQuestion: {x['question']}\nAnswer:").input_ids
+        return self.tok(x["context"]).input_ids[:max(budget - len(suffix), 0)] + suffix
+
     def loss(self, b):
         ids, labels = [], []
         for x in b:
-            p = self.tok(phi_prompt(x["context"], x["question"])).input_ids
             a = self.tok(" " + x["answer"]).input_ids + [self.tok.eos_token_id]
-            p = p[-(self.max_len - len(a)):]
+            p = self.prompt_ids(x, self.max_len - len(a))
             ids.append(p + a)
             labels.append([-100] * len(p) + a)  # prompt masked: loss only on answer + EOS
         n = max(map(len, ids))
@@ -100,10 +100,13 @@ class Phi2:
 
     @torch.no_grad()
     def predict(self, b):
-        enc = self.tok([phi_prompt(x["context"], x["question"]) for x in b], return_tensors="pt",
-                       padding=True, truncation=True, max_length=self.max_len)
+        ids = [self.prompt_ids(x, self.max_len - 24) for x in b]
+        n = max(map(len, ids))
+        pad = self.tok.eos_token_id
+        enc = {"input_ids": torch.tensor([[pad] * (n - len(i)) + i for i in ids]),
+               "attention_mask": torch.tensor([[0] * (n - len(i)) + [1] * len(i) for i in ids])}
         out = self.model.generate(**enc, max_new_tokens=24, do_sample=False, pad_token_id=self.tok.eos_token_id)
-        text = self.tok.batch_decode(out[:, enc.input_ids.shape[1]:], skip_special_tokens=True)
+        text = self.tok.batch_decode(out[:, n:], skip_special_tokens=True)
         return [t.strip().split("\n")[0].strip() for t in text]
 
 
