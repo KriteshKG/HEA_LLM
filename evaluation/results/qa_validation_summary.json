@@ -1,0 +1,24 @@
+{
+  "contexts": 103,
+  "qa_pairs": 3392,
+  "answer_offset_consistent": 0.9734669811320755,
+  "answer_verbatim_in_context": 0.9734669811320755,
+  "answer_normalised_in_context": 0.9734669811320755,
+  "numeric_answers": 0.7744693396226415,
+  "median_answer_words": 2,
+  "duplicate_questions_exact_after_normalisation": 90,
+  "duplicate_question_answer_pairs": 16,
+  "same_question_conflicting_answers": 66,
+  "distinct_facts_(context,answer)": 452,
+  "mean_paraphrases_per_fact": 7.504424778761062,
+  "questions_per_context_min_median_max": [
+    8,
+    24,
+    160
+  ],
+  "category_counts": {
+    "Property-value-based": 2532,
+    "Temperature-based": 844,
+    "Unit-based": 16
+  }
+}

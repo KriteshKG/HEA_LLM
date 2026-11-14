@@ -1,0 +1,27 @@
+{
+  "gold_set": {
+    "5_of_5_abstracts_correct_wilson95": [
+      0.5655085052479191,
+      1.0
+    ],
+    "abstracts_needed_for_lower_bound>=0.95_if_all_correct": 73
+  },
+  "doi": {
+    "alloy_records": 472,
+    "placeholder_like(xxxx/example/1234)": 333,
+    "matches_a_real_doi_in_corpus": 0,
+    "corpus_abstracts": 529,
+    "corpus_unique_abstracts": 454
+  },
+  "value_grounding": {
+    "alloy_records_with_identifiable_source_abstract": 96,
+    "numeric_values_checked": 235,
+    "numeric_values_found_verbatim_in_source": 219,
+    "fraction_grounded": 0.9319148936170213,
+    "fraction_grounded_wilson95": [
+      0.8922752968532582,
+      0.9576603927418542
+    ],
+    "records_fully_grounded": 0.90625
+  }
+}

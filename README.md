@@ -83,8 +83,8 @@ HEA_QA is an AI-powered question answering system designed to analyze research p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ErAgOn-AmAnSiRoHi/HEA_QA
-   cd HEA_QA
+   git clone https://github.com/KriteshKG/HEA_LLM
+   cd HEA_LLM
    ```
 
 2. **Install Dependencies:**
@@ -92,20 +92,13 @@ HEA_QA is an AI-powered question answering system designed to analyze research p
    pip install -r requirements.txt
    ```
 
-3. **Set OpenAI API Key (if using API model):**
-   - Obtain an API key from OpenAI or DeepSeek
-   - Update the `api_key` in `app.py`:
-     ```python
-     client = OpenAI(
-         base_url="https://api.deepseek.com",
-         api_key="YOUR API-KEY HERE",
-     )
-     ```
+3. **Set API keys as environment variables (never commit keys):**
+   ```bash
+   export OPENAI_API_KEY=...     # NER extraction of submitted abstracts
+   export DEEPSEEK_API_KEY=...   # API answer generation (DEEPSEEK_BASE_URL / DEEPSEEK_MODEL optional)
+   ```
 
-4. **Download the phi2-lora-finetuned model (if not already present):**
-   - Ensure the `models/phi2-lora-finetuned` directory exists and contains the necessary model files
-   - If not, download it from [Hugging Face]([https://huggingface.co/models](https://huggingface.co/microsoft/phi-2)) 
-   - Place the LoRA adapter in the `models/phi2-lora-finetuned` directory
+4. **LoRA adapter:** `models/phi2-lora-finetuned` holds the adapter for `microsoft/phi-2` (downloaded automatically from Hugging Face). Retrain it with `Phi2_QLoRA_Finetuning.ipynb`.
 
 5. **Run the Application:**
    ```bash
@@ -165,10 +158,22 @@ The system includes a script for generating question-answer pairs from abstracts
 
 The script uses the Qwen2.5-1.5B-Instruct model to generate QA pairs from abstracts, filters them using heuristics and model evaluation, and saves high-quality pairs to the specified output directory.
 
+## Evaluation (reproducible)
+
+`evaluation/` reproduces every reported metric (`bash evaluation/run_all.sh`, results in `evaluation/results/`):
+
+| Script | What it does |
+|---|---|
+| `make_splits.py` | Train/val/test split **by context** (seed 42; 73/15/15 contexts, 2,248/520/624 questions) and the leakage a random split by question would cause |
+| `qa_validation.py` | Grounding, offset, duplicate and category checks of `HEA_QA_DATASET.json`; manual-audit sheet |
+| `ner_checks.py` | Confidence interval of the 5-abstract NER evaluation, value grounding against abstracts, DOI validity |
+| `retrieval_eval.py` | Recall@k / MRR of dense, lexical and hybrid retrieval on held-out questions |
+| `gen_eval.py` | Fine-tunes T5-base / Phi-2 + LoRA (answer-only loss) on train, scores EM / F1 / BLEU / ROUGE-L on test |
+
 ## File Structure
 
 ```
-HEA_QA/
+HEA_LLM/
 ├── app.py             # Main Flask application file
 ├── models/
 │   └── phi2-lora-finetuned/   # Directory containing the fine-tuned LoRA adapter
@@ -181,6 +186,7 @@ HEA_QA/
 │   └── index.html     # Main HTML template
 ├── requirements.txt # List of Python dependencies
 ├── qa_pair_gen.py   # QA Pair Generation script
+├── evaluation/      # Splits, metrics and results (see Evaluation)
 ├── test/            # test files
 │   ├── test.csv       # CSV test file (can be uploaded through the Multiple Abstract Tab in the UI)
 │   └── test.txt       # TXT test file (can be pasted in the text-area provided under the Single Abstract Tab in the UI)

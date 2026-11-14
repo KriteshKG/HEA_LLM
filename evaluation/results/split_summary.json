@@ -1,0 +1,20 @@
+{
+  "test": {
+    "contexts": 15,
+    "questions": 624
+  },
+  "val": {
+    "contexts": 15,
+    "questions": 520
+  },
+  "train": {
+    "contexts": 73,
+    "questions": 2248
+  },
+  "overlap_identical_contexts_train_test": 0,
+  "leakage_if_random_question_split": {
+    "random_split_test_questions": 509,
+    "test_questions_with_context_seen_in_train": 1.0,
+    "test_questions_with_same_fact_seen_in_train": 1.0
+  }
+}

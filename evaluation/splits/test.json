@@ -1,0 +1,3836 @@
+[
+ {
+  "cid": 1,
+  "context": "[{name:Ti40Nb15Mo30(NbC)15,,composition:{Ti:40,Nb:15,Mo:30,C:15},performance_properties:{specific_yield_strength:{type:strength,measurements:[{temperature:800 °C,value:243 MPa g¹ cm3,},{temperature:1000 °C,value:127 MPa g¹ cm3,}]},compressive_strength:{type:strength,measurements:[{temperature:1000 °C,value:<Value> <Unit>}]}}}]",
+  "qas": [
+   {
+    "id": "1_000",
+    "question": "What is the specific yield strength of Ti40Nb15Mo30(NbC)15, at 1000 °C?",
+    "answer": "127 MPa g−1 cm3,",
+    "answer_start": 212
+   },
+   {
+    "id": "1_001",
+    "question": "Can you tell me the specific yield strength value for Ti40Nb15Mo30(NbC)15, at 1000 °C?",
+    "answer": "127 MPa g−1 cm3,",
+    "answer_start": 212
+   },
+   {
+    "id": "1_002",
+    "question": "What specific yield strength does Ti40Nb15Mo30(NbC)15, exhibit at 1000 °C?",
+    "answer": "127 MPa g−1 cm3,",
+    "answer_start": 212
+   },
+   {
+    "id": "1_003",
+    "question": "For the alloy Ti40Nb15Mo30(NbC)15,, what is its specific yield strength at 1000 °C?",
+    "answer": "127 MPa g−1 cm3,",
+    "answer_start": 212
+   },
+   {
+    "id": "1_004",
+    "question": "Could you provide the specific yield strength measurement for Ti40Nb15Mo30(NbC)15, at 1000 °C?",
+    "answer": "127 MPa g−1 cm3,",
+    "answer_start": 212
+   },
+   {
+    "id": "1_005",
+    "question": "At what temperature is the specific yield strength of 127 MPa g−1 cm3, in Ti40Nb15Mo30(NbC)15, measured?",
+    "answer": "1000 °C",
+    "answer_start": 198
+   },
+   {
+    "id": "1_006",
+    "question": "What is the measurement temperature for Ti40Nb15Mo30(NbC)15,'s specific yield strength of 127 MPa g−1 cm3,?",
+    "answer": "1000 °C",
+    "answer_start": 198
+   },
+   {
+    "id": "1_007",
+    "question": "What temperature conditions were used to measure the specific yield strength of 127 MPa g−1 cm3, in Ti40Nb15Mo30(NbC)15,?",
+    "answer": "1000 °C",
+    "answer_start": 198
+   },
+   {
+    "id": "1_008",
+    "question": "What is the specific yield strength of Ti40Nb15Mo30(NbC)15, at 800 °C?",
+    "answer": "243 MPa g−1 cm3,",
+    "answer_start": 168
+   },
+   {
+    "id": "1_009",
+    "question": "Can you tell me the specific yield strength value for Ti40Nb15Mo30(NbC)15, at 800 °C?",
+    "answer": "243 MPa g−1 cm3,",
+    "answer_start": 168
+   },
+   {
+    "id": "1_010",
+    "question": "What specific yield strength does Ti40Nb15Mo30(NbC)15, exhibit at 800 °C?",
+    "answer": "243 MPa g−1 cm3,",
+    "answer_start": 168
+   },
+   {
+    "id": "1_011",
+    "question": "For the alloy Ti40Nb15Mo30(NbC)15,, what is its specific yield strength at 800 °C?",
+    "answer": "243 MPa g−1 cm3,",
+    "answer_start": 168
+   },
+   {
+    "id": "1_012",
+    "question": "Could you provide the specific yield strength measurement for Ti40Nb15Mo30(NbC)15, at 800 °C?",
+    "answer": "243 MPa g−1 cm3,",
+    "answer_start": 168
+   },
+   {
+    "id": "1_013",
+    "question": "At what temperature is the specific yield strength of 243 MPa g−1 cm3, in Ti40Nb15Mo30(NbC)15, measured?",
+    "answer": "800 °C",
+    "answer_start": 155
+   },
+   {
+    "id": "1_014",
+    "question": "What is the measurement temperature for Ti40Nb15Mo30(NbC)15,'s specific yield strength of 243 MPa g−1 cm3,?",
+    "answer": "800 °C",
+    "answer_start": 155
+   },
+   {
+    "id": "1_015",
+    "question": "What temperature conditions were used to measure the specific yield strength of 243 MPa g−1 cm3, in Ti40Nb15Mo30(NbC)15,?",
+    "answer": "800 °C",
+    "answer_start": 155
+   }
+  ]
+ },
+ {
+  "cid": 9,
+  "context": "[{name:MoNbTaW,composition:{Mo:1,Nb:1,Ta:1,W:1},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:1320.16 MPa}]},compressive_strength:{type:strength,measurements:[{temperature:Room Temperature,value:1855.11 MPa}]},fracture_strain:{type:strain,measurements:[{temperature:Room Temperature,value:15.92 %}]},hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:846.4 HV}]},coefficient_of_friction:{type:friction,measurements:[{temperature:Room Temperature,value:0.164219 unitless}]}}}]",
+  "qas": [
+   {
+    "id": "17_000",
+    "question": "What is the coefficient of friction of MoNbTaW at Room Temperature?",
+    "answer": "0.164219 unitless",
+    "answer_start": 533
+   },
+   {
+    "id": "17_001",
+    "question": "Can you tell me the coefficient of friction value for MoNbTaW at Room Temperature?",
+    "answer": "0.164219 unitless",
+    "answer_start": 533
+   },
+   {
+    "id": "17_002",
+    "question": "What coefficient of friction does MoNbTaW exhibit at Room Temperature?",
+    "answer": "0.164219 unitless",
+    "answer_start": 533
+   },
+   {
+    "id": "17_003",
+    "question": "For the alloy MoNbTaW, what is its coefficient of friction at Room Temperature?",
+    "answer": "0.164219 unitless",
+    "answer_start": 533
+   },
+   {
+    "id": "17_004",
+    "question": "Could you provide the coefficient of friction measurement for MoNbTaW at Room Temperature?",
+    "answer": "0.164219 unitless",
+    "answer_start": 533
+   },
+   {
+    "id": "17_005",
+    "question": "At what temperature is the coefficient of friction of 0.164219 unitless in MoNbTaW measured?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_006",
+    "question": "What is the measurement temperature for MoNbTaW's coefficient of friction of 0.164219 unitless?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_007",
+    "question": "What temperature conditions were used to measure the coefficient of friction of 0.164219 unitless in MoNbTaW?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_008",
+    "question": "What is the compressive strength of MoNbTaW at Room Temperature?",
+    "answer": "1855.11 MPa",
+    "answer_start": 253
+   },
+   {
+    "id": "17_009",
+    "question": "Can you tell me the compressive strength value for MoNbTaW at Room Temperature?",
+    "answer": "1855.11 MPa",
+    "answer_start": 253
+   },
+   {
+    "id": "17_010",
+    "question": "What compressive strength does MoNbTaW exhibit at Room Temperature?",
+    "answer": "1855.11 MPa",
+    "answer_start": 253
+   },
+   {
+    "id": "17_011",
+    "question": "For the alloy MoNbTaW, what is its compressive strength at Room Temperature?",
+    "answer": "1855.11 MPa",
+    "answer_start": 253
+   },
+   {
+    "id": "17_012",
+    "question": "Could you provide the compressive strength measurement for MoNbTaW at Room Temperature?",
+    "answer": "1855.11 MPa",
+    "answer_start": 253
+   },
+   {
+    "id": "17_013",
+    "question": "At what temperature is the compressive strength of 1855.11 MPa in MoNbTaW measured?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_014",
+    "question": "What is the measurement temperature for MoNbTaW's compressive strength of 1855.11 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_015",
+    "question": "What temperature conditions were used to measure the compressive strength of 1855.11 MPa in MoNbTaW?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_016",
+    "question": "What is the fracture strain of MoNbTaW at Room Temperature?",
+    "answer": "15.92 %",
+    "answer_start": 347
+   },
+   {
+    "id": "17_017",
+    "question": "Can you tell me the fracture strain value for MoNbTaW at Room Temperature?",
+    "answer": "15.92 %",
+    "answer_start": 347
+   },
+   {
+    "id": "17_018",
+    "question": "What fracture strain does MoNbTaW exhibit at Room Temperature?",
+    "answer": "15.92 %",
+    "answer_start": 347
+   },
+   {
+    "id": "17_019",
+    "question": "For the alloy MoNbTaW, what is its fracture strain at Room Temperature?",
+    "answer": "15.92 %",
+    "answer_start": 347
+   },
+   {
+    "id": "17_020",
+    "question": "Could you provide the fracture strain measurement for MoNbTaW at Room Temperature?",
+    "answer": "15.92 %",
+    "answer_start": 347
+   },
+   {
+    "id": "17_021",
+    "question": "At what temperature is the fracture strain of 15.92 % in MoNbTaW measured?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_022",
+    "question": "What is the measurement temperature for MoNbTaW's fracture strain of 15.92 %?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_023",
+    "question": "What temperature conditions were used to measure the fracture strain of 15.92 % in MoNbTaW?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_024",
+    "question": "What is the hardness of MoNbTaW at Room Temperature?",
+    "answer": "846.4 HV",
+    "answer_start": 432
+   },
+   {
+    "id": "17_025",
+    "question": "Can you tell me the hardness value for MoNbTaW at Room Temperature?",
+    "answer": "846.4 HV",
+    "answer_start": 432
+   },
+   {
+    "id": "17_026",
+    "question": "What hardness does MoNbTaW exhibit at Room Temperature?",
+    "answer": "846.4 HV",
+    "answer_start": 432
+   },
+   {
+    "id": "17_027",
+    "question": "For the alloy MoNbTaW, what is its hardness at Room Temperature?",
+    "answer": "846.4 HV",
+    "answer_start": 432
+   },
+   {
+    "id": "17_028",
+    "question": "Could you provide the hardness measurement for MoNbTaW at Room Temperature?",
+    "answer": "846.4 HV",
+    "answer_start": 432
+   },
+   {
+    "id": "17_029",
+    "question": "At what temperature is the hardness of 846.4 HV in MoNbTaW measured?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_030",
+    "question": "What is the measurement temperature for MoNbTaW's hardness of 846.4 HV?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_031",
+    "question": "What temperature conditions were used to measure the hardness of 846.4 HV in MoNbTaW?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_032",
+    "question": "What is the yield strength of MoNbTaW at Room Temperature?",
+    "answer": "1320.16 MPa",
+    "answer_start": 152
+   },
+   {
+    "id": "17_033",
+    "question": "Can you tell me the yield strength value for MoNbTaW at Room Temperature?",
+    "answer": "1320.16 MPa",
+    "answer_start": 152
+   },
+   {
+    "id": "17_034",
+    "question": "What yield strength does MoNbTaW exhibit at Room Temperature?",
+    "answer": "1320.16 MPa",
+    "answer_start": 152
+   },
+   {
+    "id": "17_035",
+    "question": "For the alloy MoNbTaW, what is its yield strength at Room Temperature?",
+    "answer": "1320.16 MPa",
+    "answer_start": 152
+   },
+   {
+    "id": "17_036",
+    "question": "Could you provide the yield strength measurement for MoNbTaW at Room Temperature?",
+    "answer": "1320.16 MPa",
+    "answer_start": 152
+   },
+   {
+    "id": "17_037",
+    "question": "At what temperature is the yield strength of 1320.16 MPa in MoNbTaW measured?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_038",
+    "question": "What is the measurement temperature for MoNbTaW's yield strength of 1320.16 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   },
+   {
+    "id": "17_039",
+    "question": "What temperature conditions were used to measure the yield strength of 1320.16 MPa in MoNbTaW?",
+    "answer": "Room Temperature",
+    "answer_start": 129
+   }
+  ]
+ },
+ {
+  "cid": 10,
+  "context": "[{name:Hf5Mo15Nb35Ta25Ti20,,composition:{Hf:5,Mo:15,Nb:35,Ta:25,Ti:20},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:1300 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "21_000",
+    "question": "What is the strength of Hf5Mo15Nb35Ta25Ti20, at Room Temperature?",
+    "answer": "1300 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "21_001",
+    "question": "Can you tell me the strength value for Hf5Mo15Nb35Ta25Ti20, at Room Temperature?",
+    "answer": "1300 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "21_002",
+    "question": "What strength does Hf5Mo15Nb35Ta25Ti20, exhibit at Room Temperature?",
+    "answer": "1300 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "21_003",
+    "question": "For the alloy Hf5Mo15Nb35Ta25Ti20,, what is its strength at Room Temperature?",
+    "answer": "1300 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "21_004",
+    "question": "Could you provide the strength measurement for Hf5Mo15Nb35Ta25Ti20, at Room Temperature?",
+    "answer": "1300 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "21_005",
+    "question": "At what temperature is the strength of 1300 MPa in Hf5Mo15Nb35Ta25Ti20, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "21_006",
+    "question": "What is the measurement temperature for Hf5Mo15Nb35Ta25Ti20,'s strength of 1300 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "21_007",
+    "question": "What temperature conditions were used to measure the strength of 1300 MPa in Hf5Mo15Nb35Ta25Ti20,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   }
+  ]
+ },
+ {
+  "cid": 15,
+  "context": "[{name:Ti42.5Zr42.5Nb10Ta5Mo0,,composition:{Ti:42.5,Zr:42.5,Nb:10,Ta:5,Mo:0},performance_properties:{strength:{type:strength,measurements:[{temperature:room temperature,value:670 MPa}]},tensile_plasticity:{type:tensile plasticity,measurements:[{temperature:room temperature,value:20 %}]}}},{name:Ti42.5Zr42.5Nb10Ta5Mo3,,composition:{Ti:42.5,Zr:42.5,Nb:10,Ta:5,Mo:3},performance_properties:{strength:{type:strength,measurements:[{temperature:room temperature,value:700 MPa}]},tensile_plasticity:{type:tensile plasticity,measurements:[{temperature:room temperature,value:20 %}]}}},{name:Ti42.5Zr42.5Nb10Ta5Mo5,,composition:{Ti:42.5,Zr:42.5,Nb:10,Ta:5,Mo:5},performance_properties:{strength:{type:strength,measurements:[{temperature:room temperature,value:800 MPa}]},tensile_plasticity:{type:tensile plasticity,measurements:[{temperature:room temperature,value:20 %}]},specific_yield_strength:{type:specific yield strength,measurements:[{temperature:1173 K,value:32 MPa g¹cm3,}]},fracture_strain:{type:fracture strain,measurements:[{temperature:1173 K,value:60 %}]}}},{name:Ti42.5Zr42.5Nb10Ta5Mo7,,composition:{Ti:42.5,Zr:42.5,Nb:10,Ta:5,Mo:7},performance_properties:{strength:{type:strength,measurements:[{temperature:room temperature,value:975 MPa}]},tensile_plasticity:{type:tensile plasticity,measurements:[{temperature:room temperature,value:0 %}]}}}]",
+  "qas": [
+   {
+    "id": "28_000",
+    "question": "What is the fracture strain of Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?",
+    "answer": "60 %",
+    "answer_start": 1055
+   },
+   {
+    "id": "28_001",
+    "question": "Can you tell me the fracture strain value for Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?",
+    "answer": "60 %",
+    "answer_start": 1055
+   },
+   {
+    "id": "28_002",
+    "question": "What fracture strain does Ti42.5Zr42.5Nb10Ta5Mo5, exhibit at 1173 K?",
+    "answer": "60 %",
+    "answer_start": 1055
+   },
+   {
+    "id": "28_003",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo5,, what is its fracture strain at 1173 K?",
+    "answer": "60 %",
+    "answer_start": 1055
+   },
+   {
+    "id": "28_004",
+    "question": "Could you provide the fracture strain measurement for Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?",
+    "answer": "60 %",
+    "answer_start": 1055
+   },
+   {
+    "id": "28_005",
+    "question": "At what temperature is the fracture strain of 60 % in Ti42.5Zr42.5Nb10Ta5Mo5, measured?",
+    "answer": "1173 K",
+    "answer_start": 947
+   },
+   {
+    "id": "28_006",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo5,'s fracture strain of 60 %?",
+    "answer": "1173 K",
+    "answer_start": 947
+   },
+   {
+    "id": "28_007",
+    "question": "What temperature conditions were used to measure the fracture strain of 60 % in Ti42.5Zr42.5Nb10Ta5Mo5,?",
+    "answer": "1173 K",
+    "answer_start": 947
+   },
+   {
+    "id": "28_008",
+    "question": "What is the specific yield strength of Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?",
+    "answer": "32 MPa g−1cm3,",
+    "answer_start": 960
+   },
+   {
+    "id": "28_009",
+    "question": "Can you tell me the specific yield strength value for Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?",
+    "answer": "32 MPa g−1cm3,",
+    "answer_start": 960
+   },
+   {
+    "id": "28_010",
+    "question": "What specific yield strength does Ti42.5Zr42.5Nb10Ta5Mo5, exhibit at 1173 K?",
+    "answer": "32 MPa g−1cm3,",
+    "answer_start": 960
+   },
+   {
+    "id": "28_011",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo5,, what is its specific yield strength at 1173 K?",
+    "answer": "32 MPa g−1cm3,",
+    "answer_start": 960
+   },
+   {
+    "id": "28_012",
+    "question": "Could you provide the specific yield strength measurement for Ti42.5Zr42.5Nb10Ta5Mo5, at 1173 K?",
+    "answer": "32 MPa g−1cm3,",
+    "answer_start": 960
+   },
+   {
+    "id": "28_013",
+    "question": "At what temperature is the specific yield strength of 32 MPa g−1cm3, in Ti42.5Zr42.5Nb10Ta5Mo5, measured?",
+    "answer": "1173 K",
+    "answer_start": 947
+   },
+   {
+    "id": "28_014",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo5,'s specific yield strength of 32 MPa g−1cm3,?",
+    "answer": "1173 K",
+    "answer_start": 947
+   },
+   {
+    "id": "28_015",
+    "question": "What temperature conditions were used to measure the specific yield strength of 32 MPa g−1cm3, in Ti42.5Zr42.5Nb10Ta5Mo5,?",
+    "answer": "1173 K",
+    "answer_start": 947
+   },
+   {
+    "id": "28_016",
+    "question": "What is the strength of Ti42.5Zr42.5Nb10Ta5Mo0, at room temperature?",
+    "answer": "670 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "28_017",
+    "question": "Can you tell me the strength value for Ti42.5Zr42.5Nb10Ta5Mo0, at room temperature?",
+    "answer": "670 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "28_018",
+    "question": "What strength does Ti42.5Zr42.5Nb10Ta5Mo0, exhibit at room temperature?",
+    "answer": "670 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "28_019",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo0,, what is its strength at room temperature?",
+    "answer": "670 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "28_020",
+    "question": "Could you provide the strength measurement for Ti42.5Zr42.5Nb10Ta5Mo0, at room temperature?",
+    "answer": "670 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "28_021",
+    "question": "At what temperature is the strength of 670 MPa in Ti42.5Zr42.5Nb10Ta5Mo0, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_022",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo0,'s strength of 670 MPa?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_023",
+    "question": "What temperature conditions were used to measure the strength of 670 MPa in Ti42.5Zr42.5Nb10Ta5Mo0,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_024",
+    "question": "What is the strength of Ti42.5Zr42.5Nb10Ta5Mo3, at room temperature?",
+    "answer": "700 MPa",
+    "answer_start": 464
+   },
+   {
+    "id": "28_025",
+    "question": "Can you tell me the strength value for Ti42.5Zr42.5Nb10Ta5Mo3, at room temperature?",
+    "answer": "700 MPa",
+    "answer_start": 464
+   },
+   {
+    "id": "28_026",
+    "question": "What strength does Ti42.5Zr42.5Nb10Ta5Mo3, exhibit at room temperature?",
+    "answer": "700 MPa",
+    "answer_start": 464
+   },
+   {
+    "id": "28_027",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo3,, what is its strength at room temperature?",
+    "answer": "700 MPa",
+    "answer_start": 464
+   },
+   {
+    "id": "28_028",
+    "question": "Could you provide the strength measurement for Ti42.5Zr42.5Nb10Ta5Mo3, at room temperature?",
+    "answer": "700 MPa",
+    "answer_start": 464
+   },
+   {
+    "id": "28_029",
+    "question": "At what temperature is the strength of 700 MPa in Ti42.5Zr42.5Nb10Ta5Mo3, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_030",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo3,'s strength of 700 MPa?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_031",
+    "question": "What temperature conditions were used to measure the strength of 700 MPa in Ti42.5Zr42.5Nb10Ta5Mo3,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_032",
+    "question": "What is the strength of Ti42.5Zr42.5Nb10Ta5Mo5, at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 753
+   },
+   {
+    "id": "28_033",
+    "question": "Can you tell me the strength value for Ti42.5Zr42.5Nb10Ta5Mo5, at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 753
+   },
+   {
+    "id": "28_034",
+    "question": "What strength does Ti42.5Zr42.5Nb10Ta5Mo5, exhibit at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 753
+   },
+   {
+    "id": "28_035",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo5,, what is its strength at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 753
+   },
+   {
+    "id": "28_036",
+    "question": "Could you provide the strength measurement for Ti42.5Zr42.5Nb10Ta5Mo5, at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 753
+   },
+   {
+    "id": "28_037",
+    "question": "At what temperature is the strength of 800 MPa in Ti42.5Zr42.5Nb10Ta5Mo5, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_038",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo5,'s strength of 800 MPa?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_039",
+    "question": "What temperature conditions were used to measure the strength of 800 MPa in Ti42.5Zr42.5Nb10Ta5Mo5,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_040",
+    "question": "What is the strength of Ti42.5Zr42.5Nb10Ta5Mo7, at room temperature?",
+    "answer": "975 MPa",
+    "answer_start": 1239
+   },
+   {
+    "id": "28_041",
+    "question": "Can you tell me the strength value for Ti42.5Zr42.5Nb10Ta5Mo7, at room temperature?",
+    "answer": "975 MPa",
+    "answer_start": 1239
+   },
+   {
+    "id": "28_042",
+    "question": "What strength does Ti42.5Zr42.5Nb10Ta5Mo7, exhibit at room temperature?",
+    "answer": "975 MPa",
+    "answer_start": 1239
+   },
+   {
+    "id": "28_043",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo7,, what is its strength at room temperature?",
+    "answer": "975 MPa",
+    "answer_start": 1239
+   },
+   {
+    "id": "28_044",
+    "question": "Could you provide the strength measurement for Ti42.5Zr42.5Nb10Ta5Mo7, at room temperature?",
+    "answer": "975 MPa",
+    "answer_start": 1239
+   },
+   {
+    "id": "28_045",
+    "question": "At what temperature is the strength of 975 MPa in Ti42.5Zr42.5Nb10Ta5Mo7, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_046",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo7,'s strength of 975 MPa?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_047",
+    "question": "What temperature conditions were used to measure the strength of 975 MPa in Ti42.5Zr42.5Nb10Ta5Mo7,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_048",
+    "question": "What is the tensile plasticity of Ti42.5Zr42.5Nb10Ta5Mo0, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_049",
+    "question": "Can you tell me the tensile plasticity value for Ti42.5Zr42.5Nb10Ta5Mo0, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_050",
+    "question": "What tensile plasticity does Ti42.5Zr42.5Nb10Ta5Mo0, exhibit at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_051",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo0,, what is its tensile plasticity at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_052",
+    "question": "Could you provide the tensile plasticity measurement for Ti42.5Zr42.5Nb10Ta5Mo0, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_053",
+    "question": "At what temperature is the tensile plasticity of 20 % in Ti42.5Zr42.5Nb10Ta5Mo0, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_054",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo0,'s tensile plasticity of 20 %?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_055",
+    "question": "What temperature conditions were used to measure the tensile plasticity of 20 % in Ti42.5Zr42.5Nb10Ta5Mo0,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_056",
+    "question": "What is the tensile plasticity of Ti42.5Zr42.5Nb10Ta5Mo3, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_057",
+    "question": "Can you tell me the tensile plasticity value for Ti42.5Zr42.5Nb10Ta5Mo3, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_058",
+    "question": "What tensile plasticity does Ti42.5Zr42.5Nb10Ta5Mo3, exhibit at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_059",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo3,, what is its tensile plasticity at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_060",
+    "question": "Could you provide the tensile plasticity measurement for Ti42.5Zr42.5Nb10Ta5Mo3, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_061",
+    "question": "At what temperature is the tensile plasticity of 20 % in Ti42.5Zr42.5Nb10Ta5Mo3, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_062",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo3,'s tensile plasticity of 20 %?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_063",
+    "question": "What temperature conditions were used to measure the tensile plasticity of 20 % in Ti42.5Zr42.5Nb10Ta5Mo3,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_064",
+    "question": "What is the tensile plasticity of Ti42.5Zr42.5Nb10Ta5Mo5, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_065",
+    "question": "Can you tell me the tensile plasticity value for Ti42.5Zr42.5Nb10Ta5Mo5, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_066",
+    "question": "What tensile plasticity does Ti42.5Zr42.5Nb10Ta5Mo5, exhibit at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_067",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo5,, what is its tensile plasticity at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_068",
+    "question": "Could you provide the tensile plasticity measurement for Ti42.5Zr42.5Nb10Ta5Mo5, at room temperature?",
+    "answer": "20 %",
+    "answer_start": 280
+   },
+   {
+    "id": "28_069",
+    "question": "At what temperature is the tensile plasticity of 20 % in Ti42.5Zr42.5Nb10Ta5Mo5, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_070",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo5,'s tensile plasticity of 20 %?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_071",
+    "question": "What temperature conditions were used to measure the tensile plasticity of 20 % in Ti42.5Zr42.5Nb10Ta5Mo5,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_072",
+    "question": "What is the tensile plasticity of Ti42.5Zr42.5Nb10Ta5Mo7, at room temperature?",
+    "answer": "0 %",
+    "answer_start": 281
+   },
+   {
+    "id": "28_073",
+    "question": "Can you tell me the tensile plasticity value for Ti42.5Zr42.5Nb10Ta5Mo7, at room temperature?",
+    "answer": "0 %",
+    "answer_start": 281
+   },
+   {
+    "id": "28_074",
+    "question": "What tensile plasticity does Ti42.5Zr42.5Nb10Ta5Mo7, exhibit at room temperature?",
+    "answer": "0 %",
+    "answer_start": 281
+   },
+   {
+    "id": "28_075",
+    "question": "For the alloy Ti42.5Zr42.5Nb10Ta5Mo7,, what is its tensile plasticity at room temperature?",
+    "answer": "0 %",
+    "answer_start": 281
+   },
+   {
+    "id": "28_076",
+    "question": "Could you provide the tensile plasticity measurement for Ti42.5Zr42.5Nb10Ta5Mo7, at room temperature?",
+    "answer": "0 %",
+    "answer_start": 281
+   },
+   {
+    "id": "28_077",
+    "question": "At what temperature is the tensile plasticity of 0 % in Ti42.5Zr42.5Nb10Ta5Mo7, measured?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_078",
+    "question": "What is the measurement temperature for Ti42.5Zr42.5Nb10Ta5Mo7,'s tensile plasticity of 0 %?",
+    "answer": "room temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "28_079",
+    "question": "What temperature conditions were used to measure the tensile plasticity of 0 % in Ti42.5Zr42.5Nb10Ta5Mo7,?",
+    "answer": "room temperature",
+    "answer_start": 152
+   }
+  ]
+ },
+ {
+  "cid": 33,
+  "context": "[{name:(MoTaWNb)0.9Y0.1,,composition:{Mo:0.25,Ta:0.25,W:0.25,Nb:0.25,Y:0.1},performance_properties:{hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:6.74 GPa}]},wear_resistance:{type:wear resistance,measurements:[{temperature:Room Temperature,value:0.0001 mm3·N¹·m¹,}]}}},{name:(MoTaWNb)0.8Y0.2,,composition:{Mo:0.25,Ta:0.25,W:0.25,Nb:0.25,Y:0.2},performance_properties:{hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:6.74 GPa}]},wear_resistance:{type:wear resistance,measurements:[{temperature:Room Temperature,value:0.0001 mm3·N¹·m¹,}]}}},{name:(MoTaWNb)0.7Y0.3,,composition:{Mo:0.25,Ta:0.25,W:0.25,Nb:0.25,Y:0.3},performance_properties:{hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:6.74 GPa}]},wear_resistance:{type:wear resistance,measurements:[{temperature:Room Temperature,value:0.0001 mm3·N¹·m¹,}]}}}]",
+  "qas": [
+   {
+    "id": "55_000",
+    "question": "What is the hardness of (MoTaWNb)0.9Y0.1, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_001",
+    "question": "Can you tell me the hardness value for (MoTaWNb)0.9Y0.1, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_002",
+    "question": "What hardness does (MoTaWNb)0.9Y0.1, exhibit at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_003",
+    "question": "For the alloy (MoTaWNb)0.9Y0.1,, what is its hardness at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_004",
+    "question": "Could you provide the hardness measurement for (MoTaWNb)0.9Y0.1, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_005",
+    "question": "At what temperature is the hardness of 6.74 GPa in (MoTaWNb)0.9Y0.1, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_006",
+    "question": "What is the measurement temperature for (MoTaWNb)0.9Y0.1,'s hardness of 6.74 GPa?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_007",
+    "question": "What temperature conditions were used to measure the hardness of 6.74 GPa in (MoTaWNb)0.9Y0.1,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_008",
+    "question": "What is the hardness of (MoTaWNb)0.8Y0.2, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_009",
+    "question": "Can you tell me the hardness value for (MoTaWNb)0.8Y0.2, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_010",
+    "question": "What hardness does (MoTaWNb)0.8Y0.2, exhibit at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_011",
+    "question": "For the alloy (MoTaWNb)0.8Y0.2,, what is its hardness at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_012",
+    "question": "Could you provide the hardness measurement for (MoTaWNb)0.8Y0.2, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_013",
+    "question": "At what temperature is the hardness of 6.74 GPa in (MoTaWNb)0.8Y0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_014",
+    "question": "What is the measurement temperature for (MoTaWNb)0.8Y0.2,'s hardness of 6.74 GPa?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_015",
+    "question": "What temperature conditions were used to measure the hardness of 6.74 GPa in (MoTaWNb)0.8Y0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_016",
+    "question": "What is the hardness of (MoTaWNb)0.7Y0.3, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_017",
+    "question": "Can you tell me the hardness value for (MoTaWNb)0.7Y0.3, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_018",
+    "question": "What hardness does (MoTaWNb)0.7Y0.3, exhibit at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_019",
+    "question": "For the alloy (MoTaWNb)0.7Y0.3,, what is its hardness at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_020",
+    "question": "Could you provide the hardness measurement for (MoTaWNb)0.7Y0.3, at Room Temperature?",
+    "answer": "6.74 GPa",
+    "answer_start": 174
+   },
+   {
+    "id": "55_021",
+    "question": "At what temperature is the hardness of 6.74 GPa in (MoTaWNb)0.7Y0.3, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_022",
+    "question": "What is the measurement temperature for (MoTaWNb)0.7Y0.3,'s hardness of 6.74 GPa?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_023",
+    "question": "What temperature conditions were used to measure the hardness of 6.74 GPa in (MoTaWNb)0.7Y0.3,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_024",
+    "question": "What is the wear resistance of (MoTaWNb)0.9Y0.1, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_025",
+    "question": "Can you tell me the wear resistance value for (MoTaWNb)0.9Y0.1, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_026",
+    "question": "What wear resistance does (MoTaWNb)0.9Y0.1, exhibit at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_027",
+    "question": "For the alloy (MoTaWNb)0.9Y0.1,, what is its wear resistance at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_028",
+    "question": "Could you provide the wear resistance measurement for (MoTaWNb)0.9Y0.1, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_029",
+    "question": "At what temperature is the wear resistance of 0.0001 mm3·N−1·m−1, in (MoTaWNb)0.9Y0.1, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_030",
+    "question": "What is the measurement temperature for (MoTaWNb)0.9Y0.1,'s wear resistance of 0.0001 mm3·N−1·m−1,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_031",
+    "question": "What temperature conditions were used to measure the wear resistance of 0.0001 mm3·N−1·m−1, in (MoTaWNb)0.9Y0.1,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_032",
+    "question": "What is the wear resistance of (MoTaWNb)0.8Y0.2, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_033",
+    "question": "Can you tell me the wear resistance value for (MoTaWNb)0.8Y0.2, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_034",
+    "question": "What wear resistance does (MoTaWNb)0.8Y0.2, exhibit at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_035",
+    "question": "For the alloy (MoTaWNb)0.8Y0.2,, what is its wear resistance at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_036",
+    "question": "Could you provide the wear resistance measurement for (MoTaWNb)0.8Y0.2, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_037",
+    "question": "At what temperature is the wear resistance of 0.0001 mm3·N−1·m−1, in (MoTaWNb)0.8Y0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_038",
+    "question": "What is the measurement temperature for (MoTaWNb)0.8Y0.2,'s wear resistance of 0.0001 mm3·N−1·m−1,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_039",
+    "question": "What temperature conditions were used to measure the wear resistance of 0.0001 mm3·N−1·m−1, in (MoTaWNb)0.8Y0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_040",
+    "question": "What is the wear resistance of (MoTaWNb)0.7Y0.3, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_041",
+    "question": "Can you tell me the wear resistance value for (MoTaWNb)0.7Y0.3, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_042",
+    "question": "What wear resistance does (MoTaWNb)0.7Y0.3, exhibit at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_043",
+    "question": "For the alloy (MoTaWNb)0.7Y0.3,, what is its wear resistance at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_044",
+    "question": "Could you provide the wear resistance measurement for (MoTaWNb)0.7Y0.3, at Room Temperature?",
+    "answer": "0.0001 mm3·N−1·m−1,",
+    "answer_start": 274
+   },
+   {
+    "id": "55_045",
+    "question": "At what temperature is the wear resistance of 0.0001 mm3·N−1·m−1, in (MoTaWNb)0.7Y0.3, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_046",
+    "question": "What is the measurement temperature for (MoTaWNb)0.7Y0.3,'s wear resistance of 0.0001 mm3·N−1·m−1,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   },
+   {
+    "id": "55_047",
+    "question": "What temperature conditions were used to measure the wear resistance of 0.0001 mm3·N−1·m−1, in (MoTaWNb)0.7Y0.3,?",
+    "answer": "Room Temperature",
+    "answer_start": 151
+   }
+  ]
+ },
+ {
+  "cid": 41,
+  "context": "[{name:ZrNbTaHf0.8,,composition:{Zr:1,Nb:1,Ta:1,Hf:0.8},performance_properties:{hardness:{type:hardness,measurements:[{temperature:1773 K,value:<Value> <Unit>}]},strength:{type:strength,measurements:[{temperature:1773 K,value:<Value> <Unit>}]},compressive_deformation:{type:compressive deformation,measurements:[{temperature:1773 K,value:15 %}]}}}]",
+  "qas": [
+   {
+    "id": "65_000",
+    "question": "What is the compressive deformation of ZrNbTaHf0.8, at 1773 K?",
+    "answer": "15 %",
+    "answer_start": 338
+   },
+   {
+    "id": "65_001",
+    "question": "Can you tell me the compressive deformation value for ZrNbTaHf0.8, at 1773 K?",
+    "answer": "15 %",
+    "answer_start": 338
+   },
+   {
+    "id": "65_002",
+    "question": "What compressive deformation does ZrNbTaHf0.8, exhibit at 1773 K?",
+    "answer": "15 %",
+    "answer_start": 338
+   },
+   {
+    "id": "65_003",
+    "question": "For the alloy ZrNbTaHf0.8,, what is its compressive deformation at 1773 K?",
+    "answer": "15 %",
+    "answer_start": 338
+   },
+   {
+    "id": "65_004",
+    "question": "Could you provide the compressive deformation measurement for ZrNbTaHf0.8, at 1773 K?",
+    "answer": "15 %",
+    "answer_start": 338
+   },
+   {
+    "id": "65_005",
+    "question": "At what temperature is the compressive deformation of 15 % in ZrNbTaHf0.8, measured?",
+    "answer": "1773 K",
+    "answer_start": 131
+   },
+   {
+    "id": "65_006",
+    "question": "What is the measurement temperature for ZrNbTaHf0.8,'s compressive deformation of 15 %?",
+    "answer": "1773 K",
+    "answer_start": 131
+   },
+   {
+    "id": "65_007",
+    "question": "What temperature conditions were used to measure the compressive deformation of 15 % in ZrNbTaHf0.8,?",
+    "answer": "1773 K",
+    "answer_start": 131
+   }
+  ]
+ },
+ {
+  "cid": 45,
+  "context": "[{name:TiVNbTa,composition:{Ti:1,V:1,Nb:1,Ta:1},performance_properties:{ductility:{type:ductility,measurements:[{temperature:room temperature,value:40 %}]},yield_strength:{type:strength,measurements:[{temperature:room temperature,value:800 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "73_000",
+    "question": "What is the ductility of TiVNbTa at room temperature?",
+    "answer": "40 %",
+    "answer_start": 148
+   },
+   {
+    "id": "73_001",
+    "question": "Can you tell me the ductility value for TiVNbTa at room temperature?",
+    "answer": "40 %",
+    "answer_start": 148
+   },
+   {
+    "id": "73_002",
+    "question": "What ductility does TiVNbTa exhibit at room temperature?",
+    "answer": "40 %",
+    "answer_start": 148
+   },
+   {
+    "id": "73_003",
+    "question": "For the alloy TiVNbTa, what is its ductility at room temperature?",
+    "answer": "40 %",
+    "answer_start": 148
+   },
+   {
+    "id": "73_004",
+    "question": "Could you provide the ductility measurement for TiVNbTa at room temperature?",
+    "answer": "40 %",
+    "answer_start": 148
+   },
+   {
+    "id": "73_005",
+    "question": "At what temperature is the ductility of 40 % in TiVNbTa measured?",
+    "answer": "room temperature",
+    "answer_start": 125
+   },
+   {
+    "id": "73_006",
+    "question": "What is the measurement temperature for TiVNbTa's ductility of 40 %?",
+    "answer": "room temperature",
+    "answer_start": 125
+   },
+   {
+    "id": "73_007",
+    "question": "What temperature conditions were used to measure the ductility of 40 % in TiVNbTa?",
+    "answer": "room temperature",
+    "answer_start": 125
+   },
+   {
+    "id": "73_008",
+    "question": "What is the yield strength of TiVNbTa at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 236
+   },
+   {
+    "id": "73_009",
+    "question": "Can you tell me the yield strength value for TiVNbTa at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 236
+   },
+   {
+    "id": "73_010",
+    "question": "What yield strength does TiVNbTa exhibit at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 236
+   },
+   {
+    "id": "73_011",
+    "question": "For the alloy TiVNbTa, what is its yield strength at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 236
+   },
+   {
+    "id": "73_012",
+    "question": "Could you provide the yield strength measurement for TiVNbTa at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 236
+   },
+   {
+    "id": "73_013",
+    "question": "At what temperature is the yield strength of 800 MPa in TiVNbTa measured?",
+    "answer": "room temperature",
+    "answer_start": 125
+   },
+   {
+    "id": "73_014",
+    "question": "What is the measurement temperature for TiVNbTa's yield strength of 800 MPa?",
+    "answer": "room temperature",
+    "answer_start": 125
+   },
+   {
+    "id": "73_015",
+    "question": "What temperature conditions were used to measure the yield strength of 800 MPa in TiVNbTa?",
+    "answer": "room temperature",
+    "answer_start": 125
+   }
+  ]
+ },
+ {
+  "cid": 47,
+  "context": "[{name:NbTa0.5TiZr0.0,,composition:{Nb:1,Ta:0.5,Ti:1,Zr:0.0},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:room temperature,value:1320 MPa}]},compressive_strain:{type:strain,measurements:[{temperature:room temperature,value:75 %}]}}},{name:NbTa0.5TiZr10.0,,composition:{Nb:1,Ta:0.5,Ti:1,Zr:10.0},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:room temperature,value:1320 MPa}]},compressive_strain:{type:strain,measurements:[{temperature:room temperature,value:75 %}]}}}]",
+  "qas": [
+   {
+    "id": "75_000",
+    "question": "What is the compressive strain of NbTa0.5TiZr0.0, at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_001",
+    "question": "Can you tell me the compressive strain value for NbTa0.5TiZr0.0, at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_002",
+    "question": "What compressive strain does NbTa0.5TiZr0.0, exhibit at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_003",
+    "question": "For the alloy NbTa0.5TiZr0.0,, what is its compressive strain at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_004",
+    "question": "Could you provide the compressive strain measurement for NbTa0.5TiZr0.0, at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_005",
+    "question": "At what temperature is the compressive strain of 75 % in NbTa0.5TiZr0.0, measured?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_006",
+    "question": "What is the measurement temperature for NbTa0.5TiZr0.0,'s compressive strain of 75 %?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_007",
+    "question": "What temperature conditions were used to measure the compressive strain of 75 % in NbTa0.5TiZr0.0,?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_008",
+    "question": "What is the compressive strain of NbTa0.5TiZr10.0, at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_009",
+    "question": "Can you tell me the compressive strain value for NbTa0.5TiZr10.0, at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_010",
+    "question": "What compressive strain does NbTa0.5TiZr10.0, exhibit at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_011",
+    "question": "For the alloy NbTa0.5TiZr10.0,, what is its compressive strain at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_012",
+    "question": "Could you provide the compressive strain measurement for NbTa0.5TiZr10.0, at room temperature?",
+    "answer": "75 %",
+    "answer_start": 259
+   },
+   {
+    "id": "75_013",
+    "question": "At what temperature is the compressive strain of 75 % in NbTa0.5TiZr10.0, measured?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_014",
+    "question": "What is the measurement temperature for NbTa0.5TiZr10.0,'s compressive strain of 75 %?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_015",
+    "question": "What temperature conditions were used to measure the compressive strain of 75 % in NbTa0.5TiZr10.0,?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_016",
+    "question": "What is the yield strength of NbTa0.5TiZr0.0, at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_017",
+    "question": "Can you tell me the yield strength value for NbTa0.5TiZr0.0, at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_018",
+    "question": "What yield strength does NbTa0.5TiZr0.0, exhibit at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_019",
+    "question": "For the alloy NbTa0.5TiZr0.0,, what is its yield strength at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_020",
+    "question": "Could you provide the yield strength measurement for NbTa0.5TiZr0.0, at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_021",
+    "question": "At what temperature is the yield strength of 1320 MPa in NbTa0.5TiZr0.0, measured?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_022",
+    "question": "What is the measurement temperature for NbTa0.5TiZr0.0,'s yield strength of 1320 MPa?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_023",
+    "question": "What temperature conditions were used to measure the yield strength of 1320 MPa in NbTa0.5TiZr0.0,?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_024",
+    "question": "What is the yield strength of NbTa0.5TiZr10.0, at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_025",
+    "question": "Can you tell me the yield strength value for NbTa0.5TiZr10.0, at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_026",
+    "question": "What yield strength does NbTa0.5TiZr10.0, exhibit at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_027",
+    "question": "For the alloy NbTa0.5TiZr10.0,, what is its yield strength at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_028",
+    "question": "Could you provide the yield strength measurement for NbTa0.5TiZr10.0, at room temperature?",
+    "answer": "1320 MPa",
+    "answer_start": 165
+   },
+   {
+    "id": "75_029",
+    "question": "At what temperature is the yield strength of 1320 MPa in NbTa0.5TiZr10.0, measured?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_030",
+    "question": "What is the measurement temperature for NbTa0.5TiZr10.0,'s yield strength of 1320 MPa?",
+    "answer": "room temperature",
+    "answer_start": 142
+   },
+   {
+    "id": "75_031",
+    "question": "What temperature conditions were used to measure the yield strength of 1320 MPa in NbTa0.5TiZr10.0,?",
+    "answer": "room temperature",
+    "answer_start": 142
+   }
+  ]
+ },
+ {
+  "cid": 56,
+  "context": "[{name:AlVCrCoNiMo,composition:{Al:1,V:1,Cr:1,Co:1,Ni:1,Mo:1},performance_properties:{specific_yield_strength:{type:strength,measurements:[{temperature:25 °C,value:397 (MPa cm3)/g},{temperature:800 °C,value:144 (MPa cm3)/g},{temperature:900 °C,value:105 (MPa cm3)/g}]}}}]",
+  "qas": [
+   {
+    "id": "85_000",
+    "question": "What is the specific yield strength of AlVCrCoNiMo at 25 °C?",
+    "answer": "397 (MPa cm3)/g",
+    "answer_start": 164
+   },
+   {
+    "id": "85_001",
+    "question": "Can you tell me the specific yield strength value for AlVCrCoNiMo at 25 °C?",
+    "answer": "397 (MPa cm3)/g",
+    "answer_start": 164
+   },
+   {
+    "id": "85_002",
+    "question": "What specific yield strength does AlVCrCoNiMo exhibit at 25 °C?",
+    "answer": "397 (MPa cm3)/g",
+    "answer_start": 164
+   },
+   {
+    "id": "85_003",
+    "question": "For the alloy AlVCrCoNiMo, what is its specific yield strength at 25 °C?",
+    "answer": "397 (MPa cm3)/g",
+    "answer_start": 164
+   },
+   {
+    "id": "85_004",
+    "question": "Could you provide the specific yield strength measurement for AlVCrCoNiMo at 25 °C?",
+    "answer": "397 (MPa cm3)/g",
+    "answer_start": 164
+   },
+   {
+    "id": "85_005",
+    "question": "At what temperature is the specific yield strength of 397 (MPa cm3)/g in AlVCrCoNiMo measured?",
+    "answer": "25 °C",
+    "answer_start": 152
+   },
+   {
+    "id": "85_006",
+    "question": "What is the measurement temperature for AlVCrCoNiMo's specific yield strength of 397 (MPa cm3)/g?",
+    "answer": "25 °C",
+    "answer_start": 152
+   },
+   {
+    "id": "85_007",
+    "question": "What temperature conditions were used to measure the specific yield strength of 397 (MPa cm3)/g in AlVCrCoNiMo?",
+    "answer": "25 °C",
+    "answer_start": 152
+   },
+   {
+    "id": "85_008",
+    "question": "What is the specific yield strength of AlVCrCoNiMo at 800 °C?",
+    "answer": "144 (MPa cm3)/g",
+    "answer_start": 207
+   },
+   {
+    "id": "85_009",
+    "question": "Can you tell me the specific yield strength value for AlVCrCoNiMo at 800 °C?",
+    "answer": "144 (MPa cm3)/g",
+    "answer_start": 207
+   },
+   {
+    "id": "85_010",
+    "question": "What specific yield strength does AlVCrCoNiMo exhibit at 800 °C?",
+    "answer": "144 (MPa cm3)/g",
+    "answer_start": 207
+   },
+   {
+    "id": "85_011",
+    "question": "For the alloy AlVCrCoNiMo, what is its specific yield strength at 800 °C?",
+    "answer": "144 (MPa cm3)/g",
+    "answer_start": 207
+   },
+   {
+    "id": "85_012",
+    "question": "Could you provide the specific yield strength measurement for AlVCrCoNiMo at 800 °C?",
+    "answer": "144 (MPa cm3)/g",
+    "answer_start": 207
+   },
+   {
+    "id": "85_013",
+    "question": "At what temperature is the specific yield strength of 144 (MPa cm3)/g in AlVCrCoNiMo measured?",
+    "answer": "800 °C",
+    "answer_start": 194
+   },
+   {
+    "id": "85_014",
+    "question": "What is the measurement temperature for AlVCrCoNiMo's specific yield strength of 144 (MPa cm3)/g?",
+    "answer": "800 °C",
+    "answer_start": 194
+   },
+   {
+    "id": "85_015",
+    "question": "What temperature conditions were used to measure the specific yield strength of 144 (MPa cm3)/g in AlVCrCoNiMo?",
+    "answer": "800 °C",
+    "answer_start": 194
+   },
+   {
+    "id": "85_016",
+    "question": "What is the specific yield strength of AlVCrCoNiMo at 900 °C?",
+    "answer": "105 (MPa cm3)/g",
+    "answer_start": 250
+   },
+   {
+    "id": "85_017",
+    "question": "Can you tell me the specific yield strength value for AlVCrCoNiMo at 900 °C?",
+    "answer": "105 (MPa cm3)/g",
+    "answer_start": 250
+   },
+   {
+    "id": "85_018",
+    "question": "What specific yield strength does AlVCrCoNiMo exhibit at 900 °C?",
+    "answer": "105 (MPa cm3)/g",
+    "answer_start": 250
+   },
+   {
+    "id": "85_019",
+    "question": "For the alloy AlVCrCoNiMo, what is its specific yield strength at 900 °C?",
+    "answer": "105 (MPa cm3)/g",
+    "answer_start": 250
+   },
+   {
+    "id": "85_020",
+    "question": "Could you provide the specific yield strength measurement for AlVCrCoNiMo at 900 °C?",
+    "answer": "105 (MPa cm3)/g",
+    "answer_start": 250
+   },
+   {
+    "id": "85_021",
+    "question": "At what temperature is the specific yield strength of 105 (MPa cm3)/g in AlVCrCoNiMo measured?",
+    "answer": "900 °C",
+    "answer_start": 237
+   },
+   {
+    "id": "85_022",
+    "question": "What is the measurement temperature for AlVCrCoNiMo's specific yield strength of 105 (MPa cm3)/g?",
+    "answer": "900 °C",
+    "answer_start": 237
+   },
+   {
+    "id": "85_023",
+    "question": "What temperature conditions were used to measure the specific yield strength of 105 (MPa cm3)/g in AlVCrCoNiMo?",
+    "answer": "900 °C",
+    "answer_start": 237
+   }
+  ]
+ },
+ {
+  "cid": 58,
+  "context": "[{name:Ti40Zr40Nb10Ta10Al0.0,,composition:{Ti:40,Zr:40,Nb:10,Ta:10,Al:0.0},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:1030 MPa}]},hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:<Value> <Unit>}]},elongation:{type:ductility,measurements:[{temperature:Room Temperature,value:13.4 %}]}}},{name:Ti40Zr40Nb10Ta10Al0.08,,composition:{Ti:40,Zr:40,Nb:10,Ta:10,Al:8.0},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:1030 MPa}]},hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:<Value> <Unit>}]},elongation:{type:ductility,measurements:[{temperature:Room Temperature,value:13.4 %}]}}}]",
+  "qas": [
+   {
+    "id": "90_000",
+    "question": "What is the elongation of Ti40Zr40Nb10Ta10Al0.0, at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_001",
+    "question": "Can you tell me the elongation value for Ti40Zr40Nb10Ta10Al0.0, at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_002",
+    "question": "What elongation does Ti40Zr40Nb10Ta10Al0.0, exhibit at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_003",
+    "question": "For the alloy Ti40Zr40Nb10Ta10Al0.0,, what is its elongation at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_004",
+    "question": "Could you provide the elongation measurement for Ti40Zr40Nb10Ta10Al0.0, at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_005",
+    "question": "At what temperature is the elongation of 13.4 % in Ti40Zr40Nb10Ta10Al0.0, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_006",
+    "question": "What is the measurement temperature for Ti40Zr40Nb10Ta10Al0.0,'s elongation of 13.4 %?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_007",
+    "question": "What temperature conditions were used to measure the elongation of 13.4 % in Ti40Zr40Nb10Ta10Al0.0,?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_008",
+    "question": "What is the elongation of Ti40Zr40Nb10Ta10Al0.08, at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_009",
+    "question": "Can you tell me the elongation value for Ti40Zr40Nb10Ta10Al0.08, at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_010",
+    "question": "What elongation does Ti40Zr40Nb10Ta10Al0.08, exhibit at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_011",
+    "question": "For the alloy Ti40Zr40Nb10Ta10Al0.08,, what is its elongation at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_012",
+    "question": "Could you provide the elongation measurement for Ti40Zr40Nb10Ta10Al0.08, at Room Temperature?",
+    "answer": "13.4 %",
+    "answer_start": 360
+   },
+   {
+    "id": "90_013",
+    "question": "At what temperature is the elongation of 13.4 % in Ti40Zr40Nb10Ta10Al0.08, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_014",
+    "question": "What is the measurement temperature for Ti40Zr40Nb10Ta10Al0.08,'s elongation of 13.4 %?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_015",
+    "question": "What temperature conditions were used to measure the elongation of 13.4 % in Ti40Zr40Nb10Ta10Al0.08,?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_016",
+    "question": "What is the yield strength of Ti40Zr40Nb10Ta10Al0.0, at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_017",
+    "question": "Can you tell me the yield strength value for Ti40Zr40Nb10Ta10Al0.0, at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_018",
+    "question": "What yield strength does Ti40Zr40Nb10Ta10Al0.0, exhibit at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_019",
+    "question": "For the alloy Ti40Zr40Nb10Ta10Al0.0,, what is its yield strength at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_020",
+    "question": "Could you provide the yield strength measurement for Ti40Zr40Nb10Ta10Al0.0, at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_021",
+    "question": "At what temperature is the yield strength of 1030 MPa in Ti40Zr40Nb10Ta10Al0.0, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_022",
+    "question": "What is the measurement temperature for Ti40Zr40Nb10Ta10Al0.0,'s yield strength of 1030 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_023",
+    "question": "What temperature conditions were used to measure the yield strength of 1030 MPa in Ti40Zr40Nb10Ta10Al0.0,?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_024",
+    "question": "What is the yield strength of Ti40Zr40Nb10Ta10Al0.08, at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_025",
+    "question": "Can you tell me the yield strength value for Ti40Zr40Nb10Ta10Al0.08, at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_026",
+    "question": "What yield strength does Ti40Zr40Nb10Ta10Al0.08, exhibit at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_027",
+    "question": "For the alloy Ti40Zr40Nb10Ta10Al0.08,, what is its yield strength at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_028",
+    "question": "Could you provide the yield strength measurement for Ti40Zr40Nb10Ta10Al0.08, at Room Temperature?",
+    "answer": "1030 MPa",
+    "answer_start": 179
+   },
+   {
+    "id": "90_029",
+    "question": "At what temperature is the yield strength of 1030 MPa in Ti40Zr40Nb10Ta10Al0.08, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_030",
+    "question": "What is the measurement temperature for Ti40Zr40Nb10Ta10Al0.08,'s yield strength of 1030 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   },
+   {
+    "id": "90_031",
+    "question": "What temperature conditions were used to measure the yield strength of 1030 MPa in Ti40Zr40Nb10Ta10Al0.08,?",
+    "answer": "Room Temperature",
+    "answer_start": 156
+   }
+  ]
+ },
+ {
+  "cid": 67,
+  "context": "[{name:NbMoTaW-1ZrO2,,composition:{Nb:1,Mo:1,Ta:1,W:1,ZrO2,:0.01},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:1775 MPa},{temperature:Room Temperature,value:2118 MPa}]},ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:12.4 %}]}}}]",
+  "qas": [
+   {
+    "id": "106_000",
+    "question": "What is the ductility of NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "12.4 %",
+    "answer_start": 298
+   },
+   {
+    "id": "106_001",
+    "question": "Can you tell me the ductility value for NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "12.4 %",
+    "answer_start": 298
+   },
+   {
+    "id": "106_002",
+    "question": "What ductility does NbMoTaW-1ZrO2, exhibit at Room Temperature?",
+    "answer": "12.4 %",
+    "answer_start": 298
+   },
+   {
+    "id": "106_003",
+    "question": "For the alloy NbMoTaW-1ZrO2,, what is its ductility at Room Temperature?",
+    "answer": "12.4 %",
+    "answer_start": 298
+   },
+   {
+    "id": "106_004",
+    "question": "Could you provide the ductility measurement for NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "12.4 %",
+    "answer_start": 298
+   },
+   {
+    "id": "106_005",
+    "question": "At what temperature is the ductility of 12.4 % in NbMoTaW-1ZrO2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_006",
+    "question": "What is the measurement temperature for NbMoTaW-1ZrO2,'s ductility of 12.4 %?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_007",
+    "question": "What temperature conditions were used to measure the ductility of 12.4 % in NbMoTaW-1ZrO2,?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_008",
+    "question": "What is the strength of NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "1775 MPa",
+    "answer_start": 164
+   },
+   {
+    "id": "106_009",
+    "question": "Can you tell me the strength value for NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "1775 MPa",
+    "answer_start": 164
+   },
+   {
+    "id": "106_010",
+    "question": "What strength does NbMoTaW-1ZrO2, exhibit at Room Temperature?",
+    "answer": "1775 MPa",
+    "answer_start": 164
+   },
+   {
+    "id": "106_011",
+    "question": "For the alloy NbMoTaW-1ZrO2,, what is its strength at Room Temperature?",
+    "answer": "1775 MPa",
+    "answer_start": 164
+   },
+   {
+    "id": "106_012",
+    "question": "Could you provide the strength measurement for NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "1775 MPa",
+    "answer_start": 164
+   },
+   {
+    "id": "106_013",
+    "question": "At what temperature is the strength of 1775 MPa in NbMoTaW-1ZrO2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_014",
+    "question": "What is the measurement temperature for NbMoTaW-1ZrO2,'s strength of 1775 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_015",
+    "question": "What temperature conditions were used to measure the strength of 1775 MPa in NbMoTaW-1ZrO2,?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_016",
+    "question": "What is the strength of NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "2118 MPa",
+    "answer_start": 210
+   },
+   {
+    "id": "106_017",
+    "question": "Can you tell me the strength value for NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "2118 MPa",
+    "answer_start": 210
+   },
+   {
+    "id": "106_018",
+    "question": "What strength does NbMoTaW-1ZrO2, exhibit at Room Temperature?",
+    "answer": "2118 MPa",
+    "answer_start": 210
+   },
+   {
+    "id": "106_019",
+    "question": "For the alloy NbMoTaW-1ZrO2,, what is its strength at Room Temperature?",
+    "answer": "2118 MPa",
+    "answer_start": 210
+   },
+   {
+    "id": "106_020",
+    "question": "Could you provide the strength measurement for NbMoTaW-1ZrO2, at Room Temperature?",
+    "answer": "2118 MPa",
+    "answer_start": 210
+   },
+   {
+    "id": "106_021",
+    "question": "At what temperature is the strength of 2118 MPa in NbMoTaW-1ZrO2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_022",
+    "question": "What is the measurement temperature for NbMoTaW-1ZrO2,'s strength of 2118 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   },
+   {
+    "id": "106_023",
+    "question": "What temperature conditions were used to measure the strength of 2118 MPa in NbMoTaW-1ZrO2,?",
+    "answer": "Room Temperature",
+    "answer_start": 141
+   }
+  ]
+ },
+ {
+  "cid": 72,
+  "context": "[{name:Ti1.6ZrNbAl0.4V0.0,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.4,V:0.0},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:806 MPa}]},ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:13.2 %}]}}},{name:Ti1.6ZrNbAl0.4V0.2,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.4,V:0.2},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:806 MPa}]},ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:13.2 %}]}}},{name:Ti1.6ZrNbAl0.4V0.4,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.4,V:0.4},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:806 MPa}]},ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:13.2 %}]}}}]",
+  "qas": [
+   {
+    "id": "113_000",
+    "question": "What is the ductility of Ti1.6ZrNbAl0.4V0.0, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_001",
+    "question": "Can you tell me the ductility value for Ti1.6ZrNbAl0.4V0.0, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_002",
+    "question": "What ductility does Ti1.6ZrNbAl0.4V0.0, exhibit at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_003",
+    "question": "For the alloy Ti1.6ZrNbAl0.4V0.0,, what is its ductility at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_004",
+    "question": "Could you provide the ductility measurement for Ti1.6ZrNbAl0.4V0.0, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_005",
+    "question": "At what temperature is the ductility of 13.2 % in Ti1.6ZrNbAl0.4V0.0, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_006",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4V0.0,'s ductility of 13.2 %?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_007",
+    "question": "What temperature conditions were used to measure the ductility of 13.2 % in Ti1.6ZrNbAl0.4V0.0,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_008",
+    "question": "What is the ductility of Ti1.6ZrNbAl0.4V0.2, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_009",
+    "question": "Can you tell me the ductility value for Ti1.6ZrNbAl0.4V0.2, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_010",
+    "question": "What ductility does Ti1.6ZrNbAl0.4V0.2, exhibit at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_011",
+    "question": "For the alloy Ti1.6ZrNbAl0.4V0.2,, what is its ductility at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_012",
+    "question": "Could you provide the ductility measurement for Ti1.6ZrNbAl0.4V0.2, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_013",
+    "question": "At what temperature is the ductility of 13.2 % in Ti1.6ZrNbAl0.4V0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_014",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4V0.2,'s ductility of 13.2 %?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_015",
+    "question": "What temperature conditions were used to measure the ductility of 13.2 % in Ti1.6ZrNbAl0.4V0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_016",
+    "question": "What is the ductility of Ti1.6ZrNbAl0.4V0.4, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_017",
+    "question": "Can you tell me the ductility value for Ti1.6ZrNbAl0.4V0.4, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_018",
+    "question": "What ductility does Ti1.6ZrNbAl0.4V0.4, exhibit at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_019",
+    "question": "For the alloy Ti1.6ZrNbAl0.4V0.4,, what is its ductility at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_020",
+    "question": "Could you provide the ductility measurement for Ti1.6ZrNbAl0.4V0.4, at Room Temperature?",
+    "answer": "13.2 %",
+    "answer_start": 256
+   },
+   {
+    "id": "113_021",
+    "question": "At what temperature is the ductility of 13.2 % in Ti1.6ZrNbAl0.4V0.4, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_022",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4V0.4,'s ductility of 13.2 %?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_023",
+    "question": "What temperature conditions were used to measure the ductility of 13.2 % in Ti1.6ZrNbAl0.4V0.4,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_024",
+    "question": "What is the strength of Ti1.6ZrNbAl0.4V0.0, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_025",
+    "question": "Can you tell me the strength value for Ti1.6ZrNbAl0.4V0.0, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_026",
+    "question": "What strength does Ti1.6ZrNbAl0.4V0.0, exhibit at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_027",
+    "question": "For the alloy Ti1.6ZrNbAl0.4V0.0,, what is its strength at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_028",
+    "question": "Could you provide the strength measurement for Ti1.6ZrNbAl0.4V0.0, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_029",
+    "question": "At what temperature is the strength of 806 MPa in Ti1.6ZrNbAl0.4V0.0, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_030",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4V0.0,'s strength of 806 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_031",
+    "question": "What temperature conditions were used to measure the strength of 806 MPa in Ti1.6ZrNbAl0.4V0.0,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_032",
+    "question": "What is the strength of Ti1.6ZrNbAl0.4V0.2, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_033",
+    "question": "Can you tell me the strength value for Ti1.6ZrNbAl0.4V0.2, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_034",
+    "question": "What strength does Ti1.6ZrNbAl0.4V0.2, exhibit at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_035",
+    "question": "For the alloy Ti1.6ZrNbAl0.4V0.2,, what is its strength at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_036",
+    "question": "Could you provide the strength measurement for Ti1.6ZrNbAl0.4V0.2, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_037",
+    "question": "At what temperature is the strength of 806 MPa in Ti1.6ZrNbAl0.4V0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_038",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4V0.2,'s strength of 806 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_039",
+    "question": "What temperature conditions were used to measure the strength of 806 MPa in Ti1.6ZrNbAl0.4V0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_040",
+    "question": "What is the strength of Ti1.6ZrNbAl0.4V0.4, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_041",
+    "question": "Can you tell me the strength value for Ti1.6ZrNbAl0.4V0.4, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_042",
+    "question": "What strength does Ti1.6ZrNbAl0.4V0.4, exhibit at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_043",
+    "question": "For the alloy Ti1.6ZrNbAl0.4V0.4,, what is its strength at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_044",
+    "question": "Could you provide the strength measurement for Ti1.6ZrNbAl0.4V0.4, at Room Temperature?",
+    "answer": "806 MPa",
+    "answer_start": 169
+   },
+   {
+    "id": "113_045",
+    "question": "At what temperature is the strength of 806 MPa in Ti1.6ZrNbAl0.4V0.4, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_046",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4V0.4,'s strength of 806 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "113_047",
+    "question": "What temperature conditions were used to measure the strength of 806 MPa in Ti1.6ZrNbAl0.4V0.4,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   }
+  ]
+ },
+ {
+  "cid": 78,
+  "context": "[{name:NbMoTiV,composition:{Nb:1,Mo:1,Ti:1,V:1,Si:0},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:358.3 HV}]},strength:{type:compressive strength,measurements:[{temperature:room temperature,value:1747 MPa}]},fracture_strain:{type:fracture strain,measurements:[{temperature:room temperature,value:30 %}]}}},{name:NbMoTiVSi0.25,,composition:{Nb:1,Mo:1,Ti:1,V:1,Si:0.25},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:660.7 HV}]},strength:{type:compressive strength,measurements:[{temperature:room temperature,value:2038 MPa}]},fracture_strain:{type:fracture strain,measurements:[{temperature:room temperature,value:16 %}]}}},{name:NbMoTiVSi0.5,,composition:{Nb:1,Mo:1,Ti:1,V:1,Si:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:660.7 HV}]},strength:{type:compressive strength,measurements:[{temperature:room temperature,value:2038 MPa}]},fracture_strain:{type:fracture strain,measurements:[{temperature:room temperature,value:16 %}]}}}]",
+  "qas": [
+   {
+    "id": "123_000",
+    "question": "What is the fracture strain of NbMoTiV at room temperature?",
+    "answer": "30 %",
+    "answer_start": 349
+   },
+   {
+    "id": "123_001",
+    "question": "Can you tell me the fracture strain value for NbMoTiV at room temperature?",
+    "answer": "30 %",
+    "answer_start": 349
+   },
+   {
+    "id": "123_002",
+    "question": "What fracture strain does NbMoTiV exhibit at room temperature?",
+    "answer": "30 %",
+    "answer_start": 349
+   },
+   {
+    "id": "123_003",
+    "question": "For the alloy NbMoTiV, what is its fracture strain at room temperature?",
+    "answer": "30 %",
+    "answer_start": 349
+   },
+   {
+    "id": "123_004",
+    "question": "Could you provide the fracture strain measurement for NbMoTiV at room temperature?",
+    "answer": "30 %",
+    "answer_start": 349
+   },
+   {
+    "id": "123_005",
+    "question": "At what temperature is the fracture strain of 30 % in NbMoTiV measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_006",
+    "question": "What is the measurement temperature for NbMoTiV's fracture strain of 30 %?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_007",
+    "question": "What temperature conditions were used to measure the fracture strain of 30 % in NbMoTiV?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_008",
+    "question": "What is the fracture strain of NbMoTiVSi0.25, at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_009",
+    "question": "Can you tell me the fracture strain value for NbMoTiVSi0.25, at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_010",
+    "question": "What fracture strain does NbMoTiVSi0.25, exhibit at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_011",
+    "question": "For the alloy NbMoTiVSi0.25,, what is its fracture strain at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_012",
+    "question": "Could you provide the fracture strain measurement for NbMoTiVSi0.25, at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_013",
+    "question": "At what temperature is the fracture strain of 16 % in NbMoTiVSi0.25, measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_014",
+    "question": "What is the measurement temperature for NbMoTiVSi0.25,'s fracture strain of 16 %?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_015",
+    "question": "What temperature conditions were used to measure the fracture strain of 16 % in NbMoTiVSi0.25,?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_016",
+    "question": "What is the fracture strain of NbMoTiVSi0.5, at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_017",
+    "question": "Can you tell me the fracture strain value for NbMoTiVSi0.5, at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_018",
+    "question": "What fracture strain does NbMoTiVSi0.5, exhibit at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_019",
+    "question": "For the alloy NbMoTiVSi0.5,, what is its fracture strain at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_020",
+    "question": "Could you provide the fracture strain measurement for NbMoTiVSi0.5, at room temperature?",
+    "answer": "16 %",
+    "answer_start": 717
+   },
+   {
+    "id": "123_021",
+    "question": "At what temperature is the fracture strain of 16 % in NbMoTiVSi0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_022",
+    "question": "What is the measurement temperature for NbMoTiVSi0.5,'s fracture strain of 16 %?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_023",
+    "question": "What temperature conditions were used to measure the fracture strain of 16 % in NbMoTiVSi0.5,?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_024",
+    "question": "What is the hardness of NbMoTiV at room temperature?",
+    "answer": "358.3 HV",
+    "answer_start": 151
+   },
+   {
+    "id": "123_025",
+    "question": "Can you tell me the hardness value for NbMoTiV at room temperature?",
+    "answer": "358.3 HV",
+    "answer_start": 151
+   },
+   {
+    "id": "123_026",
+    "question": "What hardness does NbMoTiV exhibit at room temperature?",
+    "answer": "358.3 HV",
+    "answer_start": 151
+   },
+   {
+    "id": "123_027",
+    "question": "For the alloy NbMoTiV, what is its hardness at room temperature?",
+    "answer": "358.3 HV",
+    "answer_start": 151
+   },
+   {
+    "id": "123_028",
+    "question": "Could you provide the hardness measurement for NbMoTiV at room temperature?",
+    "answer": "358.3 HV",
+    "answer_start": 151
+   },
+   {
+    "id": "123_029",
+    "question": "At what temperature is the hardness of 358.3 HV in NbMoTiV measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_030",
+    "question": "What is the measurement temperature for NbMoTiV's hardness of 358.3 HV?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_031",
+    "question": "What temperature conditions were used to measure the hardness of 358.3 HV in NbMoTiV?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_032",
+    "question": "What is the hardness of NbMoTiVSi0.25, at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_033",
+    "question": "Can you tell me the hardness value for NbMoTiVSi0.25, at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_034",
+    "question": "What hardness does NbMoTiVSi0.25, exhibit at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_035",
+    "question": "For the alloy NbMoTiVSi0.25,, what is its hardness at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_036",
+    "question": "Could you provide the hardness measurement for NbMoTiVSi0.25, at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_037",
+    "question": "At what temperature is the hardness of 660.7 HV in NbMoTiVSi0.25, measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_038",
+    "question": "What is the measurement temperature for NbMoTiVSi0.25,'s hardness of 660.7 HV?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_039",
+    "question": "What temperature conditions were used to measure the hardness of 660.7 HV in NbMoTiVSi0.25,?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_040",
+    "question": "What is the hardness of NbMoTiVSi0.5, at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_041",
+    "question": "Can you tell me the hardness value for NbMoTiVSi0.5, at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_042",
+    "question": "What hardness does NbMoTiVSi0.5, exhibit at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_043",
+    "question": "For the alloy NbMoTiVSi0.5,, what is its hardness at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_044",
+    "question": "Could you provide the hardness measurement for NbMoTiVSi0.5, at room temperature?",
+    "answer": "660.7 HV",
+    "answer_start": 519
+   },
+   {
+    "id": "123_045",
+    "question": "At what temperature is the hardness of 660.7 HV in NbMoTiVSi0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_046",
+    "question": "What is the measurement temperature for NbMoTiVSi0.5,'s hardness of 660.7 HV?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_047",
+    "question": "What temperature conditions were used to measure the hardness of 660.7 HV in NbMoTiVSi0.5,?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_048",
+    "question": "What is the strength of NbMoTiV at room temperature?",
+    "answer": "1747 MPa",
+    "answer_start": 249
+   },
+   {
+    "id": "123_049",
+    "question": "Can you tell me the strength value for NbMoTiV at room temperature?",
+    "answer": "1747 MPa",
+    "answer_start": 249
+   },
+   {
+    "id": "123_050",
+    "question": "What strength does NbMoTiV exhibit at room temperature?",
+    "answer": "1747 MPa",
+    "answer_start": 249
+   },
+   {
+    "id": "123_051",
+    "question": "For the alloy NbMoTiV, what is its strength at room temperature?",
+    "answer": "1747 MPa",
+    "answer_start": 249
+   },
+   {
+    "id": "123_052",
+    "question": "Could you provide the strength measurement for NbMoTiV at room temperature?",
+    "answer": "1747 MPa",
+    "answer_start": 249
+   },
+   {
+    "id": "123_053",
+    "question": "At what temperature is the strength of 1747 MPa in NbMoTiV measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_054",
+    "question": "What is the measurement temperature for NbMoTiV's strength of 1747 MPa?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_055",
+    "question": "What temperature conditions were used to measure the strength of 1747 MPa in NbMoTiV?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_056",
+    "question": "What is the strength of NbMoTiVSi0.25, at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_057",
+    "question": "Can you tell me the strength value for NbMoTiVSi0.25, at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_058",
+    "question": "What strength does NbMoTiVSi0.25, exhibit at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_059",
+    "question": "For the alloy NbMoTiVSi0.25,, what is its strength at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_060",
+    "question": "Could you provide the strength measurement for NbMoTiVSi0.25, at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_061",
+    "question": "At what temperature is the strength of 2038 MPa in NbMoTiVSi0.25, measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_062",
+    "question": "What is the measurement temperature for NbMoTiVSi0.25,'s strength of 2038 MPa?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_063",
+    "question": "What temperature conditions were used to measure the strength of 2038 MPa in NbMoTiVSi0.25,?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_064",
+    "question": "What is the strength of NbMoTiVSi0.5, at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_065",
+    "question": "Can you tell me the strength value for NbMoTiVSi0.5, at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_066",
+    "question": "What strength does NbMoTiVSi0.5, exhibit at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_067",
+    "question": "For the alloy NbMoTiVSi0.5,, what is its strength at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_068",
+    "question": "Could you provide the strength measurement for NbMoTiVSi0.5, at room temperature?",
+    "answer": "2038 MPa",
+    "answer_start": 617
+   },
+   {
+    "id": "123_069",
+    "question": "At what temperature is the strength of 2038 MPa in NbMoTiVSi0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_070",
+    "question": "What is the measurement temperature for NbMoTiVSi0.5,'s strength of 2038 MPa?",
+    "answer": "room temperature",
+    "answer_start": 128
+   },
+   {
+    "id": "123_071",
+    "question": "What temperature conditions were used to measure the strength of 2038 MPa in NbMoTiVSi0.5,?",
+    "answer": "room temperature",
+    "answer_start": 128
+   }
+  ]
+ },
+ {
+  "cid": 80,
+  "context": "[{name:Al0.0Nb0.5TiV2Zr0.5,,composition:{Al:0.0,Nb:0.5,Ti:1,V:2,Zr:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:397.2 HV}]},strength:{type:strength,measurements:[{temperature:room temperature,value:843 MPa}]}}},{name:Al0.2Nb0.5TiV2Zr0.5,,composition:{Al:0.2,Nb:0.5,Ti:1,V:2,Zr:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:397.2 HV}]},strength:{type:strength,measurements:[{temperature:room temperature,value:843 MPa}]}}},{name:Al0.4Nb0.5TiV2Zr0.5,,composition:{Al:0.4,Nb:0.5,Ti:1,V:2,Zr:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:397.2 HV}]},strength:{type:strength,measurements:[{temperature:room temperature,value:843 MPa}]}}},{name:Al0.6Nb0.5TiV2Zr0.5,,composition:{Al:0.6,Nb:0.5,Ti:1,V:2,Zr:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:397.2 HV}]},strength:{type:strength,measurements:[{temperature:room temperature,value:843 MPa}]}}},{name:Al0.8Nb0.5TiV2Zr0.5,,composition:{Al:0.8,Nb:0.5,Ti:1,V:2,Zr:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:641.9 HV}]},strength:{type:strength,measurements:[{temperature:room temperature,value:1727 MPa},{temperature:873 K,value:1569 MPa},{temperature:1073 K,value:1108 MPa}]},compressive_strain:{type:compressive strain,measurements:[{temperature:room temperature,value:33.4 %},{temperature:room temperature,value:13.7 %},{temperature:room temperature,value:16.6 %}]},specific_yield_strength:{type:specific yield strength,measurements:[{temperature:298 K,value:312000 MPa·cm3g-1,},{temperature:873 K,value:284000 MPa·cm3g-1,},{temperature:1073 K,value:199000 MPa·cm3g-1,}]}}},{name:Al1.0Nb0.5TiV2Zr0.5,,composition:{Al:1.0,Nb:0.5,Ti:1,V:2,Zr:0.5},performance_properties:{hardness:{type:hardness,measurements:[{temperature:room temperature,value:641.9 HV}]},strength:{type:strength,measurements:[{temperature:room temperature,value:1727 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "125_000",
+    "question": "What is the compressive strain of Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "33.4 %",
+    "answer_start": 1505
+   },
+   {
+    "id": "125_001",
+    "question": "Can you tell me the compressive strain value for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "33.4 %",
+    "answer_start": 1505
+   },
+   {
+    "id": "125_002",
+    "question": "What compressive strain does Al0.8Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "33.4 %",
+    "answer_start": 1505
+   },
+   {
+    "id": "125_003",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its compressive strain at room temperature?",
+    "answer": "33.4 %",
+    "answer_start": 1505
+   },
+   {
+    "id": "125_004",
+    "question": "Could you provide the compressive strain measurement for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "33.4 %",
+    "answer_start": 1505
+   },
+   {
+    "id": "125_005",
+    "question": "At what temperature is the compressive strain of 33.4 % in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_006",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s compressive strain of 33.4 %?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_007",
+    "question": "What temperature conditions were used to measure the compressive strain of 33.4 % in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_008",
+    "question": "What is the compressive strain of Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "13.7 %",
+    "answer_start": 1549
+   },
+   {
+    "id": "125_009",
+    "question": "Can you tell me the compressive strain value for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "13.7 %",
+    "answer_start": 1549
+   },
+   {
+    "id": "125_010",
+    "question": "What compressive strain does Al0.8Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "13.7 %",
+    "answer_start": 1549
+   },
+   {
+    "id": "125_011",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its compressive strain at room temperature?",
+    "answer": "13.7 %",
+    "answer_start": 1549
+   },
+   {
+    "id": "125_012",
+    "question": "Could you provide the compressive strain measurement for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "13.7 %",
+    "answer_start": 1549
+   },
+   {
+    "id": "125_013",
+    "question": "At what temperature is the compressive strain of 13.7 % in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_014",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s compressive strain of 13.7 %?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_015",
+    "question": "What temperature conditions were used to measure the compressive strain of 13.7 % in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_016",
+    "question": "What is the compressive strain of Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "16.6 %",
+    "answer_start": 1593
+   },
+   {
+    "id": "125_017",
+    "question": "Can you tell me the compressive strain value for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "16.6 %",
+    "answer_start": 1593
+   },
+   {
+    "id": "125_018",
+    "question": "What compressive strain does Al0.8Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "16.6 %",
+    "answer_start": 1593
+   },
+   {
+    "id": "125_019",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its compressive strain at room temperature?",
+    "answer": "16.6 %",
+    "answer_start": 1593
+   },
+   {
+    "id": "125_020",
+    "question": "Could you provide the compressive strain measurement for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "16.6 %",
+    "answer_start": 1593
+   },
+   {
+    "id": "125_021",
+    "question": "At what temperature is the compressive strain of 16.6 % in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_022",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s compressive strain of 16.6 %?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_023",
+    "question": "What temperature conditions were used to measure the compressive strain of 16.6 % in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_024",
+    "question": "What is the hardness of Al0.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_025",
+    "question": "Can you tell me the hardness value for Al0.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_026",
+    "question": "What hardness does Al0.0Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_027",
+    "question": "For the alloy Al0.0Nb0.5TiV2Zr0.5,, what is its hardness at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_028",
+    "question": "Could you provide the hardness measurement for Al0.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_029",
+    "question": "At what temperature is the hardness of 397.2 HV in Al0.0Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_030",
+    "question": "What is the measurement temperature for Al0.0Nb0.5TiV2Zr0.5,'s hardness of 397.2 HV?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_031",
+    "question": "What temperature conditions were used to measure the hardness of 397.2 HV in Al0.0Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_032",
+    "question": "What is the hardness of Al0.2Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_033",
+    "question": "Can you tell me the hardness value for Al0.2Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_034",
+    "question": "What hardness does Al0.2Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_035",
+    "question": "For the alloy Al0.2Nb0.5TiV2Zr0.5,, what is its hardness at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_036",
+    "question": "Could you provide the hardness measurement for Al0.2Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_037",
+    "question": "At what temperature is the hardness of 397.2 HV in Al0.2Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_038",
+    "question": "What is the measurement temperature for Al0.2Nb0.5TiV2Zr0.5,'s hardness of 397.2 HV?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_039",
+    "question": "What temperature conditions were used to measure the hardness of 397.2 HV in Al0.2Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_040",
+    "question": "What is the hardness of Al0.4Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_041",
+    "question": "Can you tell me the hardness value for Al0.4Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_042",
+    "question": "What hardness does Al0.4Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_043",
+    "question": "For the alloy Al0.4Nb0.5TiV2Zr0.5,, what is its hardness at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_044",
+    "question": "Could you provide the hardness measurement for Al0.4Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_045",
+    "question": "At what temperature is the hardness of 397.2 HV in Al0.4Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_046",
+    "question": "What is the measurement temperature for Al0.4Nb0.5TiV2Zr0.5,'s hardness of 397.2 HV?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_047",
+    "question": "What temperature conditions were used to measure the hardness of 397.2 HV in Al0.4Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_048",
+    "question": "What is the hardness of Al0.6Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_049",
+    "question": "Can you tell me the hardness value for Al0.6Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_050",
+    "question": "What hardness does Al0.6Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_051",
+    "question": "For the alloy Al0.6Nb0.5TiV2Zr0.5,, what is its hardness at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_052",
+    "question": "Could you provide the hardness measurement for Al0.6Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "397.2 HV",
+    "answer_start": 170
+   },
+   {
+    "id": "125_053",
+    "question": "At what temperature is the hardness of 397.2 HV in Al0.6Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_054",
+    "question": "What is the measurement temperature for Al0.6Nb0.5TiV2Zr0.5,'s hardness of 397.2 HV?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_055",
+    "question": "What temperature conditions were used to measure the hardness of 397.2 HV in Al0.6Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_056",
+    "question": "What is the hardness of Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_057",
+    "question": "Can you tell me the hardness value for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_058",
+    "question": "What hardness does Al0.8Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_059",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its hardness at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_060",
+    "question": "Could you provide the hardness measurement for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_061",
+    "question": "At what temperature is the hardness of 641.9 HV in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_062",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s hardness of 641.9 HV?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_063",
+    "question": "What temperature conditions were used to measure the hardness of 641.9 HV in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_064",
+    "question": "What is the hardness of Al1.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_065",
+    "question": "Can you tell me the hardness value for Al1.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_066",
+    "question": "What hardness does Al1.0Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_067",
+    "question": "For the alloy Al1.0Nb0.5TiV2Zr0.5,, what is its hardness at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_068",
+    "question": "Could you provide the hardness measurement for Al1.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "641.9 HV",
+    "answer_start": 1242
+   },
+   {
+    "id": "125_069",
+    "question": "At what temperature is the hardness of 641.9 HV in Al1.0Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_070",
+    "question": "What is the measurement temperature for Al1.0Nb0.5TiV2Zr0.5,'s hardness of 641.9 HV?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_071",
+    "question": "What temperature conditions were used to measure the hardness of 641.9 HV in Al1.0Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_072",
+    "question": "What is the specific yield strength of Al0.8Nb0.5TiV2Zr0.5, at 1073 K?",
+    "answer": "199000 MPa·cm3g-1,",
+    "answer_start": 1787
+   },
+   {
+    "id": "125_073",
+    "question": "Can you tell me the specific yield strength value for Al0.8Nb0.5TiV2Zr0.5, at 1073 K?",
+    "answer": "199000 MPa·cm3g-1,",
+    "answer_start": 1787
+   },
+   {
+    "id": "125_074",
+    "question": "What specific yield strength does Al0.8Nb0.5TiV2Zr0.5, exhibit at 1073 K?",
+    "answer": "199000 MPa·cm3g-1,",
+    "answer_start": 1787
+   },
+   {
+    "id": "125_075",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its specific yield strength at 1073 K?",
+    "answer": "199000 MPa·cm3g-1,",
+    "answer_start": 1787
+   },
+   {
+    "id": "125_076",
+    "question": "Could you provide the specific yield strength measurement for Al0.8Nb0.5TiV2Zr0.5, at 1073 K?",
+    "answer": "199000 MPa·cm3g-1,",
+    "answer_start": 1787
+   },
+   {
+    "id": "125_077",
+    "question": "At what temperature is the specific yield strength of 199000 MPa·cm3g-1, in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "1073 K",
+    "answer_start": 1386
+   },
+   {
+    "id": "125_078",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s specific yield strength of 199000 MPa·cm3g-1,?",
+    "answer": "1073 K",
+    "answer_start": 1386
+   },
+   {
+    "id": "125_079",
+    "question": "What temperature conditions were used to measure the specific yield strength of 199000 MPa·cm3g-1, in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "1073 K",
+    "answer_start": 1386
+   },
+   {
+    "id": "125_080",
+    "question": "What is the specific yield strength of Al0.8Nb0.5TiV2Zr0.5, at 298 K?",
+    "answer": "312000 MPa·cm3g-1,",
+    "answer_start": 1696
+   },
+   {
+    "id": "125_081",
+    "question": "Can you tell me the specific yield strength value for Al0.8Nb0.5TiV2Zr0.5, at 298 K?",
+    "answer": "312000 MPa·cm3g-1,",
+    "answer_start": 1696
+   },
+   {
+    "id": "125_082",
+    "question": "What specific yield strength does Al0.8Nb0.5TiV2Zr0.5, exhibit at 298 K?",
+    "answer": "312000 MPa·cm3g-1,",
+    "answer_start": 1696
+   },
+   {
+    "id": "125_083",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its specific yield strength at 298 K?",
+    "answer": "312000 MPa·cm3g-1,",
+    "answer_start": 1696
+   },
+   {
+    "id": "125_084",
+    "question": "Could you provide the specific yield strength measurement for Al0.8Nb0.5TiV2Zr0.5, at 298 K?",
+    "answer": "312000 MPa·cm3g-1,",
+    "answer_start": 1696
+   },
+   {
+    "id": "125_085",
+    "question": "At what temperature is the specific yield strength of 312000 MPa·cm3g-1, in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "298 K",
+    "answer_start": 1684
+   },
+   {
+    "id": "125_086",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s specific yield strength of 312000 MPa·cm3g-1,?",
+    "answer": "298 K",
+    "answer_start": 1684
+   },
+   {
+    "id": "125_087",
+    "question": "What temperature conditions were used to measure the specific yield strength of 312000 MPa·cm3g-1, in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "298 K",
+    "answer_start": 1684
+   },
+   {
+    "id": "125_088",
+    "question": "What is the specific yield strength of Al0.8Nb0.5TiV2Zr0.5, at 873 K?",
+    "answer": "284000 MPa·cm3g-1,",
+    "answer_start": 1741
+   },
+   {
+    "id": "125_089",
+    "question": "Can you tell me the specific yield strength value for Al0.8Nb0.5TiV2Zr0.5, at 873 K?",
+    "answer": "284000 MPa·cm3g-1,",
+    "answer_start": 1741
+   },
+   {
+    "id": "125_090",
+    "question": "What specific yield strength does Al0.8Nb0.5TiV2Zr0.5, exhibit at 873 K?",
+    "answer": "284000 MPa·cm3g-1,",
+    "answer_start": 1741
+   },
+   {
+    "id": "125_091",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its specific yield strength at 873 K?",
+    "answer": "284000 MPa·cm3g-1,",
+    "answer_start": 1741
+   },
+   {
+    "id": "125_092",
+    "question": "Could you provide the specific yield strength measurement for Al0.8Nb0.5TiV2Zr0.5, at 873 K?",
+    "answer": "284000 MPa·cm3g-1,",
+    "answer_start": 1741
+   },
+   {
+    "id": "125_093",
+    "question": "At what temperature is the specific yield strength of 284000 MPa·cm3g-1, in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "873 K",
+    "answer_start": 1351
+   },
+   {
+    "id": "125_094",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s specific yield strength of 284000 MPa·cm3g-1,?",
+    "answer": "873 K",
+    "answer_start": 1351
+   },
+   {
+    "id": "125_095",
+    "question": "What temperature conditions were used to measure the specific yield strength of 284000 MPa·cm3g-1, in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "873 K",
+    "answer_start": 1351
+   },
+   {
+    "id": "125_096",
+    "question": "What is the strength of Al0.8Nb0.5TiV2Zr0.5, at 1073 K?",
+    "answer": "1108 MPa",
+    "answer_start": 1399
+   },
+   {
+    "id": "125_097",
+    "question": "Can you tell me the strength value for Al0.8Nb0.5TiV2Zr0.5, at 1073 K?",
+    "answer": "1108 MPa",
+    "answer_start": 1399
+   },
+   {
+    "id": "125_098",
+    "question": "What strength does Al0.8Nb0.5TiV2Zr0.5, exhibit at 1073 K?",
+    "answer": "1108 MPa",
+    "answer_start": 1399
+   },
+   {
+    "id": "125_099",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its strength at 1073 K?",
+    "answer": "1108 MPa",
+    "answer_start": 1399
+   },
+   {
+    "id": "125_100",
+    "question": "Could you provide the strength measurement for Al0.8Nb0.5TiV2Zr0.5, at 1073 K?",
+    "answer": "1108 MPa",
+    "answer_start": 1399
+   },
+   {
+    "id": "125_101",
+    "question": "At what temperature is the strength of 1108 MPa in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "1073 K",
+    "answer_start": 1386
+   },
+   {
+    "id": "125_102",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s strength of 1108 MPa?",
+    "answer": "1073 K",
+    "answer_start": 1386
+   },
+   {
+    "id": "125_103",
+    "question": "What temperature conditions were used to measure the strength of 1108 MPa in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "1073 K",
+    "answer_start": 1386
+   },
+   {
+    "id": "125_104",
+    "question": "What is the strength of Al0.8Nb0.5TiV2Zr0.5, at 873 K?",
+    "answer": "1569 MPa",
+    "answer_start": 1363
+   },
+   {
+    "id": "125_105",
+    "question": "Can you tell me the strength value for Al0.8Nb0.5TiV2Zr0.5, at 873 K?",
+    "answer": "1569 MPa",
+    "answer_start": 1363
+   },
+   {
+    "id": "125_106",
+    "question": "What strength does Al0.8Nb0.5TiV2Zr0.5, exhibit at 873 K?",
+    "answer": "1569 MPa",
+    "answer_start": 1363
+   },
+   {
+    "id": "125_107",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its strength at 873 K?",
+    "answer": "1569 MPa",
+    "answer_start": 1363
+   },
+   {
+    "id": "125_108",
+    "question": "Could you provide the strength measurement for Al0.8Nb0.5TiV2Zr0.5, at 873 K?",
+    "answer": "1569 MPa",
+    "answer_start": 1363
+   },
+   {
+    "id": "125_109",
+    "question": "At what temperature is the strength of 1569 MPa in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "873 K",
+    "answer_start": 1351
+   },
+   {
+    "id": "125_110",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s strength of 1569 MPa?",
+    "answer": "873 K",
+    "answer_start": 1351
+   },
+   {
+    "id": "125_111",
+    "question": "What temperature conditions were used to measure the strength of 1569 MPa in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "873 K",
+    "answer_start": 1351
+   },
+   {
+    "id": "125_112",
+    "question": "What is the strength of Al0.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_113",
+    "question": "Can you tell me the strength value for Al0.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_114",
+    "question": "What strength does Al0.0Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_115",
+    "question": "For the alloy Al0.0Nb0.5TiV2Zr0.5,, what is its strength at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_116",
+    "question": "Could you provide the strength measurement for Al0.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_117",
+    "question": "At what temperature is the strength of 843 MPa in Al0.0Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_118",
+    "question": "What is the measurement temperature for Al0.0Nb0.5TiV2Zr0.5,'s strength of 843 MPa?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_119",
+    "question": "What temperature conditions were used to measure the strength of 843 MPa in Al0.0Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_120",
+    "question": "What is the strength of Al0.2Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_121",
+    "question": "Can you tell me the strength value for Al0.2Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_122",
+    "question": "What strength does Al0.2Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_123",
+    "question": "For the alloy Al0.2Nb0.5TiV2Zr0.5,, what is its strength at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_124",
+    "question": "Could you provide the strength measurement for Al0.2Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_125",
+    "question": "At what temperature is the strength of 843 MPa in Al0.2Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_126",
+    "question": "What is the measurement temperature for Al0.2Nb0.5TiV2Zr0.5,'s strength of 843 MPa?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_127",
+    "question": "What temperature conditions were used to measure the strength of 843 MPa in Al0.2Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_128",
+    "question": "What is the strength of Al0.4Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_129",
+    "question": "Can you tell me the strength value for Al0.4Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_130",
+    "question": "What strength does Al0.4Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_131",
+    "question": "For the alloy Al0.4Nb0.5TiV2Zr0.5,, what is its strength at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_132",
+    "question": "Could you provide the strength measurement for Al0.4Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_133",
+    "question": "At what temperature is the strength of 843 MPa in Al0.4Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_134",
+    "question": "What is the measurement temperature for Al0.4Nb0.5TiV2Zr0.5,'s strength of 843 MPa?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_135",
+    "question": "What temperature conditions were used to measure the strength of 843 MPa in Al0.4Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_136",
+    "question": "What is the strength of Al0.6Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_137",
+    "question": "Can you tell me the strength value for Al0.6Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_138",
+    "question": "What strength does Al0.6Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_139",
+    "question": "For the alloy Al0.6Nb0.5TiV2Zr0.5,, what is its strength at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_140",
+    "question": "Could you provide the strength measurement for Al0.6Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "843 MPa",
+    "answer_start": 256
+   },
+   {
+    "id": "125_141",
+    "question": "At what temperature is the strength of 843 MPa in Al0.6Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_142",
+    "question": "What is the measurement temperature for Al0.6Nb0.5TiV2Zr0.5,'s strength of 843 MPa?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_143",
+    "question": "What temperature conditions were used to measure the strength of 843 MPa in Al0.6Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_144",
+    "question": "What is the strength of Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_145",
+    "question": "Can you tell me the strength value for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_146",
+    "question": "What strength does Al0.8Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_147",
+    "question": "For the alloy Al0.8Nb0.5TiV2Zr0.5,, what is its strength at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_148",
+    "question": "Could you provide the strength measurement for Al0.8Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_149",
+    "question": "At what temperature is the strength of 1727 MPa in Al0.8Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_150",
+    "question": "What is the measurement temperature for Al0.8Nb0.5TiV2Zr0.5,'s strength of 1727 MPa?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_151",
+    "question": "What temperature conditions were used to measure the strength of 1727 MPa in Al0.8Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_152",
+    "question": "What is the strength of Al1.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_153",
+    "question": "Can you tell me the strength value for Al1.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_154",
+    "question": "What strength does Al1.0Nb0.5TiV2Zr0.5, exhibit at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_155",
+    "question": "For the alloy Al1.0Nb0.5TiV2Zr0.5,, what is its strength at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_156",
+    "question": "Could you provide the strength measurement for Al1.0Nb0.5TiV2Zr0.5, at room temperature?",
+    "answer": "1727 MPa",
+    "answer_start": 1328
+   },
+   {
+    "id": "125_157",
+    "question": "At what temperature is the strength of 1727 MPa in Al1.0Nb0.5TiV2Zr0.5, measured?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_158",
+    "question": "What is the measurement temperature for Al1.0Nb0.5TiV2Zr0.5,'s strength of 1727 MPa?",
+    "answer": "room temperature",
+    "answer_start": 147
+   },
+   {
+    "id": "125_159",
+    "question": "What temperature conditions were used to measure the strength of 1727 MPa in Al1.0Nb0.5TiV2Zr0.5,?",
+    "answer": "room temperature",
+    "answer_start": 147
+   }
+  ]
+ },
+ {
+  "cid": 82,
+  "context": "[{name:CrFeNbTiMo,composition:{Cr:1,Fe:1,Nb:1,Ti:1,Mo:1},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:785.26 MPa}]},hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:931 HV}]}}}]",
+  "qas": [
+   {
+    "id": "127_000",
+    "question": "What is the hardness of CrFeNbTiMo at Room Temperature?",
+    "answer": "931 HV",
+    "answer_start": 243
+   },
+   {
+    "id": "127_001",
+    "question": "Can you tell me the hardness value for CrFeNbTiMo at Room Temperature?",
+    "answer": "931 HV",
+    "answer_start": 243
+   },
+   {
+    "id": "127_002",
+    "question": "What hardness does CrFeNbTiMo exhibit at Room Temperature?",
+    "answer": "931 HV",
+    "answer_start": 243
+   },
+   {
+    "id": "127_003",
+    "question": "For the alloy CrFeNbTiMo, what is its hardness at Room Temperature?",
+    "answer": "931 HV",
+    "answer_start": 243
+   },
+   {
+    "id": "127_004",
+    "question": "Could you provide the hardness measurement for CrFeNbTiMo at Room Temperature?",
+    "answer": "931 HV",
+    "answer_start": 243
+   },
+   {
+    "id": "127_005",
+    "question": "At what temperature is the hardness of 931 HV in CrFeNbTiMo measured?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "127_006",
+    "question": "What is the measurement temperature for CrFeNbTiMo's hardness of 931 HV?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "127_007",
+    "question": "What temperature conditions were used to measure the hardness of 931 HV in CrFeNbTiMo?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "127_008",
+    "question": "What is the strength of CrFeNbTiMo at Room Temperature?",
+    "answer": "785.26 MPa",
+    "answer_start": 155
+   },
+   {
+    "id": "127_009",
+    "question": "Can you tell me the strength value for CrFeNbTiMo at Room Temperature?",
+    "answer": "785.26 MPa",
+    "answer_start": 155
+   },
+   {
+    "id": "127_010",
+    "question": "What strength does CrFeNbTiMo exhibit at Room Temperature?",
+    "answer": "785.26 MPa",
+    "answer_start": 155
+   },
+   {
+    "id": "127_011",
+    "question": "For the alloy CrFeNbTiMo, what is its strength at Room Temperature?",
+    "answer": "785.26 MPa",
+    "answer_start": 155
+   },
+   {
+    "id": "127_012",
+    "question": "Could you provide the strength measurement for CrFeNbTiMo at Room Temperature?",
+    "answer": "785.26 MPa",
+    "answer_start": 155
+   },
+   {
+    "id": "127_013",
+    "question": "At what temperature is the strength of 785.26 MPa in CrFeNbTiMo measured?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "127_014",
+    "question": "What is the measurement temperature for CrFeNbTiMo's strength of 785.26 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "127_015",
+    "question": "What temperature conditions were used to measure the strength of 785.26 MPa in CrFeNbTiMo?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   }
+  ]
+ }
+]

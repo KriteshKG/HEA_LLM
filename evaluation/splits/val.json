@@ -1,0 +1,3212 @@
+[
+ {
+  "cid": 8,
+  "context": "[{name:AlNbTiVZr,composition:{Al:1,Nb:1,Ti:1,V:1,Zr:1},performance_properties:{tensile_strength:{type:strength,measurements:[{temperature:Room Temperature,value:1068.0 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "16_000",
+    "question": "What is the tensile strength of AlNbTiVZr at Room Temperature?",
+    "answer": "1068.0 MPa",
+    "answer_start": 161
+   },
+   {
+    "id": "16_001",
+    "question": "Can you tell me the tensile strength value for AlNbTiVZr at Room Temperature?",
+    "answer": "1068.0 MPa",
+    "answer_start": 161
+   },
+   {
+    "id": "16_002",
+    "question": "What tensile strength does AlNbTiVZr exhibit at Room Temperature?",
+    "answer": "1068.0 MPa",
+    "answer_start": 161
+   },
+   {
+    "id": "16_003",
+    "question": "For the alloy AlNbTiVZr, what is its tensile strength at Room Temperature?",
+    "answer": "1068.0 MPa",
+    "answer_start": 161
+   },
+   {
+    "id": "16_004",
+    "question": "Could you provide the tensile strength measurement for AlNbTiVZr at Room Temperature?",
+    "answer": "1068.0 MPa",
+    "answer_start": 161
+   },
+   {
+    "id": "16_005",
+    "question": "At what temperature is the tensile strength of 1068.0 MPa in AlNbTiVZr measured?",
+    "answer": "Room Temperature",
+    "answer_start": 138
+   },
+   {
+    "id": "16_006",
+    "question": "What is the measurement temperature for AlNbTiVZr's tensile strength of 1068.0 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 138
+   },
+   {
+    "id": "16_007",
+    "question": "What temperature conditions were used to measure the tensile strength of 1068.0 MPa in AlNbTiVZr?",
+    "answer": "Room Temperature",
+    "answer_start": 138
+   }
+  ]
+ },
+ {
+  "cid": 21,
+  "context": "[{name:Mo0.0RHEA,composition:{Mo:0.0},performance_properties:{compressive_yield_strength:{type:strength,measurements:[{temperature:room temperature,value:1324.5 MPa},{temperature:room temperature,value:1424.4 MPa},{temperature:1500 °C,value:335.47 MPa}]},compressive_ductility:{type:ductility,measurements:[{temperature:room temperature,value:20.7 %},{temperature:room temperature,value:44.2 %}]}}}]",
+  "qas": [
+   {
+    "id": "35_000",
+    "question": "What is the compressive ductility of Mo0.0RHEA at room temperature?",
+    "answer": "20.7 %",
+    "answer_start": 343
+   },
+   {
+    "id": "35_001",
+    "question": "Can you tell me the compressive ductility value for Mo0.0RHEA at room temperature?",
+    "answer": "20.7 %",
+    "answer_start": 343
+   },
+   {
+    "id": "35_002",
+    "question": "What compressive ductility does Mo0.0RHEA exhibit at room temperature?",
+    "answer": "20.7 %",
+    "answer_start": 343
+   },
+   {
+    "id": "35_003",
+    "question": "For the alloy Mo0.0RHEA, what is its compressive ductility at room temperature?",
+    "answer": "20.7 %",
+    "answer_start": 343
+   },
+   {
+    "id": "35_004",
+    "question": "Could you provide the compressive ductility measurement for Mo0.0RHEA at room temperature?",
+    "answer": "20.7 %",
+    "answer_start": 343
+   },
+   {
+    "id": "35_005",
+    "question": "At what temperature is the compressive ductility of 20.7 % in Mo0.0RHEA measured?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_006",
+    "question": "What is the measurement temperature for Mo0.0RHEA's compressive ductility of 20.7 %?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_007",
+    "question": "What temperature conditions were used to measure the compressive ductility of 20.7 % in Mo0.0RHEA?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_008",
+    "question": "What is the compressive ductility of Mo0.0RHEA at room temperature?",
+    "answer": "44.2 %",
+    "answer_start": 387
+   },
+   {
+    "id": "35_009",
+    "question": "Can you tell me the compressive ductility value for Mo0.0RHEA at room temperature?",
+    "answer": "44.2 %",
+    "answer_start": 387
+   },
+   {
+    "id": "35_010",
+    "question": "What compressive ductility does Mo0.0RHEA exhibit at room temperature?",
+    "answer": "44.2 %",
+    "answer_start": 387
+   },
+   {
+    "id": "35_011",
+    "question": "For the alloy Mo0.0RHEA, what is its compressive ductility at room temperature?",
+    "answer": "44.2 %",
+    "answer_start": 387
+   },
+   {
+    "id": "35_012",
+    "question": "Could you provide the compressive ductility measurement for Mo0.0RHEA at room temperature?",
+    "answer": "44.2 %",
+    "answer_start": 387
+   },
+   {
+    "id": "35_013",
+    "question": "At what temperature is the compressive ductility of 44.2 % in Mo0.0RHEA measured?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_014",
+    "question": "What is the measurement temperature for Mo0.0RHEA's compressive ductility of 44.2 %?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_015",
+    "question": "What temperature conditions were used to measure the compressive ductility of 44.2 % in Mo0.0RHEA?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_016",
+    "question": "What is the compressive yield strength of Mo0.0RHEA at 1500 °C?",
+    "answer": "335.47 MPa",
+    "answer_start": 241
+   },
+   {
+    "id": "35_017",
+    "question": "Can you tell me the compressive yield strength value for Mo0.0RHEA at 1500 °C?",
+    "answer": "335.47 MPa",
+    "answer_start": 241
+   },
+   {
+    "id": "35_018",
+    "question": "What compressive yield strength does Mo0.0RHEA exhibit at 1500 °C?",
+    "answer": "335.47 MPa",
+    "answer_start": 241
+   },
+   {
+    "id": "35_019",
+    "question": "For the alloy Mo0.0RHEA, what is its compressive yield strength at 1500 °C?",
+    "answer": "335.47 MPa",
+    "answer_start": 241
+   },
+   {
+    "id": "35_020",
+    "question": "Could you provide the compressive yield strength measurement for Mo0.0RHEA at 1500 °C?",
+    "answer": "335.47 MPa",
+    "answer_start": 241
+   },
+   {
+    "id": "35_021",
+    "question": "At what temperature is the compressive yield strength of 335.47 MPa in Mo0.0RHEA measured?",
+    "answer": "1500 °C",
+    "answer_start": 227
+   },
+   {
+    "id": "35_022",
+    "question": "What is the measurement temperature for Mo0.0RHEA's compressive yield strength of 335.47 MPa?",
+    "answer": "1500 °C",
+    "answer_start": 227
+   },
+   {
+    "id": "35_023",
+    "question": "What temperature conditions were used to measure the compressive yield strength of 335.47 MPa in Mo0.0RHEA?",
+    "answer": "1500 °C",
+    "answer_start": 227
+   },
+   {
+    "id": "35_024",
+    "question": "What is the compressive yield strength of Mo0.0RHEA at room temperature?",
+    "answer": "1324.5 MPa",
+    "answer_start": 154
+   },
+   {
+    "id": "35_025",
+    "question": "Can you tell me the compressive yield strength value for Mo0.0RHEA at room temperature?",
+    "answer": "1324.5 MPa",
+    "answer_start": 154
+   },
+   {
+    "id": "35_026",
+    "question": "What compressive yield strength does Mo0.0RHEA exhibit at room temperature?",
+    "answer": "1324.5 MPa",
+    "answer_start": 154
+   },
+   {
+    "id": "35_027",
+    "question": "For the alloy Mo0.0RHEA, what is its compressive yield strength at room temperature?",
+    "answer": "1324.5 MPa",
+    "answer_start": 154
+   },
+   {
+    "id": "35_028",
+    "question": "Could you provide the compressive yield strength measurement for Mo0.0RHEA at room temperature?",
+    "answer": "1324.5 MPa",
+    "answer_start": 154
+   },
+   {
+    "id": "35_029",
+    "question": "At what temperature is the compressive yield strength of 1324.5 MPa in Mo0.0RHEA measured?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_030",
+    "question": "What is the measurement temperature for Mo0.0RHEA's compressive yield strength of 1324.5 MPa?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_031",
+    "question": "What temperature conditions were used to measure the compressive yield strength of 1324.5 MPa in Mo0.0RHEA?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_032",
+    "question": "What is the compressive yield strength of Mo0.0RHEA at room temperature?",
+    "answer": "1424.4 MPa",
+    "answer_start": 202
+   },
+   {
+    "id": "35_033",
+    "question": "Can you tell me the compressive yield strength value for Mo0.0RHEA at room temperature?",
+    "answer": "1424.4 MPa",
+    "answer_start": 202
+   },
+   {
+    "id": "35_034",
+    "question": "What compressive yield strength does Mo0.0RHEA exhibit at room temperature?",
+    "answer": "1424.4 MPa",
+    "answer_start": 202
+   },
+   {
+    "id": "35_035",
+    "question": "For the alloy Mo0.0RHEA, what is its compressive yield strength at room temperature?",
+    "answer": "1424.4 MPa",
+    "answer_start": 202
+   },
+   {
+    "id": "35_036",
+    "question": "Could you provide the compressive yield strength measurement for Mo0.0RHEA at room temperature?",
+    "answer": "1424.4 MPa",
+    "answer_start": 202
+   },
+   {
+    "id": "35_037",
+    "question": "At what temperature is the compressive yield strength of 1424.4 MPa in Mo0.0RHEA measured?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_038",
+    "question": "What is the measurement temperature for Mo0.0RHEA's compressive yield strength of 1424.4 MPa?",
+    "answer": "room temperature",
+    "answer_start": 131
+   },
+   {
+    "id": "35_039",
+    "question": "What temperature conditions were used to measure the compressive yield strength of 1424.4 MPa in Mo0.0RHEA?",
+    "answer": "room temperature",
+    "answer_start": 131
+   }
+  ]
+ },
+ {
+  "cid": 26,
+  "context": "[{name:CrNbZrMoV,composition:{Cr:1,Nb:1,Zr:1,Mo:1,V:1},performance_properties:{irradiation_damage:{type:damage,measurements:[{temperature:473 K,value:48 dpa}]},Au_concentration:{type:concentration,measurements:[{temperature:473 K,value:4270.0 appm}]},hardening:{type:hardening,measurements:[{temperature:473 K,value:apparent hardening}]}}},{name:TiCrZrMoV,composition:{Ti:1,Cr:1,Zr:1,Mo:1,V:1},performance_properties:{irradiation_damage:{type:damage,measurements:[{temperature:473 K,value:48 dpa}]},Au_concentration:{type:concentration,measurements:[{temperature:473 K,value:4120.0 appm}]},hardening:{type:hardening,measurements:[{temperature:473 K,value:apparent hardening}]}}},{name:TiNbCrMoV,composition:{Ti:1,Nb:1,Cr:1,Mo:1,V:1},performance_properties:{irradiation_damage:{type:damage,measurements:[{temperature:473 K,value:44 dpa}]},Au_concentration:{type:concentration,measurements:[{temperature:473 K,value:4130.0 appm}]},hardening:{type:hardening,measurements:[{temperature:473 K,value:apparent hardening}]}}},{name:TiNbZrCrV,composition:{Ti:1,Nb:1,Zr:1,Cr:1,V:1},performance_properties:{irradiation_damage:{type:damage,measurements:[{temperature:473 K,value:48 dpa}]},Au_concentration:{type:concentration,measurements:[{temperature:473 K,value:4160.0 appm}]},hardening:{type:hardening,measurements:[{temperature:473 K,value:not observed hardening}]}}},{name:TiNbZrMoCr,composition:{Ti:1,Nb:1,Zr:1,Mo:1,Cr:1},performance_properties:{irradiation_damage:{type:damage,measurements:[{temperature:473 K,value:48 dpa}]},Au_concentration:{type:concentration,measurements:[{temperature:473 K,value:4370.0 appm}]},hardening:{type:hardening,measurements:[{temperature:473 K,value:apparent hardening}]}}}]",
+  "qas": [
+   {
+    "id": "44_000",
+    "question": "What is the au concentration of CrNbZrMoV at 473 K?",
+    "answer": "4270.0 appm",
+    "answer_start": 236
+   },
+   {
+    "id": "44_001",
+    "question": "Can you tell me the au concentration value for CrNbZrMoV at 473 K?",
+    "answer": "4270.0 appm",
+    "answer_start": 236
+   },
+   {
+    "id": "44_002",
+    "question": "What au concentration does CrNbZrMoV exhibit at 473 K?",
+    "answer": "4270.0 appm",
+    "answer_start": 236
+   },
+   {
+    "id": "44_003",
+    "question": "For the alloy CrNbZrMoV, what is its au concentration at 473 K?",
+    "answer": "4270.0 appm",
+    "answer_start": 236
+   },
+   {
+    "id": "44_004",
+    "question": "Could you provide the au concentration measurement for CrNbZrMoV at 473 K?",
+    "answer": "4270.0 appm",
+    "answer_start": 236
+   },
+   {
+    "id": "44_005",
+    "question": "At what temperature is the au concentration of 4270.0 appm in CrNbZrMoV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_006",
+    "question": "What is the measurement temperature for CrNbZrMoV's au concentration of 4270.0 appm?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_007",
+    "question": "What temperature conditions were used to measure the au concentration of 4270.0 appm in CrNbZrMoV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_008",
+    "question": "What is the au concentration of TiCrZrMoV at 473 K?",
+    "answer": "4120.0 appm",
+    "answer_start": 575
+   },
+   {
+    "id": "44_009",
+    "question": "Can you tell me the au concentration value for TiCrZrMoV at 473 K?",
+    "answer": "4120.0 appm",
+    "answer_start": 575
+   },
+   {
+    "id": "44_010",
+    "question": "What au concentration does TiCrZrMoV exhibit at 473 K?",
+    "answer": "4120.0 appm",
+    "answer_start": 575
+   },
+   {
+    "id": "44_011",
+    "question": "For the alloy TiCrZrMoV, what is its au concentration at 473 K?",
+    "answer": "4120.0 appm",
+    "answer_start": 575
+   },
+   {
+    "id": "44_012",
+    "question": "Could you provide the au concentration measurement for TiCrZrMoV at 473 K?",
+    "answer": "4120.0 appm",
+    "answer_start": 575
+   },
+   {
+    "id": "44_013",
+    "question": "At what temperature is the au concentration of 4120.0 appm in TiCrZrMoV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_014",
+    "question": "What is the measurement temperature for TiCrZrMoV's au concentration of 4120.0 appm?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_015",
+    "question": "What temperature conditions were used to measure the au concentration of 4120.0 appm in TiCrZrMoV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_016",
+    "question": "What is the au concentration of TiNbCrMoV at 473 K?",
+    "answer": "4130.0 appm",
+    "answer_start": 914
+   },
+   {
+    "id": "44_017",
+    "question": "Can you tell me the au concentration value for TiNbCrMoV at 473 K?",
+    "answer": "4130.0 appm",
+    "answer_start": 914
+   },
+   {
+    "id": "44_018",
+    "question": "What au concentration does TiNbCrMoV exhibit at 473 K?",
+    "answer": "4130.0 appm",
+    "answer_start": 914
+   },
+   {
+    "id": "44_019",
+    "question": "For the alloy TiNbCrMoV, what is its au concentration at 473 K?",
+    "answer": "4130.0 appm",
+    "answer_start": 914
+   },
+   {
+    "id": "44_020",
+    "question": "Could you provide the au concentration measurement for TiNbCrMoV at 473 K?",
+    "answer": "4130.0 appm",
+    "answer_start": 914
+   },
+   {
+    "id": "44_021",
+    "question": "At what temperature is the au concentration of 4130.0 appm in TiNbCrMoV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_022",
+    "question": "What is the measurement temperature for TiNbCrMoV's au concentration of 4130.0 appm?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_023",
+    "question": "What temperature conditions were used to measure the au concentration of 4130.0 appm in TiNbCrMoV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_024",
+    "question": "What is the au concentration of TiNbZrCrV at 473 K?",
+    "answer": "4160.0 appm",
+    "answer_start": 1253
+   },
+   {
+    "id": "44_025",
+    "question": "Can you tell me the au concentration value for TiNbZrCrV at 473 K?",
+    "answer": "4160.0 appm",
+    "answer_start": 1253
+   },
+   {
+    "id": "44_026",
+    "question": "What au concentration does TiNbZrCrV exhibit at 473 K?",
+    "answer": "4160.0 appm",
+    "answer_start": 1253
+   },
+   {
+    "id": "44_027",
+    "question": "For the alloy TiNbZrCrV, what is its au concentration at 473 K?",
+    "answer": "4160.0 appm",
+    "answer_start": 1253
+   },
+   {
+    "id": "44_028",
+    "question": "Could you provide the au concentration measurement for TiNbZrCrV at 473 K?",
+    "answer": "4160.0 appm",
+    "answer_start": 1253
+   },
+   {
+    "id": "44_029",
+    "question": "At what temperature is the au concentration of 4160.0 appm in TiNbZrCrV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_030",
+    "question": "What is the measurement temperature for TiNbZrCrV's au concentration of 4160.0 appm?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_031",
+    "question": "What temperature conditions were used to measure the au concentration of 4160.0 appm in TiNbZrCrV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_032",
+    "question": "What is the au concentration of TiNbZrMoCr at 473 K?",
+    "answer": "4370.0 appm",
+    "answer_start": 1598
+   },
+   {
+    "id": "44_033",
+    "question": "Can you tell me the au concentration value for TiNbZrMoCr at 473 K?",
+    "answer": "4370.0 appm",
+    "answer_start": 1598
+   },
+   {
+    "id": "44_034",
+    "question": "What au concentration does TiNbZrMoCr exhibit at 473 K?",
+    "answer": "4370.0 appm",
+    "answer_start": 1598
+   },
+   {
+    "id": "44_035",
+    "question": "For the alloy TiNbZrMoCr, what is its au concentration at 473 K?",
+    "answer": "4370.0 appm",
+    "answer_start": 1598
+   },
+   {
+    "id": "44_036",
+    "question": "Could you provide the au concentration measurement for TiNbZrMoCr at 473 K?",
+    "answer": "4370.0 appm",
+    "answer_start": 1598
+   },
+   {
+    "id": "44_037",
+    "question": "At what temperature is the au concentration of 4370.0 appm in TiNbZrMoCr measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_038",
+    "question": "What is the measurement temperature for TiNbZrMoCr's au concentration of 4370.0 appm?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_039",
+    "question": "What temperature conditions were used to measure the au concentration of 4370.0 appm in TiNbZrMoCr?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_040",
+    "question": "What is the irradiation damage of CrNbZrMoV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_041",
+    "question": "Can you tell me the irradiation damage value for CrNbZrMoV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_042",
+    "question": "What irradiation damage does CrNbZrMoV exhibit at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_043",
+    "question": "For the alloy CrNbZrMoV, what is its irradiation damage at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_044",
+    "question": "Could you provide the irradiation damage measurement for CrNbZrMoV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_045",
+    "question": "At what temperature is the irradiation damage of 48 dpa in CrNbZrMoV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_046",
+    "question": "What is the measurement temperature for CrNbZrMoV's irradiation damage of 48 dpa?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_047",
+    "question": "What temperature conditions were used to measure the irradiation damage of 48 dpa in CrNbZrMoV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_048",
+    "question": "What is the irradiation damage of TiCrZrMoV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_049",
+    "question": "Can you tell me the irradiation damage value for TiCrZrMoV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_050",
+    "question": "What irradiation damage does TiCrZrMoV exhibit at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_051",
+    "question": "For the alloy TiCrZrMoV, what is its irradiation damage at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_052",
+    "question": "Could you provide the irradiation damage measurement for TiCrZrMoV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_053",
+    "question": "At what temperature is the irradiation damage of 48 dpa in TiCrZrMoV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_054",
+    "question": "What is the measurement temperature for TiCrZrMoV's irradiation damage of 48 dpa?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_055",
+    "question": "What temperature conditions were used to measure the irradiation damage of 48 dpa in TiCrZrMoV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_056",
+    "question": "What is the irradiation damage of TiNbCrMoV at 473 K?",
+    "answer": "44 dpa",
+    "answer_start": 828
+   },
+   {
+    "id": "44_057",
+    "question": "Can you tell me the irradiation damage value for TiNbCrMoV at 473 K?",
+    "answer": "44 dpa",
+    "answer_start": 828
+   },
+   {
+    "id": "44_058",
+    "question": "What irradiation damage does TiNbCrMoV exhibit at 473 K?",
+    "answer": "44 dpa",
+    "answer_start": 828
+   },
+   {
+    "id": "44_059",
+    "question": "For the alloy TiNbCrMoV, what is its irradiation damage at 473 K?",
+    "answer": "44 dpa",
+    "answer_start": 828
+   },
+   {
+    "id": "44_060",
+    "question": "Could you provide the irradiation damage measurement for TiNbCrMoV at 473 K?",
+    "answer": "44 dpa",
+    "answer_start": 828
+   },
+   {
+    "id": "44_061",
+    "question": "At what temperature is the irradiation damage of 44 dpa in TiNbCrMoV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_062",
+    "question": "What is the measurement temperature for TiNbCrMoV's irradiation damage of 44 dpa?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_063",
+    "question": "What temperature conditions were used to measure the irradiation damage of 44 dpa in TiNbCrMoV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_064",
+    "question": "What is the irradiation damage of TiNbZrCrV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_065",
+    "question": "Can you tell me the irradiation damage value for TiNbZrCrV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_066",
+    "question": "What irradiation damage does TiNbZrCrV exhibit at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_067",
+    "question": "For the alloy TiNbZrCrV, what is its irradiation damage at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_068",
+    "question": "Could you provide the irradiation damage measurement for TiNbZrCrV at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_069",
+    "question": "At what temperature is the irradiation damage of 48 dpa in TiNbZrCrV measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_070",
+    "question": "What is the measurement temperature for TiNbZrCrV's irradiation damage of 48 dpa?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_071",
+    "question": "What temperature conditions were used to measure the irradiation damage of 48 dpa in TiNbZrCrV?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_072",
+    "question": "What is the irradiation damage of TiNbZrMoCr at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_073",
+    "question": "Can you tell me the irradiation damage value for TiNbZrMoCr at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_074",
+    "question": "What irradiation damage does TiNbZrMoCr exhibit at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_075",
+    "question": "For the alloy TiNbZrMoCr, what is its irradiation damage at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_076",
+    "question": "Could you provide the irradiation damage measurement for TiNbZrMoCr at 473 K?",
+    "answer": "48 dpa",
+    "answer_start": 150
+   },
+   {
+    "id": "44_077",
+    "question": "At what temperature is the irradiation damage of 48 dpa in TiNbZrMoCr measured?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_078",
+    "question": "What is the measurement temperature for TiNbZrMoCr's irradiation damage of 48 dpa?",
+    "answer": "473 K",
+    "answer_start": 138
+   },
+   {
+    "id": "44_079",
+    "question": "What temperature conditions were used to measure the irradiation damage of 48 dpa in TiNbZrMoCr?",
+    "answer": "473 K",
+    "answer_start": 138
+   }
+  ]
+ },
+ {
+  "cid": 30,
+  "context": "[{name:NbTaTiZrRe,composition:{Nb:1,Ta:1,Ti:1,Zr:1,Re:1},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:2 GPa}]}}},{name:NbTaTiZrHf,composition:{Nb:1,Ta:1,Ti:1,Zr:1,Hf:1},performance_properties:{ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:Improved N/A}]}}}]",
+  "qas": [
+   {
+    "id": "49_000",
+    "question": "What is the strength of NbTaTiZrRe at Room Temperature?",
+    "answer": "2 GPa",
+    "answer_start": 155
+   },
+   {
+    "id": "49_001",
+    "question": "Can you tell me the strength value for NbTaTiZrRe at Room Temperature?",
+    "answer": "2 GPa",
+    "answer_start": 155
+   },
+   {
+    "id": "49_002",
+    "question": "What strength does NbTaTiZrRe exhibit at Room Temperature?",
+    "answer": "2 GPa",
+    "answer_start": 155
+   },
+   {
+    "id": "49_003",
+    "question": "For the alloy NbTaTiZrRe, what is its strength at Room Temperature?",
+    "answer": "2 GPa",
+    "answer_start": 155
+   },
+   {
+    "id": "49_004",
+    "question": "Could you provide the strength measurement for NbTaTiZrRe at Room Temperature?",
+    "answer": "2 GPa",
+    "answer_start": 155
+   },
+   {
+    "id": "49_005",
+    "question": "At what temperature is the strength of 2 GPa in NbTaTiZrRe measured?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "49_006",
+    "question": "What is the measurement temperature for NbTaTiZrRe's strength of 2 GPa?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   },
+   {
+    "id": "49_007",
+    "question": "What temperature conditions were used to measure the strength of 2 GPa in NbTaTiZrRe?",
+    "answer": "Room Temperature",
+    "answer_start": 132
+   }
+  ]
+ },
+ {
+  "cid": 32,
+  "context": "[{name:MoTiZr,composition:{Mo:1,Ti:1,Zr:1},performance_properties:{}},{name:NbTiZr,composition:{Nb:1,Ti:1,Zr:1},performance_properties:{}},{name:MoTiVZr,composition:{Mo:1,Ti:1,V:1,Zr:1},performance_properties:{}},{name:NbTiVZr,composition:{Nb:1,Ti:1,V:1,Zr:1},performance_properties:{}},{name:NbMoTiZr,composition:{Nb:1,Mo:1,Ti:1,Zr:1},performance_properties:{hardness:{type:hardness,measurements:[{temperature:Room Temperature,value:496 HV}]},strength:{type:yield strength,measurements:[{temperature:Room Temperature,value:1275 MPa}]},ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:21.66 %}]},elastic_modulus:{type:Young's modulus,measurements:[{temperature:Room Temperature,value:Lower than Ti6Al4V Not specified}]}}}]",
+  "qas": [
+   {
+    "id": "54_000",
+    "question": "What is the ductility of NbMoTiZr at Room Temperature?",
+    "answer": "21.66 %",
+    "answer_start": 612
+   },
+   {
+    "id": "54_001",
+    "question": "Can you tell me the ductility value for NbMoTiZr at Room Temperature?",
+    "answer": "21.66 %",
+    "answer_start": 612
+   },
+   {
+    "id": "54_002",
+    "question": "What ductility does NbMoTiZr exhibit at Room Temperature?",
+    "answer": "21.66 %",
+    "answer_start": 612
+   },
+   {
+    "id": "54_003",
+    "question": "For the alloy NbMoTiZr, what is its ductility at Room Temperature?",
+    "answer": "21.66 %",
+    "answer_start": 612
+   },
+   {
+    "id": "54_004",
+    "question": "Could you provide the ductility measurement for NbMoTiZr at Room Temperature?",
+    "answer": "21.66 %",
+    "answer_start": 612
+   },
+   {
+    "id": "54_005",
+    "question": "At what temperature is the ductility of 21.66 % in NbMoTiZr measured?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_006",
+    "question": "What is the measurement temperature for NbMoTiZr's ductility of 21.66 %?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_007",
+    "question": "What temperature conditions were used to measure the ductility of 21.66 % in NbMoTiZr?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_008",
+    "question": "What is the hardness of NbMoTiZr at Room Temperature?",
+    "answer": "496 HV",
+    "answer_start": 434
+   },
+   {
+    "id": "54_009",
+    "question": "Can you tell me the hardness value for NbMoTiZr at Room Temperature?",
+    "answer": "496 HV",
+    "answer_start": 434
+   },
+   {
+    "id": "54_010",
+    "question": "What hardness does NbMoTiZr exhibit at Room Temperature?",
+    "answer": "496 HV",
+    "answer_start": 434
+   },
+   {
+    "id": "54_011",
+    "question": "For the alloy NbMoTiZr, what is its hardness at Room Temperature?",
+    "answer": "496 HV",
+    "answer_start": 434
+   },
+   {
+    "id": "54_012",
+    "question": "Could you provide the hardness measurement for NbMoTiZr at Room Temperature?",
+    "answer": "496 HV",
+    "answer_start": 434
+   },
+   {
+    "id": "54_013",
+    "question": "At what temperature is the hardness of 496 HV in NbMoTiZr measured?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_014",
+    "question": "What is the measurement temperature for NbMoTiZr's hardness of 496 HV?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_015",
+    "question": "What temperature conditions were used to measure the hardness of 496 HV in NbMoTiZr?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_016",
+    "question": "What is the strength of NbMoTiZr at Room Temperature?",
+    "answer": "1275 MPa",
+    "answer_start": 524
+   },
+   {
+    "id": "54_017",
+    "question": "Can you tell me the strength value for NbMoTiZr at Room Temperature?",
+    "answer": "1275 MPa",
+    "answer_start": 524
+   },
+   {
+    "id": "54_018",
+    "question": "What strength does NbMoTiZr exhibit at Room Temperature?",
+    "answer": "1275 MPa",
+    "answer_start": 524
+   },
+   {
+    "id": "54_019",
+    "question": "For the alloy NbMoTiZr, what is its strength at Room Temperature?",
+    "answer": "1275 MPa",
+    "answer_start": 524
+   },
+   {
+    "id": "54_020",
+    "question": "Could you provide the strength measurement for NbMoTiZr at Room Temperature?",
+    "answer": "1275 MPa",
+    "answer_start": 524
+   },
+   {
+    "id": "54_021",
+    "question": "At what temperature is the strength of 1275 MPa in NbMoTiZr measured?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_022",
+    "question": "What is the measurement temperature for NbMoTiZr's strength of 1275 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   },
+   {
+    "id": "54_023",
+    "question": "What temperature conditions were used to measure the strength of 1275 MPa in NbMoTiZr?",
+    "answer": "Room Temperature",
+    "answer_start": 411
+   }
+  ]
+ },
+ {
+  "cid": 37,
+  "context": "[{name:NbMoTaWHf,composition:{Nb:1,Mo:1,Ta:1,W:1,Hf:1},performance_properties:{strength:{type:strength,measurements:[{temperature:room temperature,value:1730 MPa},{temperature:1200 °C,value:1088 MPa},{temperature:1600 °C,value:390 MPa},{temperature:1800 °C,value:312 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "60_000",
+    "question": "What is the strength of NbMoTaWHf at 1200 °C?",
+    "answer": "1088 MPa",
+    "answer_start": 190
+   },
+   {
+    "id": "60_001",
+    "question": "Can you tell me the strength value for NbMoTaWHf at 1200 °C?",
+    "answer": "1088 MPa",
+    "answer_start": 190
+   },
+   {
+    "id": "60_002",
+    "question": "What strength does NbMoTaWHf exhibit at 1200 °C?",
+    "answer": "1088 MPa",
+    "answer_start": 190
+   },
+   {
+    "id": "60_003",
+    "question": "For the alloy NbMoTaWHf, what is its strength at 1200 °C?",
+    "answer": "1088 MPa",
+    "answer_start": 190
+   },
+   {
+    "id": "60_004",
+    "question": "Could you provide the strength measurement for NbMoTaWHf at 1200 °C?",
+    "answer": "1088 MPa",
+    "answer_start": 190
+   },
+   {
+    "id": "60_005",
+    "question": "At what temperature is the strength of 1088 MPa in NbMoTaWHf measured?",
+    "answer": "1200 °C",
+    "answer_start": 176
+   },
+   {
+    "id": "60_006",
+    "question": "What is the measurement temperature for NbMoTaWHf's strength of 1088 MPa?",
+    "answer": "1200 °C",
+    "answer_start": 176
+   },
+   {
+    "id": "60_007",
+    "question": "What temperature conditions were used to measure the strength of 1088 MPa in NbMoTaWHf?",
+    "answer": "1200 °C",
+    "answer_start": 176
+   },
+   {
+    "id": "60_008",
+    "question": "What is the strength of NbMoTaWHf at 1600 °C?",
+    "answer": "390 MPa",
+    "answer_start": 227
+   },
+   {
+    "id": "60_009",
+    "question": "Can you tell me the strength value for NbMoTaWHf at 1600 °C?",
+    "answer": "390 MPa",
+    "answer_start": 227
+   },
+   {
+    "id": "60_010",
+    "question": "What strength does NbMoTaWHf exhibit at 1600 °C?",
+    "answer": "390 MPa",
+    "answer_start": 227
+   },
+   {
+    "id": "60_011",
+    "question": "For the alloy NbMoTaWHf, what is its strength at 1600 °C?",
+    "answer": "390 MPa",
+    "answer_start": 227
+   },
+   {
+    "id": "60_012",
+    "question": "Could you provide the strength measurement for NbMoTaWHf at 1600 °C?",
+    "answer": "390 MPa",
+    "answer_start": 227
+   },
+   {
+    "id": "60_013",
+    "question": "At what temperature is the strength of 390 MPa in NbMoTaWHf measured?",
+    "answer": "1600 °C",
+    "answer_start": 213
+   },
+   {
+    "id": "60_014",
+    "question": "What is the measurement temperature for NbMoTaWHf's strength of 390 MPa?",
+    "answer": "1600 °C",
+    "answer_start": 213
+   },
+   {
+    "id": "60_015",
+    "question": "What temperature conditions were used to measure the strength of 390 MPa in NbMoTaWHf?",
+    "answer": "1600 °C",
+    "answer_start": 213
+   },
+   {
+    "id": "60_016",
+    "question": "What is the strength of NbMoTaWHf at 1800 °C?",
+    "answer": "312 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "60_017",
+    "question": "Can you tell me the strength value for NbMoTaWHf at 1800 °C?",
+    "answer": "312 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "60_018",
+    "question": "What strength does NbMoTaWHf exhibit at 1800 °C?",
+    "answer": "312 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "60_019",
+    "question": "For the alloy NbMoTaWHf, what is its strength at 1800 °C?",
+    "answer": "312 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "60_020",
+    "question": "Could you provide the strength measurement for NbMoTaWHf at 1800 °C?",
+    "answer": "312 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "60_021",
+    "question": "At what temperature is the strength of 312 MPa in NbMoTaWHf measured?",
+    "answer": "1800 °C",
+    "answer_start": 249
+   },
+   {
+    "id": "60_022",
+    "question": "What is the measurement temperature for NbMoTaWHf's strength of 312 MPa?",
+    "answer": "1800 °C",
+    "answer_start": 249
+   },
+   {
+    "id": "60_023",
+    "question": "What temperature conditions were used to measure the strength of 312 MPa in NbMoTaWHf?",
+    "answer": "1800 °C",
+    "answer_start": 249
+   },
+   {
+    "id": "60_024",
+    "question": "What is the strength of NbMoTaWHf at room temperature?",
+    "answer": "1730 MPa",
+    "answer_start": 153
+   },
+   {
+    "id": "60_025",
+    "question": "Can you tell me the strength value for NbMoTaWHf at room temperature?",
+    "answer": "1730 MPa",
+    "answer_start": 153
+   },
+   {
+    "id": "60_026",
+    "question": "What strength does NbMoTaWHf exhibit at room temperature?",
+    "answer": "1730 MPa",
+    "answer_start": 153
+   },
+   {
+    "id": "60_027",
+    "question": "For the alloy NbMoTaWHf, what is its strength at room temperature?",
+    "answer": "1730 MPa",
+    "answer_start": 153
+   },
+   {
+    "id": "60_028",
+    "question": "Could you provide the strength measurement for NbMoTaWHf at room temperature?",
+    "answer": "1730 MPa",
+    "answer_start": 153
+   },
+   {
+    "id": "60_029",
+    "question": "At what temperature is the strength of 1730 MPa in NbMoTaWHf measured?",
+    "answer": "room temperature",
+    "answer_start": 130
+   },
+   {
+    "id": "60_030",
+    "question": "What is the measurement temperature for NbMoTaWHf's strength of 1730 MPa?",
+    "answer": "room temperature",
+    "answer_start": 130
+   },
+   {
+    "id": "60_031",
+    "question": "What temperature conditions were used to measure the strength of 1730 MPa in NbMoTaWHf?",
+    "answer": "room temperature",
+    "answer_start": 130
+   }
+  ]
+ },
+ {
+  "cid": 42,
+  "context": "[{name:(Ti1.5V)3ZrNb,composition:{Ti:1.5,V:3,Zr:1,Nb:1},performance_properties:{ductility:{type:ductility,measurements:[{temperature:room temperature,value:360 %}]},yield_strength:{type:strength,measurements:[{temperature:room temperature,value:800 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "67_000",
+    "question": "What is the ductility of (Ti1.5V)3ZrNb at room temperature?",
+    "answer": "360 %",
+    "answer_start": 156
+   },
+   {
+    "id": "67_001",
+    "question": "Can you tell me the ductility value for (Ti1.5V)3ZrNb at room temperature?",
+    "answer": "360 %",
+    "answer_start": 156
+   },
+   {
+    "id": "67_002",
+    "question": "What ductility does (Ti1.5V)3ZrNb exhibit at room temperature?",
+    "answer": "360 %",
+    "answer_start": 156
+   },
+   {
+    "id": "67_003",
+    "question": "For the alloy (Ti1.5V)3ZrNb, what is its ductility at room temperature?",
+    "answer": "360 %",
+    "answer_start": 156
+   },
+   {
+    "id": "67_004",
+    "question": "Could you provide the ductility measurement for (Ti1.5V)3ZrNb at room temperature?",
+    "answer": "360 %",
+    "answer_start": 156
+   },
+   {
+    "id": "67_005",
+    "question": "At what temperature is the ductility of 360 % in (Ti1.5V)3ZrNb measured?",
+    "answer": "room temperature",
+    "answer_start": 133
+   },
+   {
+    "id": "67_006",
+    "question": "What is the measurement temperature for (Ti1.5V)3ZrNb's ductility of 360 %?",
+    "answer": "room temperature",
+    "answer_start": 133
+   },
+   {
+    "id": "67_007",
+    "question": "What temperature conditions were used to measure the ductility of 360 % in (Ti1.5V)3ZrNb?",
+    "answer": "room temperature",
+    "answer_start": 133
+   },
+   {
+    "id": "67_008",
+    "question": "What is the yield strength of (Ti1.5V)3ZrNb at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 245
+   },
+   {
+    "id": "67_009",
+    "question": "Can you tell me the yield strength value for (Ti1.5V)3ZrNb at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 245
+   },
+   {
+    "id": "67_010",
+    "question": "What yield strength does (Ti1.5V)3ZrNb exhibit at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 245
+   },
+   {
+    "id": "67_011",
+    "question": "For the alloy (Ti1.5V)3ZrNb, what is its yield strength at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 245
+   },
+   {
+    "id": "67_012",
+    "question": "Could you provide the yield strength measurement for (Ti1.5V)3ZrNb at room temperature?",
+    "answer": "800 MPa",
+    "answer_start": 245
+   },
+   {
+    "id": "67_013",
+    "question": "At what temperature is the yield strength of 800 MPa in (Ti1.5V)3ZrNb measured?",
+    "answer": "room temperature",
+    "answer_start": 133
+   },
+   {
+    "id": "67_014",
+    "question": "What is the measurement temperature for (Ti1.5V)3ZrNb's yield strength of 800 MPa?",
+    "answer": "room temperature",
+    "answer_start": 133
+   },
+   {
+    "id": "67_015",
+    "question": "What temperature conditions were used to measure the yield strength of 800 MPa in (Ti1.5V)3ZrNb?",
+    "answer": "room temperature",
+    "answer_start": 133
+   }
+  ]
+ },
+ {
+  "cid": 44,
+  "context": "[{name:Ti41V27Hf13Nb13Zr6,,composition:{Ti:41,V:27,Hf:13,Nb:13,Zr:6},performance_properties:{strength:{type:strength,measurements:[{temperature:Room Temperature,value:986 MPa}]},ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:30 %}]}}}]",
+  "qas": [
+   {
+    "id": "71_000",
+    "question": "What is the ductility of Ti41V27Hf13Nb13Zr6, at Room Temperature?",
+    "answer": "30 %",
+    "answer_start": 254
+   },
+   {
+    "id": "71_001",
+    "question": "Can you tell me the ductility value for Ti41V27Hf13Nb13Zr6, at Room Temperature?",
+    "answer": "30 %",
+    "answer_start": 254
+   },
+   {
+    "id": "71_002",
+    "question": "What ductility does Ti41V27Hf13Nb13Zr6, exhibit at Room Temperature?",
+    "answer": "30 %",
+    "answer_start": 254
+   },
+   {
+    "id": "71_003",
+    "question": "For the alloy Ti41V27Hf13Nb13Zr6,, what is its ductility at Room Temperature?",
+    "answer": "30 %",
+    "answer_start": 254
+   },
+   {
+    "id": "71_004",
+    "question": "Could you provide the ductility measurement for Ti41V27Hf13Nb13Zr6, at Room Temperature?",
+    "answer": "30 %",
+    "answer_start": 254
+   },
+   {
+    "id": "71_005",
+    "question": "At what temperature is the ductility of 30 % in Ti41V27Hf13Nb13Zr6, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 144
+   },
+   {
+    "id": "71_006",
+    "question": "What is the measurement temperature for Ti41V27Hf13Nb13Zr6,'s ductility of 30 %?",
+    "answer": "Room Temperature",
+    "answer_start": 144
+   },
+   {
+    "id": "71_007",
+    "question": "What temperature conditions were used to measure the ductility of 30 % in Ti41V27Hf13Nb13Zr6,?",
+    "answer": "Room Temperature",
+    "answer_start": 144
+   },
+   {
+    "id": "71_008",
+    "question": "What is the strength of Ti41V27Hf13Nb13Zr6, at Room Temperature?",
+    "answer": "986 MPa",
+    "answer_start": 167
+   },
+   {
+    "id": "71_009",
+    "question": "Can you tell me the strength value for Ti41V27Hf13Nb13Zr6, at Room Temperature?",
+    "answer": "986 MPa",
+    "answer_start": 167
+   },
+   {
+    "id": "71_010",
+    "question": "What strength does Ti41V27Hf13Nb13Zr6, exhibit at Room Temperature?",
+    "answer": "986 MPa",
+    "answer_start": 167
+   },
+   {
+    "id": "71_011",
+    "question": "For the alloy Ti41V27Hf13Nb13Zr6,, what is its strength at Room Temperature?",
+    "answer": "986 MPa",
+    "answer_start": 167
+   },
+   {
+    "id": "71_012",
+    "question": "Could you provide the strength measurement for Ti41V27Hf13Nb13Zr6, at Room Temperature?",
+    "answer": "986 MPa",
+    "answer_start": 167
+   },
+   {
+    "id": "71_013",
+    "question": "At what temperature is the strength of 986 MPa in Ti41V27Hf13Nb13Zr6, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 144
+   },
+   {
+    "id": "71_014",
+    "question": "What is the measurement temperature for Ti41V27Hf13Nb13Zr6,'s strength of 986 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 144
+   },
+   {
+    "id": "71_015",
+    "question": "What temperature conditions were used to measure the strength of 986 MPa in Ti41V27Hf13Nb13Zr6,?",
+    "answer": "Room Temperature",
+    "answer_start": 144
+   }
+  ]
+ },
+ {
+  "cid": 50,
+  "context": "[{name:Nb25Ti35V5Zr35,,composition:{Nb:0.25,Ti:0.35,V:0.05,Zr:0.35},performance_properties:{strength:{type:strength,measurements:[{temperature:room temperature,value:1152 MPa},{temperature:annealed state,value:836 MPa}]},elongation:{type:elongation,measurements:[{temperature:annealed state,value:22.45 %}]}}}]",
+  "qas": [
+   {
+    "id": "79_000",
+    "question": "What is the strength of Nb25Ti35V5Zr35, at room temperature?",
+    "answer": "1152 MPa",
+    "answer_start": 166
+   },
+   {
+    "id": "79_001",
+    "question": "Can you tell me the strength value for Nb25Ti35V5Zr35, at room temperature?",
+    "answer": "1152 MPa",
+    "answer_start": 166
+   },
+   {
+    "id": "79_002",
+    "question": "What strength does Nb25Ti35V5Zr35, exhibit at room temperature?",
+    "answer": "1152 MPa",
+    "answer_start": 166
+   },
+   {
+    "id": "79_003",
+    "question": "For the alloy Nb25Ti35V5Zr35,, what is its strength at room temperature?",
+    "answer": "1152 MPa",
+    "answer_start": 166
+   },
+   {
+    "id": "79_004",
+    "question": "Could you provide the strength measurement for Nb25Ti35V5Zr35, at room temperature?",
+    "answer": "1152 MPa",
+    "answer_start": 166
+   },
+   {
+    "id": "79_005",
+    "question": "At what temperature is the strength of 1152 MPa in Nb25Ti35V5Zr35, measured?",
+    "answer": "room temperature",
+    "answer_start": 143
+   },
+   {
+    "id": "79_006",
+    "question": "What is the measurement temperature for Nb25Ti35V5Zr35,'s strength of 1152 MPa?",
+    "answer": "room temperature",
+    "answer_start": 143
+   },
+   {
+    "id": "79_007",
+    "question": "What temperature conditions were used to measure the strength of 1152 MPa in Nb25Ti35V5Zr35,?",
+    "answer": "room temperature",
+    "answer_start": 143
+   }
+  ]
+ },
+ {
+  "cid": 55,
+  "context": "[{name:TiNbV0.5Ta0.5Cr0.1,,composition:{Ti:1,Nb:1,V:0.5,Ta:0.5,Cr:0.1},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:878 MPa}]},ultimate_tensile_strength:{type:strength,measurements:[{temperature:Room Temperature,value:928 MPa}]},elongation:{type:ductility,measurements:[{temperature:Room Temperature,value:21.6 %}]}}},{name:TiNbV0.5Ta0.5Cr0.2,,composition:{Ti:1,Nb:1,V:0.5,Ta:0.5,Cr:0.2},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:878 MPa}]},ultimate_tensile_strength:{type:strength,measurements:[{temperature:Room Temperature,value:928 MPa}]},elongation:{type:ductility,measurements:[{temperature:Room Temperature,value:21.6 %}]}}},{name:TiNbV0.5Ta0.5Cr0.5,,composition:{Ti:1,Nb:1,V:0.5,Ta:0.5,Cr:0.5},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:878 MPa}]},ultimate_tensile_strength:{type:strength,measurements:[{temperature:Room Temperature,value:928 MPa}]},elongation:{type:ductility,measurements:[{temperature:Room Temperature,value:21.6 %}]}}}]",
+  "qas": [
+   {
+    "id": "84_000",
+    "question": "What is the elongation of TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_001",
+    "question": "Can you tell me the elongation value for TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_002",
+    "question": "What elongation does TiNbV0.5Ta0.5Cr0.1, exhibit at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_003",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.1,, what is its elongation at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_004",
+    "question": "Could you provide the elongation measurement for TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_005",
+    "question": "At what temperature is the elongation of 21.6 % in TiNbV0.5Ta0.5Cr0.1, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_006",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.1,'s elongation of 21.6 %?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_007",
+    "question": "What temperature conditions were used to measure the elongation of 21.6 % in TiNbV0.5Ta0.5Cr0.1,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_008",
+    "question": "What is the elongation of TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_009",
+    "question": "Can you tell me the elongation value for TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_010",
+    "question": "What elongation does TiNbV0.5Ta0.5Cr0.2, exhibit at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_011",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.2,, what is its elongation at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_012",
+    "question": "Could you provide the elongation measurement for TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_013",
+    "question": "At what temperature is the elongation of 21.6 % in TiNbV0.5Ta0.5Cr0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_014",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.2,'s elongation of 21.6 %?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_015",
+    "question": "What temperature conditions were used to measure the elongation of 21.6 % in TiNbV0.5Ta0.5Cr0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_016",
+    "question": "What is the elongation of TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_017",
+    "question": "Can you tell me the elongation value for TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_018",
+    "question": "What elongation does TiNbV0.5Ta0.5Cr0.5, exhibit at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_019",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.5,, what is its elongation at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_020",
+    "question": "Could you provide the elongation measurement for TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "21.6 %",
+    "answer_start": 365
+   },
+   {
+    "id": "84_021",
+    "question": "At what temperature is the elongation of 21.6 % in TiNbV0.5Ta0.5Cr0.5, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_022",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.5,'s elongation of 21.6 %?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_023",
+    "question": "What temperature conditions were used to measure the elongation of 21.6 % in TiNbV0.5Ta0.5Cr0.5,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_024",
+    "question": "What is the ultimate tensile strength of TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_025",
+    "question": "Can you tell me the ultimate tensile strength value for TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_026",
+    "question": "What ultimate tensile strength does TiNbV0.5Ta0.5Cr0.1, exhibit at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_027",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.1,, what is its ultimate tensile strength at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_028",
+    "question": "Could you provide the ultimate tensile strength measurement for TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_029",
+    "question": "At what temperature is the ultimate tensile strength of 928 MPa in TiNbV0.5Ta0.5Cr0.1, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_030",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.1,'s ultimate tensile strength of 928 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_031",
+    "question": "What temperature conditions were used to measure the ultimate tensile strength of 928 MPa in TiNbV0.5Ta0.5Cr0.1,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_032",
+    "question": "What is the ultimate tensile strength of TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_033",
+    "question": "Can you tell me the ultimate tensile strength value for TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_034",
+    "question": "What ultimate tensile strength does TiNbV0.5Ta0.5Cr0.2, exhibit at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_035",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.2,, what is its ultimate tensile strength at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_036",
+    "question": "Could you provide the ultimate tensile strength measurement for TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_037",
+    "question": "At what temperature is the ultimate tensile strength of 928 MPa in TiNbV0.5Ta0.5Cr0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_038",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.2,'s ultimate tensile strength of 928 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_039",
+    "question": "What temperature conditions were used to measure the ultimate tensile strength of 928 MPa in TiNbV0.5Ta0.5Cr0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_040",
+    "question": "What is the ultimate tensile strength of TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_041",
+    "question": "Can you tell me the ultimate tensile strength value for TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_042",
+    "question": "What ultimate tensile strength does TiNbV0.5Ta0.5Cr0.5, exhibit at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_043",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.5,, what is its ultimate tensile strength at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_044",
+    "question": "Could you provide the ultimate tensile strength measurement for TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "928 MPa",
+    "answer_start": 277
+   },
+   {
+    "id": "84_045",
+    "question": "At what temperature is the ultimate tensile strength of 928 MPa in TiNbV0.5Ta0.5Cr0.5, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_046",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.5,'s ultimate tensile strength of 928 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_047",
+    "question": "What temperature conditions were used to measure the ultimate tensile strength of 928 MPa in TiNbV0.5Ta0.5Cr0.5,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_048",
+    "question": "What is the yield strength of TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_049",
+    "question": "Can you tell me the yield strength value for TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_050",
+    "question": "What yield strength does TiNbV0.5Ta0.5Cr0.1, exhibit at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_051",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.1,, what is its yield strength at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_052",
+    "question": "Could you provide the yield strength measurement for TiNbV0.5Ta0.5Cr0.1, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_053",
+    "question": "At what temperature is the yield strength of 878 MPa in TiNbV0.5Ta0.5Cr0.1, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_054",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.1,'s yield strength of 878 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_055",
+    "question": "What temperature conditions were used to measure the yield strength of 878 MPa in TiNbV0.5Ta0.5Cr0.1,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_056",
+    "question": "What is the yield strength of TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_057",
+    "question": "Can you tell me the yield strength value for TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_058",
+    "question": "What yield strength does TiNbV0.5Ta0.5Cr0.2, exhibit at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_059",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.2,, what is its yield strength at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_060",
+    "question": "Could you provide the yield strength measurement for TiNbV0.5Ta0.5Cr0.2, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_061",
+    "question": "At what temperature is the yield strength of 878 MPa in TiNbV0.5Ta0.5Cr0.2, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_062",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.2,'s yield strength of 878 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_063",
+    "question": "What temperature conditions were used to measure the yield strength of 878 MPa in TiNbV0.5Ta0.5Cr0.2,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_064",
+    "question": "What is the yield strength of TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_065",
+    "question": "Can you tell me the yield strength value for TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_066",
+    "question": "What yield strength does TiNbV0.5Ta0.5Cr0.5, exhibit at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_067",
+    "question": "For the alloy TiNbV0.5Ta0.5Cr0.5,, what is its yield strength at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_068",
+    "question": "Could you provide the yield strength measurement for TiNbV0.5Ta0.5Cr0.5, at Room Temperature?",
+    "answer": "878 MPa",
+    "answer_start": 175
+   },
+   {
+    "id": "84_069",
+    "question": "At what temperature is the yield strength of 878 MPa in TiNbV0.5Ta0.5Cr0.5, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_070",
+    "question": "What is the measurement temperature for TiNbV0.5Ta0.5Cr0.5,'s yield strength of 878 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   },
+   {
+    "id": "84_071",
+    "question": "What temperature conditions were used to measure the yield strength of 878 MPa in TiNbV0.5Ta0.5Cr0.5,?",
+    "answer": "Room Temperature",
+    "answer_start": 152
+   }
+  ]
+ },
+ {
+  "cid": 63,
+  "context": "[{name:Al5Mo5Nb36Hf13Ti46,,composition:{Al:5,Mo:5,Nb:36,Hf:13,Ti:46},performance_properties:{ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:20 %}]},yield_strength:{type:yield strength,measurements:[{temperature:Room Temperature,value:680 MPa},{temperature:Cold Rolled and Heat Treated,value:892 MPa},{temperature:873 K,value:666 MPa},{temperature:1073 K,value:450 MPa}]}}},{name:Al5Mo7Nb36Hf13Ti46,,composition:{Al:5,Mo:7,Nb:36,Hf:13,Ti:46},performance_properties:{ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:15 %}]},yield_strength:{type:yield strength,measurements:[{temperature:Room Temperature,value:820 MPa},{temperature:Cold Rolled and Heat Treated,value:900 MPa},{temperature:873 K,value:710 MPa},{temperature:1073 K,value:450 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "101_000",
+    "question": "What is the ductility of Al5Mo5Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "20 %",
+    "answer_start": 169
+   },
+   {
+    "id": "101_001",
+    "question": "Can you tell me the ductility value for Al5Mo5Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "20 %",
+    "answer_start": 169
+   },
+   {
+    "id": "101_002",
+    "question": "What ductility does Al5Mo5Nb36Hf13Ti46, exhibit at Room Temperature?",
+    "answer": "20 %",
+    "answer_start": 169
+   },
+   {
+    "id": "101_003",
+    "question": "For the alloy Al5Mo5Nb36Hf13Ti46,, what is its ductility at Room Temperature?",
+    "answer": "20 %",
+    "answer_start": 169
+   },
+   {
+    "id": "101_004",
+    "question": "Could you provide the ductility measurement for Al5Mo5Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "20 %",
+    "answer_start": 169
+   },
+   {
+    "id": "101_005",
+    "question": "At what temperature is the ductility of 20 % in Al5Mo5Nb36Hf13Ti46, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_006",
+    "question": "What is the measurement temperature for Al5Mo5Nb36Hf13Ti46,'s ductility of 20 %?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_007",
+    "question": "What temperature conditions were used to measure the ductility of 20 % in Al5Mo5Nb36Hf13Ti46,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_008",
+    "question": "What is the ductility of Al5Mo7Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "15 %",
+    "answer_start": 570
+   },
+   {
+    "id": "101_009",
+    "question": "Can you tell me the ductility value for Al5Mo7Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "15 %",
+    "answer_start": 570
+   },
+   {
+    "id": "101_010",
+    "question": "What ductility does Al5Mo7Nb36Hf13Ti46, exhibit at Room Temperature?",
+    "answer": "15 %",
+    "answer_start": 570
+   },
+   {
+    "id": "101_011",
+    "question": "For the alloy Al5Mo7Nb36Hf13Ti46,, what is its ductility at Room Temperature?",
+    "answer": "15 %",
+    "answer_start": 570
+   },
+   {
+    "id": "101_012",
+    "question": "Could you provide the ductility measurement for Al5Mo7Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "15 %",
+    "answer_start": 570
+   },
+   {
+    "id": "101_013",
+    "question": "At what temperature is the ductility of 15 % in Al5Mo7Nb36Hf13Ti46, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_014",
+    "question": "What is the measurement temperature for Al5Mo7Nb36Hf13Ti46,'s ductility of 15 %?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_015",
+    "question": "What temperature conditions were used to measure the ductility of 15 % in Al5Mo7Nb36Hf13Ti46,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_016",
+    "question": "What is the yield strength of Al5Mo5Nb36Hf13Ti46, at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_017",
+    "question": "Can you tell me the yield strength value for Al5Mo5Nb36Hf13Ti46, at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_018",
+    "question": "What yield strength does Al5Mo5Nb36Hf13Ti46, exhibit at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_019",
+    "question": "For the alloy Al5Mo5Nb36Hf13Ti46,, what is its yield strength at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_020",
+    "question": "Could you provide the yield strength measurement for Al5Mo5Nb36Hf13Ti46, at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_021",
+    "question": "At what temperature is the yield strength of 450 MPa in Al5Mo5Nb36Hf13Ti46, measured?",
+    "answer": "1073 K",
+    "answer_start": 376
+   },
+   {
+    "id": "101_022",
+    "question": "What is the measurement temperature for Al5Mo5Nb36Hf13Ti46,'s yield strength of 450 MPa?",
+    "answer": "1073 K",
+    "answer_start": 376
+   },
+   {
+    "id": "101_023",
+    "question": "What temperature conditions were used to measure the yield strength of 450 MPa in Al5Mo5Nb36Hf13Ti46,?",
+    "answer": "1073 K",
+    "answer_start": 376
+   },
+   {
+    "id": "101_024",
+    "question": "What is the yield strength of Al5Mo7Nb36Hf13Ti46, at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_025",
+    "question": "Can you tell me the yield strength value for Al5Mo7Nb36Hf13Ti46, at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_026",
+    "question": "What yield strength does Al5Mo7Nb36Hf13Ti46, exhibit at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_027",
+    "question": "For the alloy Al5Mo7Nb36Hf13Ti46,, what is its yield strength at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_028",
+    "question": "Could you provide the yield strength measurement for Al5Mo7Nb36Hf13Ti46, at 1073 K?",
+    "answer": "450 MPa",
+    "answer_start": 389
+   },
+   {
+    "id": "101_029",
+    "question": "At what temperature is the yield strength of 450 MPa in Al5Mo7Nb36Hf13Ti46, measured?",
+    "answer": "1073 K",
+    "answer_start": 376
+   },
+   {
+    "id": "101_030",
+    "question": "What is the measurement temperature for Al5Mo7Nb36Hf13Ti46,'s yield strength of 450 MPa?",
+    "answer": "1073 K",
+    "answer_start": 376
+   },
+   {
+    "id": "101_031",
+    "question": "What temperature conditions were used to measure the yield strength of 450 MPa in Al5Mo7Nb36Hf13Ti46,?",
+    "answer": "1073 K",
+    "answer_start": 376
+   },
+   {
+    "id": "101_032",
+    "question": "What is the yield strength of Al5Mo5Nb36Hf13Ti46, at 873 K?",
+    "answer": "666 MPa",
+    "answer_start": 354
+   },
+   {
+    "id": "101_033",
+    "question": "Can you tell me the yield strength value for Al5Mo5Nb36Hf13Ti46, at 873 K?",
+    "answer": "666 MPa",
+    "answer_start": 354
+   },
+   {
+    "id": "101_034",
+    "question": "What yield strength does Al5Mo5Nb36Hf13Ti46, exhibit at 873 K?",
+    "answer": "666 MPa",
+    "answer_start": 354
+   },
+   {
+    "id": "101_035",
+    "question": "For the alloy Al5Mo5Nb36Hf13Ti46,, what is its yield strength at 873 K?",
+    "answer": "666 MPa",
+    "answer_start": 354
+   },
+   {
+    "id": "101_036",
+    "question": "Could you provide the yield strength measurement for Al5Mo5Nb36Hf13Ti46, at 873 K?",
+    "answer": "666 MPa",
+    "answer_start": 354
+   },
+   {
+    "id": "101_037",
+    "question": "At what temperature is the yield strength of 666 MPa in Al5Mo5Nb36Hf13Ti46, measured?",
+    "answer": "873 K",
+    "answer_start": 342
+   },
+   {
+    "id": "101_038",
+    "question": "What is the measurement temperature for Al5Mo5Nb36Hf13Ti46,'s yield strength of 666 MPa?",
+    "answer": "873 K",
+    "answer_start": 342
+   },
+   {
+    "id": "101_039",
+    "question": "What temperature conditions were used to measure the yield strength of 666 MPa in Al5Mo5Nb36Hf13Ti46,?",
+    "answer": "873 K",
+    "answer_start": 342
+   },
+   {
+    "id": "101_040",
+    "question": "What is the yield strength of Al5Mo7Nb36Hf13Ti46, at 873 K?",
+    "answer": "710 MPa",
+    "answer_start": 755
+   },
+   {
+    "id": "101_041",
+    "question": "Can you tell me the yield strength value for Al5Mo7Nb36Hf13Ti46, at 873 K?",
+    "answer": "710 MPa",
+    "answer_start": 755
+   },
+   {
+    "id": "101_042",
+    "question": "What yield strength does Al5Mo7Nb36Hf13Ti46, exhibit at 873 K?",
+    "answer": "710 MPa",
+    "answer_start": 755
+   },
+   {
+    "id": "101_043",
+    "question": "For the alloy Al5Mo7Nb36Hf13Ti46,, what is its yield strength at 873 K?",
+    "answer": "710 MPa",
+    "answer_start": 755
+   },
+   {
+    "id": "101_044",
+    "question": "Could you provide the yield strength measurement for Al5Mo7Nb36Hf13Ti46, at 873 K?",
+    "answer": "710 MPa",
+    "answer_start": 755
+   },
+   {
+    "id": "101_045",
+    "question": "At what temperature is the yield strength of 710 MPa in Al5Mo7Nb36Hf13Ti46, measured?",
+    "answer": "873 K",
+    "answer_start": 342
+   },
+   {
+    "id": "101_046",
+    "question": "What is the measurement temperature for Al5Mo7Nb36Hf13Ti46,'s yield strength of 710 MPa?",
+    "answer": "873 K",
+    "answer_start": 342
+   },
+   {
+    "id": "101_047",
+    "question": "What temperature conditions were used to measure the yield strength of 710 MPa in Al5Mo7Nb36Hf13Ti46,?",
+    "answer": "873 K",
+    "answer_start": 342
+   },
+   {
+    "id": "101_048",
+    "question": "What is the yield strength of Al5Mo5Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "680 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "101_049",
+    "question": "Can you tell me the yield strength value for Al5Mo5Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "680 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "101_050",
+    "question": "What yield strength does Al5Mo5Nb36Hf13Ti46, exhibit at Room Temperature?",
+    "answer": "680 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "101_051",
+    "question": "For the alloy Al5Mo5Nb36Hf13Ti46,, what is its yield strength at Room Temperature?",
+    "answer": "680 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "101_052",
+    "question": "Could you provide the yield strength measurement for Al5Mo5Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "680 MPa",
+    "answer_start": 263
+   },
+   {
+    "id": "101_053",
+    "question": "At what temperature is the yield strength of 680 MPa in Al5Mo5Nb36Hf13Ti46, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_054",
+    "question": "What is the measurement temperature for Al5Mo5Nb36Hf13Ti46,'s yield strength of 680 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_055",
+    "question": "What temperature conditions were used to measure the yield strength of 680 MPa in Al5Mo5Nb36Hf13Ti46,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_056",
+    "question": "What is the yield strength of Al5Mo7Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "820 MPa",
+    "answer_start": 664
+   },
+   {
+    "id": "101_057",
+    "question": "Can you tell me the yield strength value for Al5Mo7Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "820 MPa",
+    "answer_start": 664
+   },
+   {
+    "id": "101_058",
+    "question": "What yield strength does Al5Mo7Nb36Hf13Ti46, exhibit at Room Temperature?",
+    "answer": "820 MPa",
+    "answer_start": 664
+   },
+   {
+    "id": "101_059",
+    "question": "For the alloy Al5Mo7Nb36Hf13Ti46,, what is its yield strength at Room Temperature?",
+    "answer": "820 MPa",
+    "answer_start": 664
+   },
+   {
+    "id": "101_060",
+    "question": "Could you provide the yield strength measurement for Al5Mo7Nb36Hf13Ti46, at Room Temperature?",
+    "answer": "820 MPa",
+    "answer_start": 664
+   },
+   {
+    "id": "101_061",
+    "question": "At what temperature is the yield strength of 820 MPa in Al5Mo7Nb36Hf13Ti46, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_062",
+    "question": "What is the measurement temperature for Al5Mo7Nb36Hf13Ti46,'s yield strength of 820 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   },
+   {
+    "id": "101_063",
+    "question": "What temperature conditions were used to measure the yield strength of 820 MPa in Al5Mo7Nb36Hf13Ti46,?",
+    "answer": "Room Temperature",
+    "answer_start": 146
+   }
+  ]
+ },
+ {
+  "cid": 65,
+  "context": "[{name:TiTaZrHfW,composition:{Ti:1,Ta:1,Zr:1,Hf:1,W:1},performance_properties:{hardness:{type:hardness,measurements:[{temperature:800 °C,value:29 GPa}]},youngs_modulus:{type:modulus,measurements:[{temperature:800 °C,value:257 GPa}]}}}]",
+  "qas": [
+   {
+    "id": "103_000",
+    "question": "What is the hardness of TiTaZrHfW at 800 °C?",
+    "answer": "29 GPa",
+    "answer_start": 143
+   },
+   {
+    "id": "103_001",
+    "question": "Can you tell me the hardness value for TiTaZrHfW at 800 °C?",
+    "answer": "29 GPa",
+    "answer_start": 143
+   },
+   {
+    "id": "103_002",
+    "question": "What hardness does TiTaZrHfW exhibit at 800 °C?",
+    "answer": "29 GPa",
+    "answer_start": 143
+   },
+   {
+    "id": "103_003",
+    "question": "For the alloy TiTaZrHfW, what is its hardness at 800 °C?",
+    "answer": "29 GPa",
+    "answer_start": 143
+   },
+   {
+    "id": "103_004",
+    "question": "Could you provide the hardness measurement for TiTaZrHfW at 800 °C?",
+    "answer": "29 GPa",
+    "answer_start": 143
+   },
+   {
+    "id": "103_005",
+    "question": "At what temperature is the hardness of 29 GPa in TiTaZrHfW measured?",
+    "answer": "800 °C",
+    "answer_start": 130
+   },
+   {
+    "id": "103_006",
+    "question": "What is the measurement temperature for TiTaZrHfW's hardness of 29 GPa?",
+    "answer": "800 °C",
+    "answer_start": 130
+   },
+   {
+    "id": "103_007",
+    "question": "What temperature conditions were used to measure the hardness of 29 GPa in TiTaZrHfW?",
+    "answer": "800 °C",
+    "answer_start": 130
+   },
+   {
+    "id": "103_008",
+    "question": "What is the youngs modulus of TiTaZrHfW at 800 °C?",
+    "answer": "257 GPa",
+    "answer_start": 222
+   },
+   {
+    "id": "103_009",
+    "question": "Can you tell me the youngs modulus value for TiTaZrHfW at 800 °C?",
+    "answer": "257 GPa",
+    "answer_start": 222
+   },
+   {
+    "id": "103_010",
+    "question": "What youngs modulus does TiTaZrHfW exhibit at 800 °C?",
+    "answer": "257 GPa",
+    "answer_start": 222
+   },
+   {
+    "id": "103_011",
+    "question": "For the alloy TiTaZrHfW, what is its youngs modulus at 800 °C?",
+    "answer": "257 GPa",
+    "answer_start": 222
+   },
+   {
+    "id": "103_012",
+    "question": "Could you provide the youngs modulus measurement for TiTaZrHfW at 800 °C?",
+    "answer": "257 GPa",
+    "answer_start": 222
+   },
+   {
+    "id": "103_013",
+    "question": "At what temperature is the youngs modulus of 257 GPa in TiTaZrHfW measured?",
+    "answer": "800 °C",
+    "answer_start": 130
+   },
+   {
+    "id": "103_014",
+    "question": "What is the measurement temperature for TiTaZrHfW's youngs modulus of 257 GPa?",
+    "answer": "800 °C",
+    "answer_start": 130
+   },
+   {
+    "id": "103_015",
+    "question": "What temperature conditions were used to measure the youngs modulus of 257 GPa in TiTaZrHfW?",
+    "answer": "800 °C",
+    "answer_start": 130
+   }
+  ]
+ },
+ {
+  "cid": 66,
+  "context": "[{name:NbTaTiV,composition:{Nb:1,Ta:1,Ti:1,V:1},performance_properties:{yield_strength:{type:strength,measurements:[{temperature:25 °C,value:2075 MPa}]},compressive_plasticity:{type:plasticity,measurements:[{temperature:25 °C,value:15 %}]},high_strength_range:{type:strength,measurements:[{temperature:1000 °C,value:2075 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "105_000",
+    "question": "What is the compressive plasticity of NbTaTiV at 25 °C?",
+    "answer": "15 %",
+    "answer_start": 232
+   },
+   {
+    "id": "105_001",
+    "question": "Can you tell me the compressive plasticity value for NbTaTiV at 25 °C?",
+    "answer": "15 %",
+    "answer_start": 232
+   },
+   {
+    "id": "105_002",
+    "question": "What compressive plasticity does NbTaTiV exhibit at 25 °C?",
+    "answer": "15 %",
+    "answer_start": 232
+   },
+   {
+    "id": "105_003",
+    "question": "For the alloy NbTaTiV, what is its compressive plasticity at 25 °C?",
+    "answer": "15 %",
+    "answer_start": 232
+   },
+   {
+    "id": "105_004",
+    "question": "Could you provide the compressive plasticity measurement for NbTaTiV at 25 °C?",
+    "answer": "15 %",
+    "answer_start": 232
+   },
+   {
+    "id": "105_005",
+    "question": "At what temperature is the compressive plasticity of 15 % in NbTaTiV measured?",
+    "answer": "25 °C",
+    "answer_start": 129
+   },
+   {
+    "id": "105_006",
+    "question": "What is the measurement temperature for NbTaTiV's compressive plasticity of 15 %?",
+    "answer": "25 °C",
+    "answer_start": 129
+   },
+   {
+    "id": "105_007",
+    "question": "What temperature conditions were used to measure the compressive plasticity of 15 % in NbTaTiV?",
+    "answer": "25 °C",
+    "answer_start": 129
+   },
+   {
+    "id": "105_008",
+    "question": "What is the high strength range of NbTaTiV at 1000 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_009",
+    "question": "Can you tell me the high strength range value for NbTaTiV at 1000 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_010",
+    "question": "What high strength range does NbTaTiV exhibit at 1000 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_011",
+    "question": "For the alloy NbTaTiV, what is its high strength range at 1000 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_012",
+    "question": "Could you provide the high strength range measurement for NbTaTiV at 1000 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_013",
+    "question": "At what temperature is the high strength range of 2075 MPa in NbTaTiV measured?",
+    "answer": "1000 °C",
+    "answer_start": 302
+   },
+   {
+    "id": "105_014",
+    "question": "What is the measurement temperature for NbTaTiV's high strength range of 2075 MPa?",
+    "answer": "1000 °C",
+    "answer_start": 302
+   },
+   {
+    "id": "105_015",
+    "question": "What temperature conditions were used to measure the high strength range of 2075 MPa in NbTaTiV?",
+    "answer": "1000 °C",
+    "answer_start": 302
+   },
+   {
+    "id": "105_016",
+    "question": "What is the yield strength of NbTaTiV at 25 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_017",
+    "question": "Can you tell me the yield strength value for NbTaTiV at 25 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_018",
+    "question": "What yield strength does NbTaTiV exhibit at 25 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_019",
+    "question": "For the alloy NbTaTiV, what is its yield strength at 25 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_020",
+    "question": "Could you provide the yield strength measurement for NbTaTiV at 25 °C?",
+    "answer": "2075 MPa",
+    "answer_start": 141
+   },
+   {
+    "id": "105_021",
+    "question": "At what temperature is the yield strength of 2075 MPa in NbTaTiV measured?",
+    "answer": "25 °C",
+    "answer_start": 129
+   },
+   {
+    "id": "105_022",
+    "question": "What is the measurement temperature for NbTaTiV's yield strength of 2075 MPa?",
+    "answer": "25 °C",
+    "answer_start": 129
+   },
+   {
+    "id": "105_023",
+    "question": "What temperature conditions were used to measure the yield strength of 2075 MPa in NbTaTiV?",
+    "answer": "25 °C",
+    "answer_start": 129
+   }
+  ]
+ },
+ {
+  "cid": 89,
+  "context": "[{name:Ti1.6ZrNbAl0.3,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.3},performance_properties:{tensile_yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:800 MPa}]},tensile_ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:10 %}]},compressive_peak_stress:{type:strength,measurements:[{temperature:600 °C,value:500 MPa}]}}},{name:Ti1.6ZrNbAl0.4,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.4},performance_properties:{tensile_yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:800 MPa}]},tensile_ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:10 %}]},compressive_peak_stress:{type:strength,measurements:[{temperature:600 °C,value:500 MPa}]}}},{name:Ti1.6ZrNbAl0.5,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.5},performance_properties:{tensile_yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:800 MPa}]},tensile_ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:10 %}]},compressive_peak_stress:{type:strength,measurements:[{temperature:600 °C,value:500 MPa}]}}},{name:Ti1.6ZrNbAl0.65,,composition:{Ti:1.6,Zr:1,Nb:1,Al:0.65},performance_properties:{tensile_yield_strength:{type:strength,measurements:[{temperature:Room Temperature,value:800 MPa}]},tensile_ductility:{type:ductility,measurements:[{temperature:Room Temperature,value:10 %}]},compressive_peak_stress:{type:strength,measurements:[{temperature:600 °C,value:500 MPa}]}}}]",
+  "qas": [
+   {
+    "id": "138_000",
+    "question": "What is the compressive peak stress of Ti1.6ZrNbAl0.3, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_001",
+    "question": "Can you tell me the compressive peak stress value for Ti1.6ZrNbAl0.3, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_002",
+    "question": "What compressive peak stress does Ti1.6ZrNbAl0.3, exhibit at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_003",
+    "question": "For the alloy Ti1.6ZrNbAl0.3,, what is its compressive peak stress at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_004",
+    "question": "Could you provide the compressive peak stress measurement for Ti1.6ZrNbAl0.3, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_005",
+    "question": "At what temperature is the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.3, measured?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_006",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.3,'s compressive peak stress of 500 MPa?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_007",
+    "question": "What temperature conditions were used to measure the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.3,?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_008",
+    "question": "What is the compressive peak stress of Ti1.6ZrNbAl0.4, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_009",
+    "question": "Can you tell me the compressive peak stress value for Ti1.6ZrNbAl0.4, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_010",
+    "question": "What compressive peak stress does Ti1.6ZrNbAl0.4, exhibit at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_011",
+    "question": "For the alloy Ti1.6ZrNbAl0.4,, what is its compressive peak stress at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_012",
+    "question": "Could you provide the compressive peak stress measurement for Ti1.6ZrNbAl0.4, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_013",
+    "question": "At what temperature is the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.4, measured?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_014",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4,'s compressive peak stress of 500 MPa?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_015",
+    "question": "What temperature conditions were used to measure the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.4,?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_016",
+    "question": "What is the compressive peak stress of Ti1.6ZrNbAl0.5, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_017",
+    "question": "Can you tell me the compressive peak stress value for Ti1.6ZrNbAl0.5, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_018",
+    "question": "What compressive peak stress does Ti1.6ZrNbAl0.5, exhibit at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_019",
+    "question": "For the alloy Ti1.6ZrNbAl0.5,, what is its compressive peak stress at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_020",
+    "question": "Could you provide the compressive peak stress measurement for Ti1.6ZrNbAl0.5, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_021",
+    "question": "At what temperature is the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.5, measured?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_022",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.5,'s compressive peak stress of 500 MPa?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_023",
+    "question": "What temperature conditions were used to measure the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.5,?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_024",
+    "question": "What is the compressive peak stress of Ti1.6ZrNbAl0.65, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_025",
+    "question": "Can you tell me the compressive peak stress value for Ti1.6ZrNbAl0.65, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_026",
+    "question": "What compressive peak stress does Ti1.6ZrNbAl0.65, exhibit at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_027",
+    "question": "For the alloy Ti1.6ZrNbAl0.65,, what is its compressive peak stress at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_028",
+    "question": "Could you provide the compressive peak stress measurement for Ti1.6ZrNbAl0.65, at 600 °C?",
+    "answer": "500 MPa",
+    "answer_start": 355
+   },
+   {
+    "id": "138_029",
+    "question": "At what temperature is the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.65, measured?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_030",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.65,'s compressive peak stress of 500 MPa?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_031",
+    "question": "What temperature conditions were used to measure the compressive peak stress of 500 MPa in Ti1.6ZrNbAl0.65,?",
+    "answer": "600 °C",
+    "answer_start": 342
+   },
+   {
+    "id": "138_032",
+    "question": "What is the tensile ductility of Ti1.6ZrNbAl0.3, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_033",
+    "question": "Can you tell me the tensile ductility value for Ti1.6ZrNbAl0.3, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_034",
+    "question": "What tensile ductility does Ti1.6ZrNbAl0.3, exhibit at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_035",
+    "question": "For the alloy Ti1.6ZrNbAl0.3,, what is its tensile ductility at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_036",
+    "question": "Could you provide the tensile ductility measurement for Ti1.6ZrNbAl0.3, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_037",
+    "question": "At what temperature is the tensile ductility of 10 % in Ti1.6ZrNbAl0.3, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_038",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.3,'s tensile ductility of 10 %?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_039",
+    "question": "What temperature conditions were used to measure the tensile ductility of 10 % in Ti1.6ZrNbAl0.3,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_040",
+    "question": "What is the tensile ductility of Ti1.6ZrNbAl0.4, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_041",
+    "question": "Can you tell me the tensile ductility value for Ti1.6ZrNbAl0.4, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_042",
+    "question": "What tensile ductility does Ti1.6ZrNbAl0.4, exhibit at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_043",
+    "question": "For the alloy Ti1.6ZrNbAl0.4,, what is its tensile ductility at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_044",
+    "question": "Could you provide the tensile ductility measurement for Ti1.6ZrNbAl0.4, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_045",
+    "question": "At what temperature is the tensile ductility of 10 % in Ti1.6ZrNbAl0.4, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_046",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4,'s tensile ductility of 10 %?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_047",
+    "question": "What temperature conditions were used to measure the tensile ductility of 10 % in Ti1.6ZrNbAl0.4,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_048",
+    "question": "What is the tensile ductility of Ti1.6ZrNbAl0.5, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_049",
+    "question": "Can you tell me the tensile ductility value for Ti1.6ZrNbAl0.5, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_050",
+    "question": "What tensile ductility does Ti1.6ZrNbAl0.5, exhibit at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_051",
+    "question": "For the alloy Ti1.6ZrNbAl0.5,, what is its tensile ductility at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_052",
+    "question": "Could you provide the tensile ductility measurement for Ti1.6ZrNbAl0.5, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_053",
+    "question": "At what temperature is the tensile ductility of 10 % in Ti1.6ZrNbAl0.5, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_054",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.5,'s tensile ductility of 10 %?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_055",
+    "question": "What temperature conditions were used to measure the tensile ductility of 10 % in Ti1.6ZrNbAl0.5,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_056",
+    "question": "What is the tensile ductility of Ti1.6ZrNbAl0.65, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_057",
+    "question": "Can you tell me the tensile ductility value for Ti1.6ZrNbAl0.65, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_058",
+    "question": "What tensile ductility does Ti1.6ZrNbAl0.65, exhibit at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_059",
+    "question": "For the alloy Ti1.6ZrNbAl0.65,, what is its tensile ductility at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_060",
+    "question": "Could you provide the tensile ductility measurement for Ti1.6ZrNbAl0.65, at Room Temperature?",
+    "answer": "10 %",
+    "answer_start": 268
+   },
+   {
+    "id": "138_061",
+    "question": "At what temperature is the tensile ductility of 10 % in Ti1.6ZrNbAl0.65, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_062",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.65,'s tensile ductility of 10 %?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_063",
+    "question": "What temperature conditions were used to measure the tensile ductility of 10 % in Ti1.6ZrNbAl0.65,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_064",
+    "question": "What is the tensile yield strength of Ti1.6ZrNbAl0.3, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_065",
+    "question": "Can you tell me the tensile yield strength value for Ti1.6ZrNbAl0.3, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_066",
+    "question": "What tensile yield strength does Ti1.6ZrNbAl0.3, exhibit at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_067",
+    "question": "For the alloy Ti1.6ZrNbAl0.3,, what is its tensile yield strength at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_068",
+    "question": "Could you provide the tensile yield strength measurement for Ti1.6ZrNbAl0.3, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_069",
+    "question": "At what temperature is the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.3, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_070",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.3,'s tensile yield strength of 800 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_071",
+    "question": "What temperature conditions were used to measure the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.3,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_072",
+    "question": "What is the tensile yield strength of Ti1.6ZrNbAl0.4, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_073",
+    "question": "Can you tell me the tensile yield strength value for Ti1.6ZrNbAl0.4, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_074",
+    "question": "What tensile yield strength does Ti1.6ZrNbAl0.4, exhibit at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_075",
+    "question": "For the alloy Ti1.6ZrNbAl0.4,, what is its tensile yield strength at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_076",
+    "question": "Could you provide the tensile yield strength measurement for Ti1.6ZrNbAl0.4, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_077",
+    "question": "At what temperature is the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.4, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_078",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.4,'s tensile yield strength of 800 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_079",
+    "question": "What temperature conditions were used to measure the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.4,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_080",
+    "question": "What is the tensile yield strength of Ti1.6ZrNbAl0.5, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_081",
+    "question": "Can you tell me the tensile yield strength value for Ti1.6ZrNbAl0.5, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_082",
+    "question": "What tensile yield strength does Ti1.6ZrNbAl0.5, exhibit at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_083",
+    "question": "For the alloy Ti1.6ZrNbAl0.5,, what is its tensile yield strength at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_084",
+    "question": "Could you provide the tensile yield strength measurement for Ti1.6ZrNbAl0.5, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_085",
+    "question": "At what temperature is the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.5, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_086",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.5,'s tensile yield strength of 800 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_087",
+    "question": "What temperature conditions were used to measure the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.5,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_088",
+    "question": "What is the tensile yield strength of Ti1.6ZrNbAl0.65, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_089",
+    "question": "Can you tell me the tensile yield strength value for Ti1.6ZrNbAl0.65, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_090",
+    "question": "What tensile yield strength does Ti1.6ZrNbAl0.65, exhibit at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_091",
+    "question": "For the alloy Ti1.6ZrNbAl0.65,, what is its tensile yield strength at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_092",
+    "question": "Could you provide the tensile yield strength measurement for Ti1.6ZrNbAl0.65, at Room Temperature?",
+    "answer": "800 MPa",
+    "answer_start": 173
+   },
+   {
+    "id": "138_093",
+    "question": "At what temperature is the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.65, measured?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_094",
+    "question": "What is the measurement temperature for Ti1.6ZrNbAl0.65,'s tensile yield strength of 800 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   },
+   {
+    "id": "138_095",
+    "question": "What temperature conditions were used to measure the tensile yield strength of 800 MPa in Ti1.6ZrNbAl0.65,?",
+    "answer": "Room Temperature",
+    "answer_start": 150
+   }
+  ]
+ },
+ {
+  "cid": 97,
+  "context": "[{name:TiZrVMnCu-0.5Er,composition:{Ti:1,Zr:1,V:1,Mn:1,Cu:1,Er:0.005},performance_properties:{compressive_strength:{type:strength,measurements:[{temperature:Room Temperature,value:1520.5 MPa}]},strain:{type:deformation,measurements:[{temperature:Room Temperature,value:14.7 %}]},microhardness:{type:hardness,measurements:[{temperature:Room Temperature,value:<Value> <Unit>}]}}}]",
+  "qas": [
+   {
+    "id": "151_000",
+    "question": "What is the compressive strength of TiZrVMnCu-0.5Er at Room Temperature?",
+    "answer": "1520.5 MPa",
+    "answer_start": 180
+   },
+   {
+    "id": "151_001",
+    "question": "Can you tell me the compressive strength value for TiZrVMnCu-0.5Er at Room Temperature?",
+    "answer": "1520.5 MPa",
+    "answer_start": 180
+   },
+   {
+    "id": "151_002",
+    "question": "What compressive strength does TiZrVMnCu-0.5Er exhibit at Room Temperature?",
+    "answer": "1520.5 MPa",
+    "answer_start": 180
+   },
+   {
+    "id": "151_003",
+    "question": "For the alloy TiZrVMnCu-0.5Er, what is its compressive strength at Room Temperature?",
+    "answer": "1520.5 MPa",
+    "answer_start": 180
+   },
+   {
+    "id": "151_004",
+    "question": "Could you provide the compressive strength measurement for TiZrVMnCu-0.5Er at Room Temperature?",
+    "answer": "1520.5 MPa",
+    "answer_start": 180
+   },
+   {
+    "id": "151_005",
+    "question": "At what temperature is the compressive strength of 1520.5 MPa in TiZrVMnCu-0.5Er measured?",
+    "answer": "Room Temperature",
+    "answer_start": 157
+   },
+   {
+    "id": "151_006",
+    "question": "What is the measurement temperature for TiZrVMnCu-0.5Er's compressive strength of 1520.5 MPa?",
+    "answer": "Room Temperature",
+    "answer_start": 157
+   },
+   {
+    "id": "151_007",
+    "question": "What temperature conditions were used to measure the compressive strength of 1520.5 MPa in TiZrVMnCu-0.5Er?",
+    "answer": "Room Temperature",
+    "answer_start": 157
+   },
+   {
+    "id": "151_008",
+    "question": "What is the strain of TiZrVMnCu-0.5Er at Room Temperature?",
+    "answer": "14.7 %",
+    "answer_start": 269
+   },
+   {
+    "id": "151_009",
+    "question": "Can you tell me the strain value for TiZrVMnCu-0.5Er at Room Temperature?",
+    "answer": "14.7 %",
+    "answer_start": 269
+   },
+   {
+    "id": "151_010",
+    "question": "What strain does TiZrVMnCu-0.5Er exhibit at Room Temperature?",
+    "answer": "14.7 %",
+    "answer_start": 269
+   },
+   {
+    "id": "151_011",
+    "question": "For the alloy TiZrVMnCu-0.5Er, what is its strain at Room Temperature?",
+    "answer": "14.7 %",
+    "answer_start": 269
+   },
+   {
+    "id": "151_012",
+    "question": "Could you provide the strain measurement for TiZrVMnCu-0.5Er at Room Temperature?",
+    "answer": "14.7 %",
+    "answer_start": 269
+   },
+   {
+    "id": "151_013",
+    "question": "At what temperature is the strain of 14.7 % in TiZrVMnCu-0.5Er measured?",
+    "answer": "Room Temperature",
+    "answer_start": 157
+   },
+   {
+    "id": "151_014",
+    "question": "What is the measurement temperature for TiZrVMnCu-0.5Er's strain of 14.7 %?",
+    "answer": "Room Temperature",
+    "answer_start": 157
+   },
+   {
+    "id": "151_015",
+    "question": "What temperature conditions were used to measure the strain of 14.7 % in TiZrVMnCu-0.5Er?",
+    "answer": "Room Temperature",
+    "answer_start": 157
+   }
+  ]
+ }
+]
