@@ -70,6 +70,8 @@ class Phi2:
         base = AutoModelForCausalLM.from_pretrained(self.name, torch_dtype=torch.float32)
         cfg = LoraConfig(r=8, lora_alpha=16, lora_dropout=0.1, bias="none", task_type="CAUSAL_LM",
                          target_modules=["q_proj", "k_proj", "v_proj", "dense"])
+        base.gradient_checkpointing_enable()  # fp32 Phi-2 activations exceed 32 GB RAM otherwise
+        base.enable_input_require_grads()
         self.model = get_peft_model(base, cfg)
         for p in self.model.parameters():
             if p.requires_grad:
